@@ -1,0 +1,7229 @@
+{
+  "original_name": "Bill_of_Invoice (8).pdf",
+  "workbook": {
+    "workbook_title": "Invoice - 7b712fe0 96f4 426e 93a9 dbec879187e5",
+    "sheets": [
+      {
+        "name": "Invoice Summary",
+        "kind": "summary",
+        "columns": [
+          "Field",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Company",
+            "Karnataka State Beverages Corporation Limited"
+          ],
+          [
+            "Address",
+            "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+          ],
+          [
+            "KSBCL GSTIN No",
+            "29AACCK1421A1Z7"
+          ],
+          [
+            "FSSAI No",
+            "10014043001044"
+          ],
+          [
+            "Depot",
+            "KSBCL - SAKALAVARA-2"
+          ],
+          [
+            "Depot Address",
+            "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+          ],
+          [
+            "Document Title",
+            "Bill Of Invoice"
+          ],
+          [
+            "PartyID",
+            "18203"
+          ],
+          [
+            "Party Name",
+            "Venkateshwara Enterprises"
+          ],
+          [
+            "Invoice No",
+            "SSV225022806"
+          ],
+          [
+            "Permit No",
+            "022806"
+          ],
+          [
+            "Valid Date",
+            "23/03/2026"
+          ],
+          [
+            "Date",
+            "23/03/2026"
+          ],
+          [
+            "Validity",
+            "23/03/2026"
+          ],
+          [
+            "Range",
+            "46 -BTM"
+          ],
+          [
+            "Party GSTIN",
+            ""
+          ],
+          [
+            "Taluk",
+            ""
+          ],
+          [
+            "District",
+            "BUD8"
+          ],
+          [
+            "Vehicle",
+            "KA-"
+          ],
+          [
+            "P.A.N",
+            "AAEFV0828K"
+          ],
+          [
+            "Party Address",
+            "No.0,1, Khatha No. 357:9Akshayanagara, EllenahalliNear DLF, Bangalore (560068)"
+          ],
+          [
+            "Page",
+            "Page 1 of 9"
+          ],
+          [
+            "Page",
+            "Page 2 of 9"
+          ],
+          [
+            "Page",
+            "Page 3 of 9"
+          ],
+          [
+            "Page",
+            "Page 4 of 9"
+          ],
+          [
+            "Page",
+            "Page 5 of 9"
+          ],
+          [
+            "Depot Address",
+            "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara Village, Bannerghatta Road,"
+          ],
+          [
+            "Section",
+            "Btls(0532)"
+          ],
+          [
+            "Page",
+            "Page 6 of 9"
+          ],
+          [
+            "Section",
+            "500MLx24Canss(0280)"
+          ],
+          [
+            "Page",
+            "Page 7 of 9"
+          ],
+          [
+            "Page",
+            "Page 8 of 9"
+          ],
+          [
+            "Total",
+            "156 545 966585.08"
+          ],
+          [
+            "Total",
+            "831.96"
+          ],
+          [
+            "Total Beer",
+            "700.8"
+          ],
+          [
+            "Total Bulk",
+            "1532.76"
+          ],
+          [
+            "Provisional Opening Balance",
+            "1001166.3"
+          ],
+          [
+            "(+)TCS Value",
+            "9666"
+          ],
+          [
+            "Invoice Value",
+            "976251.08"
+          ],
+          [
+            "Total AROED",
+            "12347.95"
+          ],
+          [
+            "Total Value",
+            "988599.03"
+          ],
+          [
+            "Provisional Closing Balance",
+            "12567.27"
+          ],
+          [
+            "Amount In Words",
+            "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+          ],
+          [
+            "Page",
+            "Page 9 of 9"
+          ]
+        ]
+      },
+      {
+        "name": "Invoice Line Items",
+        "kind": "table",
+        "columns": [
+          "Sl No.",
+          "Item Name",
+          "Size(ml)",
+          "Rate for CB",
+          "CBs",
+          "Btls",
+          "Amount(Rs.)",
+          "AROED Per Btls"
+        ],
+        "rows": [
+          [
+            "1",
+            "Bro Code Cremant 330MLx24Btls(0605)",
+            "330",
+            "3490.04",
+            "1",
+            "0",
+            "3490.04",
+            "0.04"
+          ],
+          [
+            "2",
+            "Flingit Exotic Passion 330MLx24Btls(0042)",
+            "330",
+            "3272.82",
+            "1",
+            "0",
+            "3272.82",
+            "0"
+          ],
+          [
+            "3",
+            "Flingit Klassik 330MLx24Btls(0042)",
+            "330",
+            "3272.82",
+            "1",
+            "0",
+            "3272.82",
+            "0"
+          ],
+          [
+            "4",
+            "Goana's Wine-PET 750MLx12P.Btls(0609)",
+            "750",
+            "1634.73",
+            "1",
+            "0",
+            "1634.73",
+            "0.15"
+          ],
+          [
+            "5",
+            "Boroka Gin And Tonic 330MLx24Btls(0679)",
+            "330",
+            "3272.58",
+            "1",
+            "0",
+            "3272.58",
+            "0.01"
+          ],
+          [
+            "6",
+            "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+            "275",
+            "2836.36",
+            "1",
+            "0",
+            "2836.36",
+            "0"
+          ],
+          [
+            "7",
+            "8PM Special Rare Blend of Scotch Malts and Indian Whisky-Aseptic Brick Pack 180MLx48ABP(0502)",
+            "180",
+            "5889.22",
+            "1",
+            "0",
+            "5889.22",
+            "0.04"
+          ],
+          [
+            "8",
+            "8PM Special Rare Blend of Scotch Malts and Indian Whisky-PET 750MLx12P.Btls(0537)",
+            "750",
+            "6107.39",
+            "1",
+            "0",
+            "6107.39",
+            "0.16"
+          ],
+          [
+            "9",
+            "Amrut Amalgam Malt Whisky 750ML(0009)",
+            "750",
+            "39044.25",
+            "0",
+            "3",
+            "9761.06",
+            "0.94"
+          ],
+          [
+            "10",
+            "Amrut Amalgam Peated Malt Whisky 750ML(0009)",
+            "750",
+            "39044.25",
+            "0",
+            "2",
+            "6507.38",
+            "0.94"
+          ],
+          [
+            "11",
+            "Amrut Prestige Fine Whisky-Aseptic Pack 180MLx48 AB.Pack(0602)",
+            "180",
+            "4143.49",
+            "1",
+            "0",
+            "4143.49",
+            "0.05"
+          ],
+          [
+            "12",
+            "Amrut Prestige Fine whisky-PET-375MLx24Btls.(0602)",
+            "375",
+            "4294.37",
+            "1",
+            "0",
+            "4294.37",
+            "3.17"
+          ],
+          [
+            "13",
+            "Antiquity Blue Ultra Premium Whisky-PET 180MLx48P.Btls(0020)",
+            "180",
+            "19275.9",
+            "0",
+            "12",
+            "4818.98",
+            "3.26"
+          ],
+          [
+            "14",
+            "Bagpiper Deluxe Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+            "180",
+            "5889.22",
+            "3",
+            "0",
+            "17667.66",
+            "0.04"
+          ],
+          [
+            "15",
+            "Bagpiper Deluxe Whisky-Tetra Pack (40%)90MLx96T.Packs(0541)",
+            "90",
+            "5889.22",
+            "1",
+            "0",
+            "5889.22",
+            "2.52"
+          ],
+          [
+            "16",
+            "Bangalore Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0067)",
+            "90",
+            "3485.42",
+            "1",
+            "0",
+            "3485.42",
+            "0.06"
+          ],
+          [
+            "17",
+            "Black & White Blended Scotch Whisky 375MLx24Btls(0020)",
+            "375",
+            "26229.5",
+            "0",
+            "6",
+            "6557.37",
+            "2.81"
+          ],
+          [
+            "18",
+            "Black & White Blended Scotch Whisky 750MLx12Btls(0020)",
+            "750",
+            "26230.5",
+            "0",
+            "3",
+            "6557.63",
+            "0.54"
+          ],
+          [
+            "19",
+            "Black & White Blended Scotch Whisky-PET 180MLx48P.Btls(0020)",
+            "180",
+            "25487.81",
+            "0",
+            "12",
+            "6371.95",
+            "0.9"
+          ],
+          [
+            "20",
+            "Black & White Blended Scotch Whisky-PET 60MLx150P.Btls(0020)",
+            "60",
+            "26230.5",
+            "0",
+            "25",
+            "4371.75",
+            "2.64"
+          ],
+          [
+            "21",
+            "Cotombi Reserve Charred Whisky 750MLx12Btls(0118)",
+            "750",
+            "25576.73",
+            "0",
+            "3",
+            "6394.18",
+            "0.47"
+          ],
+          [
+            "22",
+            "DSP Black Deluxe Whisky 375MLx24Btls(0524)",
+            "375",
+            "8320.4",
+            "1",
+            "0",
+            "8320.4",
+            "3.65"
+          ],
+          [
+            "23",
+            "Dewars Blended Scotch Whisky White Label Classic 375MLx24Btls(0057)",
+            "375",
+            "26220.36",
+            "0",
+            "6",
+            "6555.09",
+            "3.23"
+          ],
+          [
+            "24",
+            "Dewars Blended Scotch Whisky White Label Classic 60MLx150Btls(0057)",
+            "60",
+            "26176.72",
+            "0",
+            "25",
+            "4362.79",
+            "3.04"
+          ],
+          [
+            "25",
+            "Fireball Cinnamon Whisky 750ML(0067)",
+            "750",
+            "12712.25",
+            "0",
+            "3",
+            "3178.06",
+            "4.71"
+          ],
+          [
+            "26",
+            "Haywards Punch Fine Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+            "180",
+            "4143.49",
+            "3",
+            "0",
+            "12430.47",
+            "0.05"
+          ],
+          [
+            "27",
+            "Haywards Punch Fine Whisky-Tetra Pack(40%) 90MLx96T.Packs(0541)",
+            "90",
+            "4143.49",
+            "8",
+            "0",
+            "33147.92",
+            "2.52"
+          ],
+          [
+            "28",
+            "Jack Daniels Tennessee Whiskey 750MLx12Btls(1012)",
+            "750",
+            "49035.53",
+            "0",
+            "3",
+            "12258.88",
+            "0.08"
+          ],
+          [
+            "29",
+            "Jameson Irish Whiskey 200MLx30Btls(0443)",
+            "200",
+            "24969.1",
+            "0",
+            "6",
+            "4993.82",
+            "4.47"
+          ],
+          [
+            "30",
+            "Jameson Irish Whiskey 750ML(0443)",
+            "750",
+            "38126.28",
+            "0",
+            "2",
+            "6354.38",
+            "0.09"
+          ],
+          [
+            "31",
+            "Johnnie Walker Blonde Blended Scotch Whisky 700MLx12Btls(0866)",
+            "700",
+            "41033.92",
+            "0",
+            "3",
+            "10258.48",
+            "3.56"
+          ],
+          [
+            "32",
+            "Johnnie Walker Red Label Blended Scotch Whisky 375ML(0866)",
+            "375",
+            "37140.58",
+            "0",
+            "6",
+            "9285.15",
+            "2.72"
+          ],
+          [
+            "33",
+            "Johnnie Walker Red Label Blended Scotch Whisky 750ML(0866)",
+            "750",
+            "37534.84",
+            "0",
+            "3",
+            "9383.71",
+            "4.31"
+          ],
+          [
+            "34",
+            "Maker's Mark Kentucky Straight Bourbon Whisky 750ML(0394)",
+            "750",
+            "60053.68",
+            "0",
+            "1",
+            "5004.47",
+            "0.08"
+          ],
+          [
+            "35",
+            "Oaksmith Gold International Blended Whisky-Pet 180MLx48Btls(0686)",
+            "180",
+            "18980.66",
+            "0",
+            "12",
+            "4745.17",
+            "0.03"
+          ],
+          [
+            "36",
+            "Oaksmith International Blended Whisky 750MLx12Btls(0663)",
+            "750",
+            "15224.73",
+            "0",
+            "6",
+            "7612.37",
+            "4.4"
+          ],
+          [
+            "37",
+            "Oaksmith International Blended Whisky-Pet 180MLx48Btls(0686)",
+            "180",
+            "14682.21",
+            "0",
+            "12",
+            "3670.55",
+            "3.53"
+          ],
+          [
+            "38",
+            "Old Tavern Whisky-Aseptic Brick Pack(40%) 180MLx48ABP(0546)",
+            "180",
+            "5009.97",
+            "1",
+            "0",
+            "5009.97",
+            "0.19"
+          ],
+          [
+            "39",
+            "Old Tavern Whisky-PET(40%) 750MLx12P.Btls(0538)",
+            "750",
+            "5194.85",
+            "1",
+            "0",
+            "5194.85",
+            "3.81"
+          ],
+          [
+            "40",
+            "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0527)",
+            "90",
+            "4143.49",
+            "8",
+            "0",
+            "33147.92",
+            "2.52"
+          ],
+          [
+            "41",
+            "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%)180MLx48ABP(0527)",
+            "180",
+            "4143.49",
+            "5",
+            "0",
+            "20717.45",
+            "0.05"
+          ],
+          [
+            "42",
+            "Original Choice Deluxe Whisky-Pet (40%) 1000MLx9P.Btls(0067)",
+            "1000",
+            "4294.37",
+            "1",
+            "0",
+            "4294.37",
+            "0.13"
+          ],
+          [
+            "43",
+            "Original Choice Deluxe Whisky-Pet (40%) 375MLx24P.Btls(0067)",
+            "375",
+            "4294.37",
+            "2",
+            "0",
+            "8588.74",
+            "3.17"
+          ],
+          [
+            "44",
+            "Original Choice Deluxe Whisky-Pet (40%) 750MLx12P.Btls(0067)",
+            "750",
+            "4294.37",
+            "1",
+            "0",
+            "4294.37",
+            "1.35"
+          ],
+          [
+            "45",
+            "Peter Scot Extra Premium Malt Whisky 750ML(0003)",
+            "750",
+            "19847.75",
+            "0",
+            "3",
+            "4961.94",
+            "0.62"
+          ],
+          [
+            "46",
+            "Royal Challenge Premium Select Whisky-PET 180MLx48P.Btls(0020)",
+            "180",
+            "12660.99",
+            "1",
+            "0",
+            "12660.99",
+            "4.85"
+          ],
+          [
+            "47",
+            "Royal Ranthambore Heritage Collection Royal Crafted Reserve Whisky 180MLx48Btls(0190)",
+            "180",
+            "25301.9",
+            "0",
+            "24",
+            "12650.95",
+            "0.16"
+          ],
+          [
+            "48",
+            "Seagram's 100 Pipers Blended Scotch Whisky Aged 12 Years 750MLx12Btls(0687)",
+            "750",
+            "38025.28",
+            "0",
+            "2",
+            "6337.55",
+            "4.35"
+          ],
+          [
+            "49",
+            "Seagram's 100 Pipers Deluxe Blended Scotch Whisky 60MLx150Btls(0091)",
+            "60",
+            "26229.5",
+            "0",
+            "50",
+            "8743.17",
+            "2.65"
+          ],
+          [
+            "50",
+            "Seagram's Blenders Pride Rare Premium Whisky 180ML(0091)",
+            "180",
+            "19013.84",
+            "1",
+            "0",
+            "19013.84",
+            "4.27"
+          ],
+          [
+            "51",
+            "Seagram's Blenders Pride Rare Premium Whisky 375ML(0091)",
+            "375",
+            "19260.37",
+            "0",
+            "6",
+            "4815.09",
+            "2.23"
+          ],
+          [
+            "52",
+            "Seagram's Blenders Pride Rare Premium Whisky 60MLx150Btls(0091)",
+            "60",
+            "19100.33",
+            "0",
+            "25",
+            "3183.39",
+            "4.93"
+          ],
+          [
+            "53",
+            "Seagram's Blenders Pride Reserve Collection Whisky 750ML(0091)",
+            "750",
+            "19872.87",
+            "0",
+            "3",
+            "4968.22",
+            "3.32"
+          ],
+          [
+            "54",
+            "Seagram's Royal Stag Barrel Select Whisky 180ML(0091)",
+            "180",
+            "14799.63",
+            "1",
+            "0",
+            "14799.63",
+            "0.84"
+          ],
+          [
+            "55",
+            "Seagram's Royal Stag Deluxe Whisky 180ML(0091)",
+            "180",
+            "12662",
+            "1",
+            "0",
+            "12662",
+            "4.83"
+          ],
+          [
+            "56",
+            "Seagram's Royal Stag Deluxe Whisky 60MLx150Btls(0091)",
+            "60",
+            "13114.25",
+            "0",
+            "50",
+            "4371.42",
+            "3.83"
+          ],
+          [
+            "57",
+            "Seagram's Royal Stag Deluxe Whisky 750ML(0091)",
+            "750",
+            "13114.25",
+            "0",
+            "6",
+            "6557.13",
+            "2.86"
+          ],
+          [
+            "58",
+            "Signature Rare Aged Whisky-PET 180MLx48P.Btls(0020)",
+            "180",
+            "18990.28",
+            "1",
+            "0",
+            "18990.28",
+            "4.81"
+          ],
+          [
+            "59",
+            "Bejois V.S.O.P Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0600)",
+            "1000",
+            "5194.85",
+            "1",
+            "0",
+            "5194.85",
+            "0.07"
+          ],
+          [
+            "60",
+            "Courrier Napoleon Finest French Brandy-Green 750MLx12Btls(0542)",
+            "750",
+            "15325.25",
+            "0",
+            "3",
+            "3831.31",
+            "0.18"
+          ],
+          [
+            "61",
+            "Honey Cup Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0602)",
+            "1000",
+            "4294.37",
+            "1",
+            "0",
+            "4294.37",
+            "0.13"
+          ],
+          [
+            "62",
+            "No.1 Mcdowells Indian Brandy-Aseptic Brick Pack 180MLx48ABP(0524)",
+            "180",
+            "8023.72",
+            "1",
+            "0",
+            "8023.72",
+            "1.12"
+          ],
+          [
+            "63",
+            "No.1 Mcdowells Indian Brandy-Tetra Pack 90MLx96T.Packs(0524)",
+            "90",
+            "8023.72",
+            "1",
+            "0",
+            "8023.72",
+            "3.06"
+          ],
+          [
+            "64",
+            "Original Choice Deluxe Indian Brandy-Pet (40%) 750MLx12P.Btls(0067)",
+            "750",
+            "4294.37",
+            "1",
+            "0",
+            "4294.37",
+            "1.35"
+          ],
+          [
+            "65",
+            "TI Mansion House True Spirit French Brandy 1000MLx9Btls(0542)",
+            "1000",
+            "10532.4",
+            "1",
+            "0",
+            "10532.4",
+            "2.71"
+          ],
+          [
+            "66",
+            "TI Mansion House True Spirit French Brandy 180MLx48Btls(0542)",
+            "180",
+            "10163.36",
+            "1",
+            "0",
+            "10163.36",
+            "2.09"
+          ],
+          [
+            "67",
+            "TI Mansion House True Spirit French Brandy-Pet 90MLx96P.Btls(0542)",
+            "90",
+            "10163.36",
+            "1",
+            "0",
+            "10163.36",
+            "3.54"
+          ],
+          [
+            "68",
+            "Amrut Two Indies Rum 180ML(0009)",
+            "180",
+            "19200.02",
+            "0",
+            "12",
+            "4800.01",
+            "0"
+          ],
+          [
+            "69",
+            "Amrut s XXX Classic Rum-Aseptic Brick Pack- 180MLx48AB.Pack(0602)",
+            "180",
+            "4143.49",
+            "3",
+            "0",
+            "12430.47",
+            "0.05"
+          ],
+          [
+            "70",
+            "Amrut s XXX Classic Rum-Aseptic Brick Pack-90MLx96AB.Pack(0602)",
+            "90",
+            "4143.49",
+            "3",
+            "0",
+            "12430.47",
+            "2.52"
+          ],
+          [
+            "71",
+            "Amruts XXX Classic Rum-PET 375MLx24 P.Btls(0602)",
+            "375",
+            "4294.37",
+            "1",
+            "0",
+            "4294.37",
+            "3.17"
+          ],
+          [
+            "72",
+            "Amruts XXX Classic Rum-PET 750MLx12 P.Btls((0602)",
+            "750",
+            "4294.37",
+            "1",
+            "0",
+            "4294.37",
+            "1.35"
+          ],
+          [
+            "73",
+            "Bagpiper XXX Rum-Tetra Pack(40%) 180MLx48Btls(0545)",
+            "180",
+            "5009.97",
+            "1",
+            "0",
+            "5009.97",
+            "0.19"
+          ],
+          [
+            "74",
+            "Carnival XXX Rum-Aseptic Brick Pack 180ML AB.Pack(0024)",
+            "180",
+            "3485.42",
+            "1",
+            "0",
+            "3485.42",
+            "0.13"
+          ],
+          [
+            "75",
+            "Carnival XXX Rum-PET 750ML(0024)",
+            "750",
+            "3610.97",
+            "1",
+            "0",
+            "3610.97",
+            "3.99"
+          ],
+          [
+            "76",
+            "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 180MLx48T.Packs(0524)",
+            "180",
+            "5888.21",
+            "2",
+            "0",
+            "11776.42",
+            "0.06"
+          ],
+          [
+            "77",
+            "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 90MLx96T.Packs(0524)",
+            "90",
+            "5888.21",
+            "1",
+            "0",
+            "5888.21",
+            "2.53"
+          ],
+          [
+            "78",
+            "Old Monk Coffee Extra Ordinary XO Coffee Flavoured Premium Rum 750MLx12Btls(0532)",
+            "750",
+            "18746.16",
+            "0",
+            "3",
+            "4686.54",
+            "1.6"
+          ],
+          [
+            "79",
+            "Old Monk Gold Reserve Rum 750MLx12Btls(0532)",
+            "750",
+            "10430.9",
+            "1",
+            "0",
+            "10430.9",
+            "3.83"
+          ],
+          [
+            "80",
+            "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 180MLx48ABP(0532)",
+            "180",
+            "6571.49",
+            "4",
+            "0",
+            "26285.96",
+            "4.4"
+          ],
+          [
+            "81",
+            "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 90MLx96ABP(0532)",
+            "90",
+            "6571.49",
+            "1",
+            "0",
+            "6571.49",
+            "4.7"
+          ],
+          [
+            "82",
+            "Old Monk Very Old Vatted Special XXX Rum-PET 375MLx24P.",
+            "375",
+            "8321.4",
+            "1",
+            "0",
+            "8321.4",
+            "3.6"
+          ],
+          [
+            "83",
+            "Carnival Dry Gin-Aseptic Brick Pack 180ML AB.Pack(0024)",
+            "180",
+            "4143.49",
+            "1",
+            "0",
+            "4143.49",
+            "0.05"
+          ],
+          [
+            "84",
+            "Carnival Dry Gin-Aseptic Brick Pack 90MLx96 AB.Pack(0024)",
+            "90",
+            "4143.49",
+            "1",
+            "0",
+            "4143.49",
+            "2.52"
+          ],
+          [
+            "85",
+            "Greater Than London Dry Gin Small Batch 180MLx48Btls(0930)",
+            "180",
+            "22860.66",
+            "0",
+            "6",
+            "2857.58",
+            "1.11"
+          ],
+          [
+            "86",
+            "Greater Than London Dry Gin Small Batch 750MLx12Btls(0930)",
+            "750",
+            "19751.17",
+            "0",
+            "6",
+            "9875.58",
+            "4.48"
+          ],
+          [
+            "87",
+            "Magic Moments Premium GRAIN Vodka 375ML(0502)",
+            "375",
+            "13114.25",
+            "0",
+            "6",
+            "3278.56",
+            "3.93"
+          ],
+          [
+            "88",
+            "Magic Moments Remix Flavoured Vodka GREEN APPLE 750ML(0502)",
+            "750",
+            "13114.25",
+            "0",
+            "3",
+            "3278.56",
+            "2.86"
+          ],
+          [
+            "89",
+            "Magic Moments Remix Flavoured Vodka LEMON GRASS & GINGER 180ML(0502)",
+            "180",
+            "12662",
+            "0",
+            "24",
+            "6331",
+            "4.83"
+          ],
+          [
+            "90",
+            "Magic Moments Remix Flavoured Vodka ORANGE 180ML(0502)",
+            "180",
+            "12662",
+            "0",
+            "24",
+            "6331",
+            "4.83"
+          ],
+          [
+            "91",
+            "Magic Moments Remix Flavoured Vodka ORANGE 750ML(0502)",
+            "750",
+            "13114.25",
+            "0",
+            "3",
+            "3278.56",
+            "2.86"
+          ],
+          [
+            "92",
+            "Magic Moments Remix Flavoured Vodka ORANGE PET 60MLx150P.Btls(0502)",
+            "60",
+            "13114.25",
+            "0",
+            "25",
+            "2185.71",
+            "3.83"
+          ],
+          [
+            "93",
+            "Magic Moments Remix Grape Fruit & Water Melon Flavoured Vodka 375ML(0502)",
+            "375",
+            "13114.25",
+            "0",
+            "6",
+            "3278.56",
+            "3.93"
+          ],
+          [
+            "94",
+            "Platinum Romanov Flavoured Vodka Zesty Orange 180MLx48Btls(0538)",
+            "180",
+            "10163.36",
+            "1",
+            "0",
+            "10163.36",
+            "2.09"
+          ],
+          [
+            "95",
+            "Smirnoff Minty Jamun Triple Distilled Flavoured Vodka 750MLx12Btls(0020)",
+            "750",
+            "19872.87",
+            "0",
+            "3",
+            "4968.22",
+            "3.32"
+          ],
+          [
+            "96",
+            "Smirnoff Mirchi Mango Triple Distilled Flavoured Vodka-PET 180MLx48Btls(0020)",
+            "180",
+            "19275.9",
+            "0",
+            "12",
+            "4818.98",
+            "3.26"
+          ],
+          [
+            "97",
+            "Smirnoff Triple Distilled Vodka-PET 180MLx48P.Btls(0020)",
+            "180",
+            "19030.68",
+            "0",
+            "12",
+            "4757.67",
+            "3.88"
+          ],
+          [
+            "98",
+            "Smirnoff Triple Distilled Vodka-PET 60MLx150P.Btls(0020)",
+            "60",
+            "19872.87",
+            "0",
+            "50",
+            "6624.29",
+            "4.27"
+          ],
+          [
+            "99",
+            "Biere Blanche Blanc Kronenbourg 1664 French Beer-Can",
+            "500",
+            "5453.67",
+            "1",
+            "0",
+            "5453.67",
+            "0.04"
+          ],
+          [
+            "100",
+            "Black Fort Super Strong Beer 650ML(0213)",
+            "650",
+            "1799.99",
+            "1",
+            "0",
+            "1799.99",
+            "0"
+          ],
+          [
+            "101",
+            "Budweiser Magnum Beer 330MLx24Btls(0217)",
+            "330",
+            "3490.89",
+            "1",
+            "0",
+            "3490.89",
+            "0"
+          ],
+          [
+            "102",
+            "Budweiser Magnum Beer 650MLx12Btls(0217)",
+            "650",
+            "2672.74",
+            "6",
+            "0",
+            "16036.44",
+            "0"
+          ],
+          [
+            "103",
+            "Budweiser Magnum Beer-CAN 500MLx24Cans(0217)",
+            "500",
+            "4112.16",
+            "6",
+            "0",
+            "24672.96",
+            "1.53"
+          ],
+          [
+            "104",
+            "Budweiser Premium King of Beers 650MLx12Btls(0217)",
+            "650",
+            "2454.39",
+            "1",
+            "0",
+            "2454.39",
+            "0.01"
+          ],
+          [
+            "105",
+            "Bullet Super Strong Beer 330MLx24Btls(0206)",
+            "330",
+            "1745.41",
+            "1",
+            "0",
+            "1745.41",
+            "0"
+          ],
+          [
+            "106",
+            "Bullet Super Strong Beer-Can 500MLx24Btls(0210)",
+            "500",
+            "2181.77",
+            "4",
+            "0",
+            "8727.08",
+            "0"
+          ],
+          [
+            "107",
+            "Carlsberg Elephant Strong Super Premium Beer 650ML(0205)",
+            "650",
+            "2726.37",
+            "2",
+            "0",
+            "5452.74",
+            "0.08"
+          ],
+          [
+            "108",
+            "Carlsberg Elephant Strong Super Premium Beer-CAN- 500ML(0280)",
+            "500",
+            "4225.5",
+            "2",
+            "0",
+            "8451",
+            "1.33"
+          ],
+          [
+            "109",
+            "Carlsberg Limited Edition Beer Miracle of 2005-Can 500MLx24Cans(0280)",
+            "500",
+            "4013.97",
+            "1",
+            "0",
+            "4013.97",
+            "1.03"
+          ],
+          [
+            "110",
+            "Corona Extra Premium Beer 330MLx24Btls.(0254)",
+            "330",
+            "4145.43",
+            "1",
+            "0",
+            "4145.43",
+            "0"
+          ],
+          [
+            "111",
+            "Haywards 5000 Premium Strong Beer-CAN 500MLx24Btls(0217)",
+            "500",
+            "2337.35",
+            "1",
+            "0",
+            "2337.35",
+            "2.87"
+          ],
+          [
+            "112",
+            "Heineken Lager Beer 650MLx12Btls(0210)",
+            "650",
+            "2898.17",
+            "1",
+            "0",
+            "2898.17",
+            "4.33"
+          ],
+          [
+            "113",
+            "Heineken Silver 100% Malt Lager Beer-Can 500MLx24Cans(0210)",
+            "500",
+            "4681.54",
+            "1",
+            "0",
+            "4681.54",
+            "0.43"
+          ],
+          [
+            "114",
+            "Hoegaarden Witbier-CAN 500MLx24Cans(0217)",
+            "500",
+            "4363.64",
+            "2",
+            "0",
+            "8727.28",
+            "0"
+          ],
+          [
+            "115",
+            "Kingfisher Premium Lager Beer 650ML(0210)",
+            "650",
+            "1994.69",
+            "3",
+            "0",
+            "5984.07",
+            "2.15"
+          ],
+          [
+            "116",
+            "Kingfisher Strong Premium Beer 650ML(0210)",
+            "650",
+            "2049.11",
+            "8",
+            "0",
+            "16392.88",
+            "2.16"
+          ],
+          [
+            "117",
+            "Kingfisher Strong Premium Beer-CAN 330ML(0210)",
+            "330",
+            "2181.8",
+            "2",
+            "0",
+            "4363.6",
+            "0"
+          ],
+          [
+            "118",
+            "Kingfisher Strong Premium Beer-CAN 500ML(0210)",
+            "500",
+            "3213.15",
+            "5",
+            "0",
+            "16065.75",
+            "2.73"
+          ],
+          [
+            "119",
+            "Kingfisher Super Smooth Strong Premium Beer-CAN 500MLx24Cans(0210)",
+            "500",
+            "3381.77",
+            "1",
+            "0",
+            "3381.77",
+            "0"
+          ],
+          [
+            "120",
+            "Kingfisher ULTRA Lager Beer-CAN 500MLx24Cans(0210)",
+            "500",
+            "3880.43",
+            "2",
+            "0",
+            "7760.86",
+            "2.15"
+          ],
+          [
+            "121",
+            "Kingfisher Ultra Lager Beer 330ML(0210)",
+            "330",
+            "3325.33",
+            "1",
+            "0",
+            "3325.33",
+            "2.59"
+          ],
+          [
+            "122",
+            "Kingfisher Ultra Lager Beer 650ML(0210)",
+            "650",
+            "2438.44",
+            "3",
+            "0",
+            "7315.32",
+            "1.48"
+          ],
+          [
+            "123",
+            "Kingfisher Ultra MAX Premium Strong Beer 330ML(0210)",
+            "330",
+            "3324.25",
+            "1",
+            "0",
+            "3324.25",
+            "2.64"
+          ],
+          [
+            "124",
+            "Kingfisher Ultra MAX Premium Strong Beer 650ML(0210)",
+            "650",
+            "2548.34",
+            "2",
+            "0",
+            "5096.68",
+            "1.4"
+          ],
+          [
+            "125",
+            "Kingfisher Ultra MAX Premium Strong Beer-CAN 500ML(0210)",
+            "500",
+            "3989.72",
+            "1",
+            "0",
+            "3989.72",
+            "2.14"
+          ],
+          [
+            "126",
+            "Mount's 6000 Fine Strong Beer-Can 500MLx24Cans(0220)",
+            "500",
+            "2179.85",
+            "1",
+            "0",
+            "2179.85",
+            "0.09"
+          ],
+          [
+            "127",
+            "Mount's 6000 Fine Strong Beer 650MLx12Btls(0220)",
+            "650",
+            "1308.51",
+            "2",
+            "0",
+            "2617.02",
+            "0.05"
+          ],
+          [
+            "128",
+            "Peoples Bangalore 330MLx24Btls(0298)",
+            "330",
+            "3881.04",
+            "1",
+            "0",
+            "3881.04",
+            "2.12"
+          ],
+          [
+            "129",
+            "Peoples Bangalore 650MLx12Btls(0298)",
+            "650",
+            "3104.4",
+            "1",
+            "0",
+            "3104.4",
+            "0.43"
+          ],
+          [
+            "130",
+            "Tuborg Green Beer 650ML(0205)",
+            "650",
+            "2066.09",
+            "2",
+            "0",
+            "4132.18",
+            "0.61"
+          ],
+          [
+            "131",
+            "Tuborg Strong Premium Beer 330ML(0205)",
+            "330",
+            "2507.88",
+            "1",
+            "0",
+            "2507.88",
+            "0.06"
+          ],
+          [
+            "132",
+            "UB Export Premium Lager Beer - CAN 500ML(0210)",
+            "500",
+            "2727.22",
+            "3",
+            "0",
+            "8181.66",
+            "0"
+          ],
+          [
+            "133",
+            "UB Export Strong Premium Beer 330ML (0206)",
+            "330",
+            "1963.61",
+            "1",
+            "0",
+            "1963.61",
+            "0"
+          ],
+          [
+            "134",
+            "Tequila The Warehouse 100% Pure 180ML(0110)",
+            "180",
+            "25308.92",
+            "0",
+            "24",
+            "12654.46",
+            "0"
+          ]
+        ]
+      },
+      {
+        "name": "Raw Extract",
+        "kind": "raw",
+        "columns": [
+          "Text"
+        ],
+        "rows": [
+          [
+            "Karnataka State Beverages Corporation Limited"
+          ],
+          [
+            "4th Floor, TTMC Building ,'A' Block, BMTC"
+          ],
+          [
+            "Shantinagar,Bengaluru-560 027"
+          ],
+          [
+            "KSBCL GSTIN No : 29AACCK1421A1Z7"
+          ],
+          [
+            "FSSAI No : 10014043001044"
+          ],
+          [
+            "KSBCL - SAKALAVARA-2"
+          ],
+          [
+            "KSBCL Depot-2, No.94,"
+          ],
+          [
+            "S.L.V.Industrial Estate,"
+          ],
+          [
+            "Sakalavara village, Bannerghatta Road,"
+          ],
+          [
+            "Bill Of Invoice"
+          ],
+          [
+            "PartyID : 18203"
+          ],
+          [
+            "Party Name : Venkateshwara Enterprises"
+          ],
+          [
+            "Invoice No: SSV225022806"
+          ],
+          [
+            "Permit No : 022806"
+          ],
+          [
+            "Valid Date: 23/03/2026"
+          ],
+          [
+            "Date :23/03/2026"
+          ],
+          [
+            "Validity : 23/03/2026"
+          ],
+          [
+            "Range : 46 -BTM"
+          ],
+          [
+            "No.0,1, Khatha No."
+          ],
+          [
+            "357:9Akshayanagara,"
+          ],
+          [
+            "EllenahalliNear DLF, Bangalore"
+          ],
+          [
+            "(560068)"
+          ],
+          [
+            "District : BUD8"
+          ],
+          [
+            "Vehicle : KA-"
+          ],
+          [
+            "P.A.N : AAEFV0828K"
+          ],
+          [
+            "Page 1 of 9"
+          ],
+          [
+            "Sakalavara Village, Bannerghatta Road,"
+          ],
+          [
+            "Page 3 of 9"
+          ],
+          [
+            "Page 6 of 9"
+          ],
+          [
+            "500MLx24Canss(0280)"
+          ],
+          [
+            "Page 7 of 9"
+          ],
+          [
+            "Page 8 of 9"
+          ],
+          [
+            "Total 156 545 966585.08"
+          ],
+          [
+            "Total :831.96"
+          ],
+          [
+            "Total Beer :700.8"
+          ],
+          [
+            "Total Bulk :1532.76"
+          ],
+          [
+            "Provisional Opening Balance : 1001166.3"
+          ],
+          [
+            "(+)TCS Value : 9666"
+          ],
+          [
+            "Invoice Value : 976251.08"
+          ],
+          [
+            "Total AROED : 12347.95"
+          ],
+          [
+            "Total Value : 988599.03"
+          ],
+          [
+            "Provisional Closing Balance : 12567.27"
+          ],
+          [
+            "Amount In Words :Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+          ],
+          [
+            "Goods Received In Good Condition"
+          ],
+          [
+            "For Karnataka State Beverages Corporation Ltd."
+          ],
+          [
+            "Signature of Retailers."
+          ],
+          [
+            "Subject To Banglore Jurisdiction"
+          ]
+        ]
+      }
+    ]
+  },
+  "validation": {
+    "status": "passed",
+    "confidence_score": 97,
+    "warnings": [
+      {
+        "level": "info",
+        "sheet": "Invoice Line Items",
+        "message": "No obvious total row detected in a table that has amount-like columns.",
+        "code": "TOTAL_ROW_NOT_FOUND"
+      }
+    ],
+    "summary": "Validation finished with confidence score 97/100. Errors: 0, warnings: 0, info messages: 1."
+  },
+  "extracted": {
+    "source_file": "7b712fe0-96f4-426e-93a9-dbec879187e5.pdf",
+    "pages": [
+      {
+        "page_number": 1,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "Company",
+            "value": "Karnataka State Beverages Corporation Limited"
+          },
+          {
+            "label": "Address",
+            "value": "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+          },
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "Depot",
+            "value": "KSBCL - SAKALAVARA-2"
+          },
+          {
+            "label": "Depot Address",
+            "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+          },
+          {
+            "label": "Document Title",
+            "value": "Bill Of Invoice"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Permit No",
+            "value": "022806"
+          },
+          {
+            "label": "Valid Date",
+            "value": "23/03/2026"
+          },
+          {
+            "label": "Date",
+            "value": "23/03/2026"
+          },
+          {
+            "label": "Validity",
+            "value": "23/03/2026"
+          },
+          {
+            "label": "Range",
+            "value": "46 -BTM"
+          },
+          {
+            "label": "Party GSTIN",
+            "value": ""
+          },
+          {
+            "label": "Taluk",
+            "value": ""
+          },
+          {
+            "label": "District",
+            "value": "BUD8"
+          },
+          {
+            "label": "Vehicle",
+            "value": "KA-"
+          },
+          {
+            "label": "P.A.N",
+            "value": "AAEFV0828K"
+          },
+          {
+            "label": "Party Address",
+            "value": "No.0,1, Khatha No. 357:9Akshayanagara, EllenahalliNear DLF, Bangalore (560068)"
+          },
+          {
+            "label": "Page",
+            "value": "Page 1 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Invoice Items",
+            "columns": [
+              "Sl No.",
+              "Item Name",
+              "Size(ml)",
+              "Rate for CB",
+              "CBs",
+              "Btls",
+              "Amount(Rs.)",
+              "AROED Per Btls"
+            ],
+            "rows": [
+              [
+                "1",
+                "Bro Code Cremant 330MLx24Btls(0605)",
+                "330",
+                "3490.04",
+                "1",
+                "0",
+                "3490.04",
+                "0.04"
+              ],
+              [
+                "2",
+                "Flingit Exotic Passion 330MLx24Btls(0042)",
+                "330",
+                "3272.82",
+                "1",
+                "0",
+                "3272.82",
+                "0"
+              ],
+              [
+                "3",
+                "Flingit Klassik 330MLx24Btls(0042)",
+                "330",
+                "3272.82",
+                "1",
+                "0",
+                "3272.82",
+                "0"
+              ],
+              [
+                "4",
+                "Goana's Wine-PET 750MLx12P.Btls(0609)",
+                "750",
+                "1634.73",
+                "1",
+                "0",
+                "1634.73",
+                "0.15"
+              ],
+              [
+                "5",
+                "Boroka Gin And Tonic 330MLx24Btls(0679)",
+                "330",
+                "3272.58",
+                "1",
+                "0",
+                "3272.58",
+                "0.01"
+              ],
+              [
+                "6",
+                "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+                "275",
+                "2836.36",
+                "1",
+                "0",
+                "2836.36",
+                "0"
+              ],
+              [
+                "7",
+                "8PM Special Rare Blend of Scotch Malts and Indian Whisky-Aseptic Brick Pack 180MLx48ABP(0502)",
+                "180",
+                "5889.22",
+                "1",
+                "0",
+                "5889.22",
+                "0.04"
+              ],
+              [
+                "8",
+                "8PM Special Rare Blend of Scotch Malts and Indian Whisky-PET 750MLx12P.Btls(0537)",
+                "750",
+                "6107.39",
+                "1",
+                "0",
+                "6107.39",
+                "0.16"
+              ],
+              [
+                "9",
+                "Amrut Amalgam Malt Whisky 750ML(0009)",
+                "750",
+                "39044.25",
+                "0",
+                "3",
+                "9761.06",
+                "0.94"
+              ],
+              [
+                "10",
+                "Amrut Amalgam Peated Malt Whisky 750ML(0009)",
+                "750",
+                "39044.25",
+                "0",
+                "2",
+                "6507.38",
+                "0.94"
+              ],
+              [
+                "11",
+                "Amrut Prestige Fine Whisky-Aseptic Pack 180MLx48 AB.Pack(0602)",
+                "180",
+                "4143.49",
+                "1",
+                "0",
+                "4143.49",
+                "0.05"
+              ],
+              [
+                "12",
+                "Amrut Prestige Fine whisky-PET-375MLx24Btls.(0602)",
+                "375",
+                "4294.37",
+                "1",
+                "0",
+                "4294.37",
+                "3.17"
+              ],
+              [
+                "13",
+                "Antiquity Blue Ultra Premium Whisky-PET 180MLx48P.Btls(0020)",
+                "180",
+                "19275.9",
+                "0",
+                "12",
+                "4818.98",
+                "3.26"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL GSTIN No : 29AACCK1421A1Z7",
+          "FSSAI No : 10014043001044",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara village, Bannerghatta Road,",
+          "Bill Of Invoice",
+          "PartyID : 18203",
+          "Party Name : Venkateshwara Enterprises",
+          "Invoice No: SSV225022806",
+          "Permit No : 022806",
+          "Valid Date: 23/03/2026",
+          "Date :23/03/2026",
+          "Validity : 23/03/2026",
+          "Range : 46 -BTM",
+          "No.0,1, Khatha No.",
+          "357:9Akshayanagara,",
+          "EllenahalliNear DLF, Bangalore",
+          "(560068)",
+          "District : BUD8",
+          "Vehicle : KA-",
+          "P.A.N : AAEFV0828K",
+          "Page 1 of 9"
+        ],
+        "notes": [
+          "Party GSTIN and Taluk labels are visible but values are not visible on this page.",
+          "Table extracted only for visible rows 1 to 13 on page 1."
+        ]
+      },
+      {
+        "page_number": 2,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Page",
+            "value": "Page 2 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Invoice Items",
+            "columns": [
+              "Sl No",
+              "Item Description",
+              "Size",
+              "Rate",
+              "Col5",
+              "Col6",
+              "Amount",
+              "Col8"
+            ],
+            "rows": [
+              [
+                "14",
+                "Bagpiper Deluxe Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+                "180",
+                "5889.22",
+                "3",
+                "0",
+                "17667.66",
+                "0.04"
+              ],
+              [
+                "15",
+                "Bagpiper Deluxe Whisky-Tetra Pack (40%)90MLx96T.Packs(0541)",
+                "90",
+                "5889.22",
+                "1",
+                "0",
+                "5889.22",
+                "2.52"
+              ],
+              [
+                "16",
+                "Bangalore Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0067)",
+                "90",
+                "3485.42",
+                "1",
+                "0",
+                "3485.42",
+                "0.06"
+              ],
+              [
+                "17",
+                "Black & White Blended Scotch Whisky 375MLx24Btls(0020)",
+                "375",
+                "26229.5",
+                "0",
+                "6",
+                "6557.37",
+                "2.81"
+              ],
+              [
+                "18",
+                "Black & White Blended Scotch Whisky 750MLx12Btls(0020)",
+                "750",
+                "26230.5",
+                "0",
+                "3",
+                "6557.63",
+                "0.54"
+              ],
+              [
+                "19",
+                "Black & White Blended Scotch Whisky-PET 180MLx48P.Btls(0020)",
+                "180",
+                "25487.81",
+                "0",
+                "12",
+                "6371.95",
+                "0.9"
+              ],
+              [
+                "20",
+                "Black & White Blended Scotch Whisky-PET 60MLx150P.Btls(0020)",
+                "60",
+                "26230.5",
+                "0",
+                "25",
+                "4371.75",
+                "2.64"
+              ],
+              [
+                "21",
+                "Cotombi Reserve Charred Whisky 750MLx12Btls(0118)",
+                "750",
+                "25576.73",
+                "0",
+                "3",
+                "6394.18",
+                "0.47"
+              ],
+              [
+                "22",
+                "DSP Black Deluxe Whisky 375MLx24Btls(0524)",
+                "375",
+                "8320.4",
+                "1",
+                "0",
+                "8320.4",
+                "3.65"
+              ],
+              [
+                "23",
+                "Dewars Blended Scotch Whisky White Label Classic 375MLx24Btls(0057)",
+                "375",
+                "26220.36",
+                "0",
+                "6",
+                "6555.09",
+                "3.23"
+              ],
+              [
+                "24",
+                "Dewars Blended Scotch Whisky White Label Classic 60MLx150Btls(0057)",
+                "60",
+                "26176.72",
+                "0",
+                "25",
+                "4362.79",
+                "3.04"
+              ],
+              [
+                "25",
+                "Fireball Cinnamon Whisky 750ML(0067)",
+                "750",
+                "12712.25",
+                "0",
+                "3",
+                "3178.06",
+                "4.71"
+              ],
+              [
+                "26",
+                "Haywards Punch Fine Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+                "180",
+                "4143.49",
+                "3",
+                "0",
+                "12430.47",
+                "0.05"
+              ],
+              [
+                "27",
+                "Haywards Punch Fine Whisky-Tetra Pack(40%) 90MLx96T.Packs(0541)",
+                "90",
+                "4143.49",
+                "8",
+                "0",
+                "33147.92",
+                "2.52"
+              ],
+              [
+                "28",
+                "Jack Daniels Tennessee Whiskey 750MLx12Btls(1012)",
+                "750",
+                "49035.53",
+                "0",
+                "3",
+                "12258.88",
+                "0.08"
+              ],
+              [
+                "29",
+                "Jameson Irish Whiskey 200MLx30Btls(0443)",
+                "200",
+                "24969.1",
+                "0",
+                "6",
+                "4993.82",
+                "4.47"
+              ],
+              [
+                "30",
+                "Jameson Irish Whiskey 750ML(0443)",
+                "750",
+                "38126.28",
+                "0",
+                "2",
+                "6354.38",
+                "0.09"
+              ],
+              [
+                "31",
+                "Johnnie Walker Blonde Blended Scotch Whisky 700MLx12Btls(0866)",
+                "700",
+                "41033.92",
+                "0",
+                "3",
+                "10258.48",
+                "3.56"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara Village, Bannerghatta Road,",
+          "Bill Of Invoice"
+        ],
+        "notes": [
+          "Table column headers are not visible on this page; generic column names were assigned for unlabeled numeric columns.",
+          "Page contains item rows 14 to 31 only."
+        ]
+      },
+      {
+        "page_number": 3,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "Company",
+            "value": "Karnataka State Beverages Corporation Limited"
+          },
+          {
+            "label": "Address",
+            "value": "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+          },
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "Depot",
+            "value": "KSBCL - SAKALAVARA-2"
+          },
+          {
+            "label": "Depot Address",
+            "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+          },
+          {
+            "label": "Document Title",
+            "value": "Bill Of Invoice"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Page",
+            "value": "Page 3 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Invoice Items",
+            "columns": [
+              "Sl No",
+              "Item Description",
+              "Size",
+              "Rate",
+              "Col5",
+              "Col6",
+              "Amount",
+              "Col8"
+            ],
+            "rows": [
+              [
+                "32",
+                "Johnnie Walker Red Label Blended Scotch Whisky 375ML(0866)",
+                "375",
+                "37140.58",
+                "0",
+                "6",
+                "9285.15",
+                "2.72"
+              ],
+              [
+                "33",
+                "Johnnie Walker Red Label Blended Scotch Whisky 750ML(0866)",
+                "750",
+                "37534.84",
+                "0",
+                "3",
+                "9383.71",
+                "4.31"
+              ],
+              [
+                "34",
+                "Maker's Mark Kentucky Straight Bourbon Whisky 750ML(0394)",
+                "750",
+                "60053.68",
+                "0",
+                "1",
+                "5004.47",
+                "0.08"
+              ],
+              [
+                "35",
+                "Oaksmith Gold International Blended Whisky-Pet 180MLx48Btls(0686)",
+                "180",
+                "18980.66",
+                "0",
+                "12",
+                "4745.17",
+                "0.03"
+              ],
+              [
+                "36",
+                "Oaksmith International Blended Whisky 750MLx12Btls(0663)",
+                "750",
+                "15224.73",
+                "0",
+                "6",
+                "7612.37",
+                "4.4"
+              ],
+              [
+                "37",
+                "Oaksmith International Blended Whisky-Pet 180MLx48Btls(0686)",
+                "180",
+                "14682.21",
+                "0",
+                "12",
+                "3670.55",
+                "3.53"
+              ],
+              [
+                "38",
+                "Old Tavern Whisky-Aseptic Brick Pack(40%) 180MLx48ABP(0546)",
+                "180",
+                "5009.97",
+                "1",
+                "0",
+                "5009.97",
+                "0.19"
+              ],
+              [
+                "39",
+                "Old Tavern Whisky-PET(40%) 750MLx12P.Btls(0538)",
+                "750",
+                "5194.85",
+                "1",
+                "0",
+                "5194.85",
+                "3.81"
+              ],
+              [
+                "40",
+                "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0527)",
+                "90",
+                "4143.49",
+                "8",
+                "0",
+                "33147.92",
+                "2.52"
+              ],
+              [
+                "41",
+                "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%)180MLx48ABP(0527)",
+                "180",
+                "4143.49",
+                "5",
+                "0",
+                "20717.45",
+                "0.05"
+              ],
+              [
+                "42",
+                "Original Choice Deluxe Whisky-Pet (40%) 1000MLx9P.Btls(0067)",
+                "1000",
+                "4294.37",
+                "1",
+                "0",
+                "4294.37",
+                "0.13"
+              ],
+              [
+                "43",
+                "Original Choice Deluxe Whisky-Pet (40%) 375MLx24P.Btls(0067)",
+                "375",
+                "4294.37",
+                "2",
+                "0",
+                "8588.74",
+                "3.17"
+              ],
+              [
+                "44",
+                "Original Choice Deluxe Whisky-Pet (40%) 750MLx12P.Btls(0067)",
+                "750",
+                "4294.37",
+                "1",
+                "0",
+                "4294.37",
+                "1.35"
+              ],
+              [
+                "45",
+                "Peter Scot Extra Premium Malt Whisky 750ML(0003)",
+                "750",
+                "19847.75",
+                "0",
+                "3",
+                "4961.94",
+                "0.62"
+              ],
+              [
+                "46",
+                "Royal Challenge Premium Select Whisky-PET 180MLx48P.Btls(0020)",
+                "180",
+                "12660.99",
+                "1",
+                "0",
+                "12660.99",
+                "4.85"
+              ],
+              [
+                "47",
+                "Royal Ranthambore Heritage Collection Royal Crafted Reserve Whisky 180MLx48Btls(0190)",
+                "180",
+                "25301.9",
+                "0",
+                "24",
+                "12650.95",
+                "0.16"
+              ],
+              [
+                "48",
+                "Seagram's 100 Pipers Blended Scotch Whisky Aged 12 Years 750MLx12Btls(0687)",
+                "750",
+                "38025.28",
+                "0",
+                "2",
+                "6337.55",
+                "4.35"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL GSTIN No : 29AACCK1421A1Z7",
+          "FSSAI No : 10014043001044",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara village, Bannerghatta Road,",
+          "Bill Of Invoice",
+          "PartyID : 18203",
+          "Party Name : Venkateshwara Enterprises",
+          "Invoice No: SSV225022806",
+          "Page 3 of 9"
+        ],
+        "notes": [
+          "Table column headers are not visible on this page; placeholder column names were used for unlabeled numeric columns.",
+          "Item descriptions span multiple lines and were merged into single cells."
+        ]
+      },
+      {
+        "page_number": 4,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "Depot",
+            "value": "KSBCL - SAKALAVARA-2"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Page",
+            "value": "Page 4 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Invoice Items",
+            "columns": [
+              "Sl No",
+              "Item Description",
+              "Size",
+              "Rate",
+              "Col5",
+              "Col6",
+              "Value",
+              "Col8"
+            ],
+            "rows": [
+              [
+                "49",
+                "Seagram's 100 Pipers Deluxe Blended Scotch Whisky 60MLx150Btls(0091)",
+                "60",
+                "26229.5",
+                "0",
+                "50",
+                "8743.17",
+                "2.65"
+              ],
+              [
+                "50",
+                "Seagram's Blenders Pride Rare Premium Whisky 180ML(0091)",
+                "180",
+                "19013.84",
+                "1",
+                "0",
+                "19013.84",
+                "4.27"
+              ],
+              [
+                "51",
+                "Seagram's Blenders Pride Rare Premium Whisky 375ML(0091)",
+                "375",
+                "19260.37",
+                "0",
+                "6",
+                "4815.09",
+                "2.23"
+              ],
+              [
+                "52",
+                "Seagram's Blenders Pride Rare Premium Whisky 60MLx150Btls(0091)",
+                "60",
+                "19100.33",
+                "0",
+                "25",
+                "3183.39",
+                "4.93"
+              ],
+              [
+                "53",
+                "Seagram's Blenders Pride Reserve Collection Whisky 750ML(0091)",
+                "750",
+                "19872.87",
+                "0",
+                "3",
+                "4968.22",
+                "3.32"
+              ],
+              [
+                "54",
+                "Seagram's Royal Stag Barrel Select Whisky 180ML(0091)",
+                "180",
+                "14799.63",
+                "1",
+                "0",
+                "14799.63",
+                "0.84"
+              ],
+              [
+                "55",
+                "Seagram's Royal Stag Deluxe Whisky 180ML(0091)",
+                "180",
+                "12662",
+                "1",
+                "0",
+                "12662",
+                "4.83"
+              ],
+              [
+                "56",
+                "Seagram's Royal Stag Deluxe Whisky 60MLx150Btls(0091)",
+                "60",
+                "13114.25",
+                "0",
+                "50",
+                "4371.42",
+                "3.83"
+              ],
+              [
+                "57",
+                "Seagram's Royal Stag Deluxe Whisky 750ML(0091)",
+                "750",
+                "13114.25",
+                "0",
+                "6",
+                "6557.13",
+                "2.86"
+              ],
+              [
+                "58",
+                "Signature Rare Aged Whisky-PET 180MLx48P.Btls(0020)",
+                "180",
+                "18990.28",
+                "1",
+                "0",
+                "18990.28",
+                "4.81"
+              ],
+              [
+                "59",
+                "Bejois V.S.O.P Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0600)",
+                "1000",
+                "5194.85",
+                "1",
+                "0",
+                "5194.85",
+                "0.07"
+              ],
+              [
+                "60",
+                "Courrier Napoleon Finest French Brandy-Green 750MLx12Btls(0542)",
+                "750",
+                "15325.25",
+                "0",
+                "3",
+                "3831.31",
+                "0.18"
+              ],
+              [
+                "61",
+                "Honey Cup Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0602)",
+                "1000",
+                "4294.37",
+                "1",
+                "0",
+                "4294.37",
+                "0.13"
+              ],
+              [
+                "62",
+                "No.1 Mcdowells Indian Brandy-Aseptic Brick Pack 180MLx48ABP(0524)",
+                "180",
+                "8023.72",
+                "1",
+                "0",
+                "8023.72",
+                "1.12"
+              ],
+              [
+                "63",
+                "No.1 Mcdowells Indian Brandy-Tetra Pack 90MLx96T.Packs(0524)",
+                "90",
+                "8023.72",
+                "1",
+                "0",
+                "8023.72",
+                "3.06"
+              ],
+              [
+                "64",
+                "Original Choice Deluxe Indian Brandy-Pet (40%) 750MLx12P.Btls(0067)",
+                "750",
+                "4294.37",
+                "1",
+                "0",
+                "4294.37",
+                "1.35"
+              ],
+              [
+                "65",
+                "TI Mansion House True Spirit French Brandy 1000MLx9Btls(0542)",
+                "1000",
+                "10532.4",
+                "1",
+                "0",
+                "10532.4",
+                "2.71"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara Village, Bannerghatta Road,",
+          "Bill Of Invoice"
+        ],
+        "notes": [
+          "Table column headers are not visible on this page; placeholder column names Col5, Col6, Col8 were used for unidentified numeric columns.",
+          "Item descriptions span multiple lines and were merged into single strings."
+        ]
+      },
+      {
+        "page_number": 5,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Page",
+            "value": "Page 5 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Bill Of Invoice Items",
+            "columns": [
+              "Sl No",
+              "Item Description",
+              "Pack/Size",
+              "Rate",
+              "Qty",
+              "Free",
+              "Value",
+              "Other"
+            ],
+            "rows": [
+              [
+                "66",
+                "TI Mansion House True Spirit French Brandy 180MLx48Btls(0542)",
+                "180",
+                "10163.36",
+                "1",
+                "0",
+                "10163.36",
+                "2.09"
+              ],
+              [
+                "67",
+                "TI Mansion House True Spirit French Brandy-Pet 90MLx96P.Btls(0542)",
+                "90",
+                "10163.36",
+                "1",
+                "0",
+                "10163.36",
+                "3.54"
+              ],
+              [
+                "68",
+                "Amrut Two Indies Rum 180ML(0009)",
+                "180",
+                "19200.02",
+                "0",
+                "12",
+                "4800.01",
+                "0"
+              ],
+              [
+                "69",
+                "Amrut s XXX Classic Rum-Aseptic Brick Pack- 180MLx48AB.Pack(0602)",
+                "180",
+                "4143.49",
+                "3",
+                "0",
+                "12430.47",
+                "0.05"
+              ],
+              [
+                "70",
+                "Amrut s XXX Classic Rum-Aseptic Brick Pack-90MLx96AB.Pack(0602)",
+                "90",
+                "4143.49",
+                "3",
+                "0",
+                "12430.47",
+                "2.52"
+              ],
+              [
+                "71",
+                "Amruts XXX Classic Rum-PET 375MLx24 P.Btls(0602)",
+                "375",
+                "4294.37",
+                "1",
+                "0",
+                "4294.37",
+                "3.17"
+              ],
+              [
+                "72",
+                "Amruts XXX Classic Rum-PET 750MLx12 P.Btls((0602)",
+                "750",
+                "4294.37",
+                "1",
+                "0",
+                "4294.37",
+                "1.35"
+              ],
+              [
+                "73",
+                "Bagpiper XXX Rum-Tetra Pack(40%) 180MLx48Btls(0545)",
+                "180",
+                "5009.97",
+                "1",
+                "0",
+                "5009.97",
+                "0.19"
+              ],
+              [
+                "74",
+                "Carnival XXX Rum-Aseptic Brick Pack 180ML AB.Pack(0024)",
+                "180",
+                "3485.42",
+                "1",
+                "0",
+                "3485.42",
+                "0.13"
+              ],
+              [
+                "75",
+                "Carnival XXX Rum-PET 750ML(0024)",
+                "750",
+                "3610.97",
+                "1",
+                "0",
+                "3610.97",
+                "3.99"
+              ],
+              [
+                "76",
+                "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 180MLx48T.Packs(0524)",
+                "180",
+                "5888.21",
+                "2",
+                "0",
+                "11776.42",
+                "0.06"
+              ],
+              [
+                "77",
+                "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 90MLx96T.Packs(0524)",
+                "90",
+                "5888.21",
+                "1",
+                "0",
+                "5888.21",
+                "2.53"
+              ],
+              [
+                "78",
+                "Old Monk Coffee Extra Ordinary XO Coffee Flavoured Premium Rum 750MLx12Btls(0532)",
+                "750",
+                "18746.16",
+                "0",
+                "3",
+                "4686.54",
+                "1.6"
+              ],
+              [
+                "79",
+                "Old Monk Gold Reserve Rum 750MLx12Btls(0532)",
+                "750",
+                "10430.9",
+                "1",
+                "0",
+                "10430.9",
+                "3.83"
+              ],
+              [
+                "80",
+                "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 180MLx48ABP(0532)",
+                "180",
+                "6571.49",
+                "4",
+                "0",
+                "26285.96",
+                "4.4"
+              ],
+              [
+                "81",
+                "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 90MLx96ABP(0532)",
+                "90",
+                "6571.49",
+                "1",
+                "0",
+                "6571.49",
+                "4.7"
+              ],
+              [
+                "82",
+                "Old Monk Very Old Vatted Special XXX Rum-PET 375MLx24P.",
+                "375",
+                "8321.4",
+                "1",
+                "0",
+                "8321.4",
+                "3.6"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara Village, Bannerghatta Road,",
+          "Bill Of Invoice"
+        ],
+        "notes": [
+          "Table column headers are not visible on this page; columns were inferred from row structure.",
+          "A watermark is visible across the page.",
+          "Item 72 code appears as 'P.Btls((0602)' in the image and is preserved as seen.",
+          "Item 82 description appears truncated at '375MLx24P.' on this page."
+        ]
+      },
+      {
+        "page_number": 6,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "Company",
+            "value": "Karnataka State Beverages Corporation Limited"
+          },
+          {
+            "label": "Address",
+            "value": "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+          },
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "Depot",
+            "value": "KSBCL - SAKALAVARA-2"
+          },
+          {
+            "label": "Depot Address",
+            "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara Village, Bannerghatta Road,"
+          },
+          {
+            "label": "Document Title",
+            "value": "Bill Of Invoice"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Section",
+            "value": "Btls(0532)"
+          },
+          {
+            "label": "Page",
+            "value": "Page 6 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Btls(0532)",
+            "columns": [
+              "S.No",
+              "Item Description",
+              "Size",
+              "Rate",
+              "Col5",
+              "Col6",
+              "Value",
+              "Col8"
+            ],
+            "rows": [
+              [
+                "83",
+                "Carnival Dry Gin-Aseptic Brick Pack 180ML AB.Pack(0024)",
+                "180",
+                "4143.49",
+                "1",
+                "0",
+                "4143.49",
+                "0.05"
+              ],
+              [
+                "84",
+                "Carnival Dry Gin-Aseptic Brick Pack 90MLx96 AB.Pack(0024)",
+                "90",
+                "4143.49",
+                "1",
+                "0",
+                "4143.49",
+                "2.52"
+              ],
+              [
+                "85",
+                "Greater Than London Dry Gin Small Batch 180MLx48Btls(0930)",
+                "180",
+                "22860.66",
+                "0",
+                "6",
+                "2857.58",
+                "1.11"
+              ],
+              [
+                "86",
+                "Greater Than London Dry Gin Small Batch 750MLx12Btls(0930)",
+                "750",
+                "19751.17",
+                "0",
+                "6",
+                "9875.58",
+                "4.48"
+              ],
+              [
+                "87",
+                "Magic Moments Premium GRAIN Vodka 375ML(0502)",
+                "375",
+                "13114.25",
+                "0",
+                "6",
+                "3278.56",
+                "3.93"
+              ],
+              [
+                "88",
+                "Magic Moments Remix Flavoured Vodka GREEN APPLE 750ML(0502)",
+                "750",
+                "13114.25",
+                "0",
+                "3",
+                "3278.56",
+                "2.86"
+              ],
+              [
+                "89",
+                "Magic Moments Remix Flavoured Vodka LEMON GRASS & GINGER 180ML(0502)",
+                "180",
+                "12662",
+                "0",
+                "24",
+                "6331",
+                "4.83"
+              ],
+              [
+                "90",
+                "Magic Moments Remix Flavoured Vodka ORANGE 180ML(0502)",
+                "180",
+                "12662",
+                "0",
+                "24",
+                "6331",
+                "4.83"
+              ],
+              [
+                "91",
+                "Magic Moments Remix Flavoured Vodka ORANGE 750ML(0502)",
+                "750",
+                "13114.25",
+                "0",
+                "3",
+                "3278.56",
+                "2.86"
+              ],
+              [
+                "92",
+                "Magic Moments Remix Flavoured Vodka ORANGE PET 60MLx150P.Btls(0502)",
+                "60",
+                "13114.25",
+                "0",
+                "25",
+                "2185.71",
+                "3.83"
+              ],
+              [
+                "93",
+                "Magic Moments Remix Grape Fruit & Water Melon Flavoured Vodka 375ML(0502)",
+                "375",
+                "13114.25",
+                "0",
+                "6",
+                "3278.56",
+                "3.93"
+              ],
+              [
+                "94",
+                "Platinum Romanov Flavoured Vodka Zesty Orange 180MLx48Btls(0538)",
+                "180",
+                "10163.36",
+                "1",
+                "0",
+                "10163.36",
+                "2.09"
+              ],
+              [
+                "95",
+                "Smirnoff Minty Jamun Triple Distilled Flavoured Vodka 750MLx12Btls(0020)",
+                "750",
+                "19872.87",
+                "0",
+                "3",
+                "4968.22",
+                "3.32"
+              ],
+              [
+                "96",
+                "Smirnoff Mirchi Mango Triple Distilled Flavoured Vodka-PET 180MLx48Btls(0020)",
+                "180",
+                "19275.9",
+                "0",
+                "12",
+                "4818.98",
+                "3.26"
+              ],
+              [
+                "97",
+                "Smirnoff Triple Distilled Vodka-PET 180MLx48P.Btls(0020)",
+                "180",
+                "19030.68",
+                "0",
+                "12",
+                "4757.67",
+                "3.88"
+              ],
+              [
+                "98",
+                "Smirnoff Triple Distilled Vodka-PET 60MLx150P.Btls(0020)",
+                "60",
+                "19872.87",
+                "0",
+                "50",
+                "6624.29",
+                "4.27"
+              ],
+              [
+                "99",
+                "Biere Blanche Blanc Kronenbourg 1664 French Beer-Can",
+                "500",
+                "5453.67",
+                "1",
+                "0",
+                "5453.67",
+                "0.04"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL GSTIN No : 29AACCK1421A1Z7",
+          "FSSAI No : 10014043001044",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara Village, Bannerghatta Road,",
+          "Bill Of Invoice",
+          "PartyID : 18203",
+          "Party Name : Venkateshwara Enterprises",
+          "Invoice No: SSV225022806",
+          "Page 6 of 9"
+        ],
+        "notes": [
+          "Column headers for the item table are not visible on this page, so generic column names were used for numeric fields after Rate.",
+          "Item descriptions span multiple lines and were merged into single cells."
+        ]
+      },
+      {
+        "page_number": 7,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "Company",
+            "value": "Karnataka State Beverages Corporation Limited"
+          },
+          {
+            "label": "Address",
+            "value": "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+          },
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "Depot",
+            "value": "KSBCL - SAKALAVARA-2"
+          },
+          {
+            "label": "Depot Address",
+            "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+          },
+          {
+            "label": "Document Title",
+            "value": "Bill Of Invoice"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Section",
+            "value": "500MLx24Canss(0280)"
+          },
+          {
+            "label": "Page",
+            "value": "Page 7 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Invoice Items",
+            "columns": [
+              "Item No",
+              "Description",
+              "Pack/Size",
+              "Rate",
+              "Qty",
+              "Free",
+              "Value",
+              "Other"
+            ],
+            "rows": [
+              [
+                "100",
+                "Black Fort Super Strong Beer 650ML(0213)",
+                "650",
+                "1799.99",
+                "1",
+                "0",
+                "1799.99",
+                "0"
+              ],
+              [
+                "101",
+                "Budweiser Magnum Beer 330MLx24Btls(0217)",
+                "330",
+                "3490.89",
+                "1",
+                "0",
+                "3490.89",
+                "0"
+              ],
+              [
+                "102",
+                "Budweiser Magnum Beer 650MLx12Btls(0217)",
+                "650",
+                "2672.74",
+                "6",
+                "0",
+                "16036.44",
+                "0"
+              ],
+              [
+                "103",
+                "Budweiser Magnum Beer-CAN 500MLx24Cans(0217)",
+                "500",
+                "4112.16",
+                "6",
+                "0",
+                "24672.96",
+                "1.53"
+              ],
+              [
+                "104",
+                "Budweiser Premium King of Beers 650MLx12Btls(0217)",
+                "650",
+                "2454.39",
+                "1",
+                "0",
+                "2454.39",
+                "0.01"
+              ],
+              [
+                "105",
+                "Bullet Super Strong Beer 330MLx24Btls(0206)",
+                "330",
+                "1745.41",
+                "1",
+                "0",
+                "1745.41",
+                "0"
+              ],
+              [
+                "106",
+                "Bullet Super Strong Beer-Can 500MLx24Btls(0210)",
+                "500",
+                "2181.77",
+                "4",
+                "0",
+                "8727.08",
+                "0"
+              ],
+              [
+                "107",
+                "Carlsberg Elephant Strong Super Premium Beer 650ML(0205)",
+                "650",
+                "2726.37",
+                "2",
+                "0",
+                "5452.74",
+                "0.08"
+              ],
+              [
+                "108",
+                "Carlsberg Elephant Strong Super Premium Beer-CAN- 500ML(0280)",
+                "500",
+                "4225.5",
+                "2",
+                "0",
+                "8451",
+                "1.33"
+              ],
+              [
+                "109",
+                "Carlsberg Limited Edition Beer Miracle of 2005-Can 500MLx24Cans(0280)",
+                "500",
+                "4013.97",
+                "1",
+                "0",
+                "4013.97",
+                "1.03"
+              ],
+              [
+                "110",
+                "Corona Extra Premium Beer 330MLx24Btls.(0254)",
+                "330",
+                "4145.43",
+                "1",
+                "0",
+                "4145.43",
+                "0"
+              ],
+              [
+                "111",
+                "Haywards 5000 Premium Strong Beer-CAN 500MLx24Btls(0217)",
+                "500",
+                "2337.35",
+                "1",
+                "0",
+                "2337.35",
+                "2.87"
+              ],
+              [
+                "112",
+                "Heineken Lager Beer 650MLx12Btls(0210)",
+                "650",
+                "2898.17",
+                "1",
+                "0",
+                "2898.17",
+                "4.33"
+              ],
+              [
+                "113",
+                "Heineken Silver 100% Malt Lager Beer-Can 500MLx24Cans(0210)",
+                "500",
+                "4681.54",
+                "1",
+                "0",
+                "4681.54",
+                "0.43"
+              ],
+              [
+                "114",
+                "Hoegaarden Witbier-CAN 500MLx24Cans(0217)",
+                "500",
+                "4363.64",
+                "2",
+                "0",
+                "8727.28",
+                "0"
+              ],
+              [
+                "115",
+                "Kingfisher Premium Lager Beer 650ML(0210)",
+                "650",
+                "1994.69",
+                "3",
+                "0",
+                "5984.07",
+                "2.15"
+              ],
+              [
+                "116",
+                "Kingfisher Strong Premium Beer 650ML(0210)",
+                "650",
+                "2049.11",
+                "8",
+                "0",
+                "16392.88",
+                "2.16"
+              ],
+              [
+                "117",
+                "Kingfisher Strong Premium Beer-CAN 330ML(0210)",
+                "330",
+                "2181.8",
+                "2",
+                "0",
+                "4363.6",
+                "0"
+              ],
+              [
+                "118",
+                "Kingfisher Strong Premium Beer-CAN 500ML(0210)",
+                "500",
+                "3213.15",
+                "5",
+                "0",
+                "16065.75",
+                "2.73"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL GSTIN No : 29AACCK1421A1Z7",
+          "FSSAI No : 10014043001044",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara village, Bannerghatta Road,",
+          "Bill Of Invoice",
+          "PartyID : 18203",
+          "Party Name : Venkateshwara Enterprises",
+          "Invoice No: SSV225022806",
+          "500MLx24Canss(0280)",
+          "Page 7 of 9"
+        ],
+        "notes": [
+          "Column headers are not explicitly visible; table columns were inferred from the repeated row structure.",
+          "Some item descriptions wrap across lines and were merged into single row descriptions truthfully from visible text.",
+          "The last numeric column label is not visible on this page, so it is captured as 'Other'."
+        ]
+      },
+      {
+        "page_number": 8,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "Company",
+            "value": "Karnataka State Beverages Corporation Limited"
+          },
+          {
+            "label": "Address",
+            "value": "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+          },
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "Depot",
+            "value": "KSBCL - SAKALAVARA-2"
+          },
+          {
+            "label": "Depot Address",
+            "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+          },
+          {
+            "label": "Document Title",
+            "value": "Bill Of Invoice"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Page",
+            "value": "Page 8 of 9"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Invoice Items",
+            "columns": [
+              "Line No",
+              "Description",
+              "Size",
+              "Rate",
+              "Qty",
+              "Free",
+              "Amount",
+              "Tax"
+            ],
+            "rows": [
+              [
+                "119",
+                "Kingfisher Super Smooth Strong Premium Beer-CAN 500MLx24Cans(0210)",
+                "500",
+                "3381.77",
+                "1",
+                "0",
+                "3381.77",
+                "0"
+              ],
+              [
+                "120",
+                "Kingfisher ULTRA Lager Beer-CAN 500MLx24Cans(0210)",
+                "500",
+                "3880.43",
+                "2",
+                "0",
+                "7760.86",
+                "2.15"
+              ],
+              [
+                "121",
+                "Kingfisher Ultra Lager Beer 330ML(0210)",
+                "330",
+                "3325.33",
+                "1",
+                "0",
+                "3325.33",
+                "2.59"
+              ],
+              [
+                "122",
+                "Kingfisher Ultra Lager Beer 650ML(0210)",
+                "650",
+                "2438.44",
+                "3",
+                "0",
+                "7315.32",
+                "1.48"
+              ],
+              [
+                "123",
+                "Kingfisher Ultra MAX Premium Strong Beer 330ML(0210)",
+                "330",
+                "3324.25",
+                "1",
+                "0",
+                "3324.25",
+                "2.64"
+              ],
+              [
+                "124",
+                "Kingfisher Ultra MAX Premium Strong Beer 650ML(0210)",
+                "650",
+                "2548.34",
+                "2",
+                "0",
+                "5096.68",
+                "1.4"
+              ],
+              [
+                "125",
+                "Kingfisher Ultra MAX Premium Strong Beer-CAN 500ML(0210)",
+                "500",
+                "3989.72",
+                "1",
+                "0",
+                "3989.72",
+                "2.14"
+              ],
+              [
+                "126",
+                "Mount's 6000 Fine Strong Beer-Can 500MLx24Cans(0220)",
+                "500",
+                "2179.85",
+                "1",
+                "0",
+                "2179.85",
+                "0.09"
+              ],
+              [
+                "127",
+                "Mount's 6000 Fine Strong Beer 650MLx12Btls(0220)",
+                "650",
+                "1308.51",
+                "2",
+                "0",
+                "2617.02",
+                "0.05"
+              ],
+              [
+                "128",
+                "Peoples Bangalore 330MLx24Btls(0298)",
+                "330",
+                "3881.04",
+                "1",
+                "0",
+                "3881.04",
+                "2.12"
+              ],
+              [
+                "129",
+                "Peoples Bangalore 650MLx12Btls(0298)",
+                "650",
+                "3104.4",
+                "1",
+                "0",
+                "3104.4",
+                "0.43"
+              ],
+              [
+                "130",
+                "Tuborg Green Beer 650ML(0205)",
+                "650",
+                "2066.09",
+                "2",
+                "0",
+                "4132.18",
+                "0.61"
+              ],
+              [
+                "131",
+                "Tuborg Strong Premium Beer 330ML(0205)",
+                "330",
+                "2507.88",
+                "1",
+                "0",
+                "2507.88",
+                "0.06"
+              ],
+              [
+                "132",
+                "UB Export Premium Lager Beer - CAN 500ML(0210)",
+                "500",
+                "2727.22",
+                "3",
+                "0",
+                "8181.66",
+                "0"
+              ],
+              [
+                "133",
+                "UB Export Strong Premium Beer 330ML (0206)",
+                "330",
+                "1963.61",
+                "1",
+                "0",
+                "1963.61",
+                "0"
+              ],
+              [
+                "134",
+                "Tequila The Warehouse 100% Pure 180ML(0110)",
+                "180",
+                "25308.92",
+                "0",
+                "24",
+                "12654.46",
+                "0"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL GSTIN No : 29AACCK1421A1Z7",
+          "FSSAI No : 10014043001044",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara village, Bannerghatta Road,",
+          "Bill Of Invoice",
+          "PartyID : 18203",
+          "Party Name : Venkateshwara Enterprises",
+          "Invoice No: SSV225022806",
+          "Page 8 of 9"
+        ],
+        "notes": [
+          "Table column headers are not visible on this page; columns inferred from row structure only.",
+          "A watermark is visible across the item table.",
+          "Item descriptions are split across lines in the source and merged here."
+        ]
+      },
+      {
+        "page_number": 9,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "Company",
+            "value": "Karnataka State Beverages Corporation Limited"
+          },
+          {
+            "label": "Address",
+            "value": "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+          },
+          {
+            "label": "KSBCL GSTIN No",
+            "value": "29AACCK1421A1Z7"
+          },
+          {
+            "label": "FSSAI No",
+            "value": "10014043001044"
+          },
+          {
+            "label": "Depot",
+            "value": "KSBCL - SAKALAVARA-2"
+          },
+          {
+            "label": "Depot Address",
+            "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+          },
+          {
+            "label": "Document Title",
+            "value": "Bill Of Invoice"
+          },
+          {
+            "label": "PartyID",
+            "value": "18203"
+          },
+          {
+            "label": "Party Name",
+            "value": "Venkateshwara Enterprises"
+          },
+          {
+            "label": "Invoice No",
+            "value": "SSV225022806"
+          },
+          {
+            "label": "Total",
+            "value": "156 545 966585.08"
+          },
+          {
+            "label": "Total",
+            "value": "831.96"
+          },
+          {
+            "label": "Total Beer",
+            "value": "700.8"
+          },
+          {
+            "label": "Total Bulk",
+            "value": "1532.76"
+          },
+          {
+            "label": "Provisional Opening Balance",
+            "value": "1001166.3"
+          },
+          {
+            "label": "(+)TCS Value",
+            "value": "9666"
+          },
+          {
+            "label": "Invoice Value",
+            "value": "976251.08"
+          },
+          {
+            "label": "Total AROED",
+            "value": "12347.95"
+          },
+          {
+            "label": "Total Value",
+            "value": "988599.03"
+          },
+          {
+            "label": "Provisional Closing Balance",
+            "value": "12567.27"
+          },
+          {
+            "label": "Amount In Words",
+            "value": "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+          },
+          {
+            "label": "Page",
+            "value": "Page 9 of 9"
+          }
+        ],
+        "tables": [],
+        "raw_lines": [
+          "Karnataka State Beverages Corporation Limited",
+          "4th Floor, TTMC Building ,'A' Block, BMTC",
+          "Shantinagar,Bengaluru-560 027",
+          "KSBCL GSTIN No : 29AACCK1421A1Z7",
+          "FSSAI No : 10014043001044",
+          "KSBCL - SAKALAVARA-2",
+          "KSBCL Depot-2, No.94,",
+          "S.L.V.Industrial Estate,",
+          "Sakalavara village, Bannerghatta Road,",
+          "Bill Of Invoice",
+          "PartyID : 18203",
+          "Party Name : Venkateshwara Enterprises",
+          "Invoice No: SSV225022806",
+          "Total 156 545 966585.08",
+          "Total :831.96",
+          "Total Beer :700.8",
+          "Total Bulk :1532.76",
+          "Provisional Opening Balance : 1001166.3",
+          "(+)TCS Value : 9666",
+          "Invoice Value : 976251.08",
+          "Total AROED : 12347.95",
+          "Total Value : 988599.03",
+          "Provisional Closing Balance : 12567.27",
+          "Amount In Words :Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only",
+          "Goods Received In Good Condition",
+          "For Karnataka State Beverages Corporation Ltd.",
+          "Signature of Retailers.",
+          "Subject To Banglore Jurisdiction"
+        ],
+        "notes": [
+          "No tabular grid visible on this page; totals are presented as summary lines.",
+          "A large faint watermark/logo is present in the background."
+        ]
+      }
+    ],
+    "merged_model": {
+      "document_type": "invoice",
+      "key_values": [
+        {
+          "label": "Company",
+          "value": "Karnataka State Beverages Corporation Limited"
+        },
+        {
+          "label": "Address",
+          "value": "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+        },
+        {
+          "label": "KSBCL GSTIN No",
+          "value": "29AACCK1421A1Z7"
+        },
+        {
+          "label": "FSSAI No",
+          "value": "10014043001044"
+        },
+        {
+          "label": "Depot",
+          "value": "KSBCL - SAKALAVARA-2"
+        },
+        {
+          "label": "Depot Address",
+          "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+        },
+        {
+          "label": "Document Title",
+          "value": "Bill Of Invoice"
+        },
+        {
+          "label": "PartyID",
+          "value": "18203"
+        },
+        {
+          "label": "Party Name",
+          "value": "Venkateshwara Enterprises"
+        },
+        {
+          "label": "Invoice No",
+          "value": "SSV225022806"
+        },
+        {
+          "label": "Permit No",
+          "value": "022806"
+        },
+        {
+          "label": "Valid Date",
+          "value": "23/03/2026"
+        },
+        {
+          "label": "Date",
+          "value": "23/03/2026"
+        },
+        {
+          "label": "Validity",
+          "value": "23/03/2026"
+        },
+        {
+          "label": "Range",
+          "value": "46 -BTM"
+        },
+        {
+          "label": "Party GSTIN",
+          "value": ""
+        },
+        {
+          "label": "Taluk",
+          "value": ""
+        },
+        {
+          "label": "District",
+          "value": "BUD8"
+        },
+        {
+          "label": "Vehicle",
+          "value": "KA-"
+        },
+        {
+          "label": "P.A.N",
+          "value": "AAEFV0828K"
+        },
+        {
+          "label": "Party Address",
+          "value": "No.0,1, Khatha No. 357:9Akshayanagara, EllenahalliNear DLF, Bangalore (560068)"
+        },
+        {
+          "label": "Page",
+          "value": "Page 1 of 9"
+        },
+        {
+          "label": "Page",
+          "value": "Page 2 of 9"
+        },
+        {
+          "label": "Page",
+          "value": "Page 3 of 9"
+        },
+        {
+          "label": "Page",
+          "value": "Page 4 of 9"
+        },
+        {
+          "label": "Page",
+          "value": "Page 5 of 9"
+        },
+        {
+          "label": "Depot Address",
+          "value": "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara Village, Bannerghatta Road,"
+        },
+        {
+          "label": "Section",
+          "value": "Btls(0532)"
+        },
+        {
+          "label": "Page",
+          "value": "Page 6 of 9"
+        },
+        {
+          "label": "Section",
+          "value": "500MLx24Canss(0280)"
+        },
+        {
+          "label": "Page",
+          "value": "Page 7 of 9"
+        },
+        {
+          "label": "Page",
+          "value": "Page 8 of 9"
+        },
+        {
+          "label": "Total",
+          "value": "156 545 966585.08"
+        },
+        {
+          "label": "Total",
+          "value": "831.96"
+        },
+        {
+          "label": "Total Beer",
+          "value": "700.8"
+        },
+        {
+          "label": "Total Bulk",
+          "value": "1532.76"
+        },
+        {
+          "label": "Provisional Opening Balance",
+          "value": "1001166.3"
+        },
+        {
+          "label": "(+)TCS Value",
+          "value": "9666"
+        },
+        {
+          "label": "Invoice Value",
+          "value": "976251.08"
+        },
+        {
+          "label": "Total AROED",
+          "value": "12347.95"
+        },
+        {
+          "label": "Total Value",
+          "value": "988599.03"
+        },
+        {
+          "label": "Provisional Closing Balance",
+          "value": "12567.27"
+        },
+        {
+          "label": "Amount In Words",
+          "value": "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+        },
+        {
+          "label": "Page",
+          "value": "Page 9 of 9"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Invoice Items",
+          "columns": [
+            "Sl No.",
+            "Item Name",
+            "Size(ml)",
+            "Rate for CB",
+            "CBs",
+            "Btls",
+            "Amount(Rs.)",
+            "AROED Per Btls"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bro Code Cremant 330MLx24Btls(0605)",
+              "330",
+              "3490.04",
+              "1",
+              "0",
+              "3490.04",
+              "0.04"
+            ],
+            [
+              "2",
+              "Flingit Exotic Passion 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "3",
+              "Flingit Klassik 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "4",
+              "Goana's Wine-PET 750MLx12P.Btls(0609)",
+              "750",
+              "1634.73",
+              "1",
+              "0",
+              "1634.73",
+              "0.15"
+            ],
+            [
+              "5",
+              "Boroka Gin And Tonic 330MLx24Btls(0679)",
+              "330",
+              "3272.58",
+              "1",
+              "0",
+              "3272.58",
+              "0.01"
+            ],
+            [
+              "6",
+              "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+              "275",
+              "2836.36",
+              "1",
+              "0",
+              "2836.36",
+              "0"
+            ],
+            [
+              "7",
+              "8PM Special Rare Blend of Scotch Malts and Indian Whisky-Aseptic Brick Pack 180MLx48ABP(0502)",
+              "180",
+              "5889.22",
+              "1",
+              "0",
+              "5889.22",
+              "0.04"
+            ],
+            [
+              "8",
+              "8PM Special Rare Blend of Scotch Malts and Indian Whisky-PET 750MLx12P.Btls(0537)",
+              "750",
+              "6107.39",
+              "1",
+              "0",
+              "6107.39",
+              "0.16"
+            ],
+            [
+              "9",
+              "Amrut Amalgam Malt Whisky 750ML(0009)",
+              "750",
+              "39044.25",
+              "0",
+              "3",
+              "9761.06",
+              "0.94"
+            ],
+            [
+              "10",
+              "Amrut Amalgam Peated Malt Whisky 750ML(0009)",
+              "750",
+              "39044.25",
+              "0",
+              "2",
+              "6507.38",
+              "0.94"
+            ],
+            [
+              "11",
+              "Amrut Prestige Fine Whisky-Aseptic Pack 180MLx48 AB.Pack(0602)",
+              "180",
+              "4143.49",
+              "1",
+              "0",
+              "4143.49",
+              "0.05"
+            ],
+            [
+              "12",
+              "Amrut Prestige Fine whisky-PET-375MLx24Btls.(0602)",
+              "375",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "3.17"
+            ],
+            [
+              "13",
+              "Antiquity Blue Ultra Premium Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "19275.9",
+              "0",
+              "12",
+              "4818.98",
+              "3.26"
+            ],
+            [
+              "14",
+              "Bagpiper Deluxe Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+              "180",
+              "5889.22",
+              "3",
+              "0",
+              "17667.66",
+              "0.04"
+            ],
+            [
+              "15",
+              "Bagpiper Deluxe Whisky-Tetra Pack (40%)90MLx96T.Packs(0541)",
+              "90",
+              "5889.22",
+              "1",
+              "0",
+              "5889.22",
+              "2.52"
+            ],
+            [
+              "16",
+              "Bangalore Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0067)",
+              "90",
+              "3485.42",
+              "1",
+              "0",
+              "3485.42",
+              "0.06"
+            ],
+            [
+              "17",
+              "Black & White Blended Scotch Whisky 375MLx24Btls(0020)",
+              "375",
+              "26229.5",
+              "0",
+              "6",
+              "6557.37",
+              "2.81"
+            ],
+            [
+              "18",
+              "Black & White Blended Scotch Whisky 750MLx12Btls(0020)",
+              "750",
+              "26230.5",
+              "0",
+              "3",
+              "6557.63",
+              "0.54"
+            ],
+            [
+              "19",
+              "Black & White Blended Scotch Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "25487.81",
+              "0",
+              "12",
+              "6371.95",
+              "0.9"
+            ],
+            [
+              "20",
+              "Black & White Blended Scotch Whisky-PET 60MLx150P.Btls(0020)",
+              "60",
+              "26230.5",
+              "0",
+              "25",
+              "4371.75",
+              "2.64"
+            ],
+            [
+              "21",
+              "Cotombi Reserve Charred Whisky 750MLx12Btls(0118)",
+              "750",
+              "25576.73",
+              "0",
+              "3",
+              "6394.18",
+              "0.47"
+            ],
+            [
+              "22",
+              "DSP Black Deluxe Whisky 375MLx24Btls(0524)",
+              "375",
+              "8320.4",
+              "1",
+              "0",
+              "8320.4",
+              "3.65"
+            ],
+            [
+              "23",
+              "Dewars Blended Scotch Whisky White Label Classic 375MLx24Btls(0057)",
+              "375",
+              "26220.36",
+              "0",
+              "6",
+              "6555.09",
+              "3.23"
+            ],
+            [
+              "24",
+              "Dewars Blended Scotch Whisky White Label Classic 60MLx150Btls(0057)",
+              "60",
+              "26176.72",
+              "0",
+              "25",
+              "4362.79",
+              "3.04"
+            ],
+            [
+              "25",
+              "Fireball Cinnamon Whisky 750ML(0067)",
+              "750",
+              "12712.25",
+              "0",
+              "3",
+              "3178.06",
+              "4.71"
+            ],
+            [
+              "26",
+              "Haywards Punch Fine Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+              "180",
+              "4143.49",
+              "3",
+              "0",
+              "12430.47",
+              "0.05"
+            ],
+            [
+              "27",
+              "Haywards Punch Fine Whisky-Tetra Pack(40%) 90MLx96T.Packs(0541)",
+              "90",
+              "4143.49",
+              "8",
+              "0",
+              "33147.92",
+              "2.52"
+            ],
+            [
+              "28",
+              "Jack Daniels Tennessee Whiskey 750MLx12Btls(1012)",
+              "750",
+              "49035.53",
+              "0",
+              "3",
+              "12258.88",
+              "0.08"
+            ],
+            [
+              "29",
+              "Jameson Irish Whiskey 200MLx30Btls(0443)",
+              "200",
+              "24969.1",
+              "0",
+              "6",
+              "4993.82",
+              "4.47"
+            ],
+            [
+              "30",
+              "Jameson Irish Whiskey 750ML(0443)",
+              "750",
+              "38126.28",
+              "0",
+              "2",
+              "6354.38",
+              "0.09"
+            ],
+            [
+              "31",
+              "Johnnie Walker Blonde Blended Scotch Whisky 700MLx12Btls(0866)",
+              "700",
+              "41033.92",
+              "0",
+              "3",
+              "10258.48",
+              "3.56"
+            ],
+            [
+              "32",
+              "Johnnie Walker Red Label Blended Scotch Whisky 375ML(0866)",
+              "375",
+              "37140.58",
+              "0",
+              "6",
+              "9285.15",
+              "2.72"
+            ],
+            [
+              "33",
+              "Johnnie Walker Red Label Blended Scotch Whisky 750ML(0866)",
+              "750",
+              "37534.84",
+              "0",
+              "3",
+              "9383.71",
+              "4.31"
+            ],
+            [
+              "34",
+              "Maker's Mark Kentucky Straight Bourbon Whisky 750ML(0394)",
+              "750",
+              "60053.68",
+              "0",
+              "1",
+              "5004.47",
+              "0.08"
+            ],
+            [
+              "35",
+              "Oaksmith Gold International Blended Whisky-Pet 180MLx48Btls(0686)",
+              "180",
+              "18980.66",
+              "0",
+              "12",
+              "4745.17",
+              "0.03"
+            ],
+            [
+              "36",
+              "Oaksmith International Blended Whisky 750MLx12Btls(0663)",
+              "750",
+              "15224.73",
+              "0",
+              "6",
+              "7612.37",
+              "4.4"
+            ],
+            [
+              "37",
+              "Oaksmith International Blended Whisky-Pet 180MLx48Btls(0686)",
+              "180",
+              "14682.21",
+              "0",
+              "12",
+              "3670.55",
+              "3.53"
+            ],
+            [
+              "38",
+              "Old Tavern Whisky-Aseptic Brick Pack(40%) 180MLx48ABP(0546)",
+              "180",
+              "5009.97",
+              "1",
+              "0",
+              "5009.97",
+              "0.19"
+            ],
+            [
+              "39",
+              "Old Tavern Whisky-PET(40%) 750MLx12P.Btls(0538)",
+              "750",
+              "5194.85",
+              "1",
+              "0",
+              "5194.85",
+              "3.81"
+            ],
+            [
+              "40",
+              "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0527)",
+              "90",
+              "4143.49",
+              "8",
+              "0",
+              "33147.92",
+              "2.52"
+            ],
+            [
+              "41",
+              "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%)180MLx48ABP(0527)",
+              "180",
+              "4143.49",
+              "5",
+              "0",
+              "20717.45",
+              "0.05"
+            ],
+            [
+              "42",
+              "Original Choice Deluxe Whisky-Pet (40%) 1000MLx9P.Btls(0067)",
+              "1000",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "0.13"
+            ],
+            [
+              "43",
+              "Original Choice Deluxe Whisky-Pet (40%) 375MLx24P.Btls(0067)",
+              "375",
+              "4294.37",
+              "2",
+              "0",
+              "8588.74",
+              "3.17"
+            ],
+            [
+              "44",
+              "Original Choice Deluxe Whisky-Pet (40%) 750MLx12P.Btls(0067)",
+              "750",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "1.35"
+            ],
+            [
+              "45",
+              "Peter Scot Extra Premium Malt Whisky 750ML(0003)",
+              "750",
+              "19847.75",
+              "0",
+              "3",
+              "4961.94",
+              "0.62"
+            ],
+            [
+              "46",
+              "Royal Challenge Premium Select Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "12660.99",
+              "1",
+              "0",
+              "12660.99",
+              "4.85"
+            ],
+            [
+              "47",
+              "Royal Ranthambore Heritage Collection Royal Crafted Reserve Whisky 180MLx48Btls(0190)",
+              "180",
+              "25301.9",
+              "0",
+              "24",
+              "12650.95",
+              "0.16"
+            ],
+            [
+              "48",
+              "Seagram's 100 Pipers Blended Scotch Whisky Aged 12 Years 750MLx12Btls(0687)",
+              "750",
+              "38025.28",
+              "0",
+              "2",
+              "6337.55",
+              "4.35"
+            ],
+            [
+              "49",
+              "Seagram's 100 Pipers Deluxe Blended Scotch Whisky 60MLx150Btls(0091)",
+              "60",
+              "26229.5",
+              "0",
+              "50",
+              "8743.17",
+              "2.65"
+            ],
+            [
+              "50",
+              "Seagram's Blenders Pride Rare Premium Whisky 180ML(0091)",
+              "180",
+              "19013.84",
+              "1",
+              "0",
+              "19013.84",
+              "4.27"
+            ],
+            [
+              "51",
+              "Seagram's Blenders Pride Rare Premium Whisky 375ML(0091)",
+              "375",
+              "19260.37",
+              "0",
+              "6",
+              "4815.09",
+              "2.23"
+            ],
+            [
+              "52",
+              "Seagram's Blenders Pride Rare Premium Whisky 60MLx150Btls(0091)",
+              "60",
+              "19100.33",
+              "0",
+              "25",
+              "3183.39",
+              "4.93"
+            ],
+            [
+              "53",
+              "Seagram's Blenders Pride Reserve Collection Whisky 750ML(0091)",
+              "750",
+              "19872.87",
+              "0",
+              "3",
+              "4968.22",
+              "3.32"
+            ],
+            [
+              "54",
+              "Seagram's Royal Stag Barrel Select Whisky 180ML(0091)",
+              "180",
+              "14799.63",
+              "1",
+              "0",
+              "14799.63",
+              "0.84"
+            ],
+            [
+              "55",
+              "Seagram's Royal Stag Deluxe Whisky 180ML(0091)",
+              "180",
+              "12662",
+              "1",
+              "0",
+              "12662",
+              "4.83"
+            ],
+            [
+              "56",
+              "Seagram's Royal Stag Deluxe Whisky 60MLx150Btls(0091)",
+              "60",
+              "13114.25",
+              "0",
+              "50",
+              "4371.42",
+              "3.83"
+            ],
+            [
+              "57",
+              "Seagram's Royal Stag Deluxe Whisky 750ML(0091)",
+              "750",
+              "13114.25",
+              "0",
+              "6",
+              "6557.13",
+              "2.86"
+            ],
+            [
+              "58",
+              "Signature Rare Aged Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "18990.28",
+              "1",
+              "0",
+              "18990.28",
+              "4.81"
+            ],
+            [
+              "59",
+              "Bejois V.S.O.P Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0600)",
+              "1000",
+              "5194.85",
+              "1",
+              "0",
+              "5194.85",
+              "0.07"
+            ],
+            [
+              "60",
+              "Courrier Napoleon Finest French Brandy-Green 750MLx12Btls(0542)",
+              "750",
+              "15325.25",
+              "0",
+              "3",
+              "3831.31",
+              "0.18"
+            ],
+            [
+              "61",
+              "Honey Cup Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0602)",
+              "1000",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "0.13"
+            ],
+            [
+              "62",
+              "No.1 Mcdowells Indian Brandy-Aseptic Brick Pack 180MLx48ABP(0524)",
+              "180",
+              "8023.72",
+              "1",
+              "0",
+              "8023.72",
+              "1.12"
+            ],
+            [
+              "63",
+              "No.1 Mcdowells Indian Brandy-Tetra Pack 90MLx96T.Packs(0524)",
+              "90",
+              "8023.72",
+              "1",
+              "0",
+              "8023.72",
+              "3.06"
+            ],
+            [
+              "64",
+              "Original Choice Deluxe Indian Brandy-Pet (40%) 750MLx12P.Btls(0067)",
+              "750",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "1.35"
+            ],
+            [
+              "65",
+              "TI Mansion House True Spirit French Brandy 1000MLx9Btls(0542)",
+              "1000",
+              "10532.4",
+              "1",
+              "0",
+              "10532.4",
+              "2.71"
+            ],
+            [
+              "100",
+              "Black Fort Super Strong Beer 650ML(0213)",
+              "650",
+              "1799.99",
+              "1",
+              "0",
+              "1799.99",
+              "0"
+            ],
+            [
+              "101",
+              "Budweiser Magnum Beer 330MLx24Btls(0217)",
+              "330",
+              "3490.89",
+              "1",
+              "0",
+              "3490.89",
+              "0"
+            ],
+            [
+              "102",
+              "Budweiser Magnum Beer 650MLx12Btls(0217)",
+              "650",
+              "2672.74",
+              "6",
+              "0",
+              "16036.44",
+              "0"
+            ],
+            [
+              "103",
+              "Budweiser Magnum Beer-CAN 500MLx24Cans(0217)",
+              "500",
+              "4112.16",
+              "6",
+              "0",
+              "24672.96",
+              "1.53"
+            ],
+            [
+              "104",
+              "Budweiser Premium King of Beers 650MLx12Btls(0217)",
+              "650",
+              "2454.39",
+              "1",
+              "0",
+              "2454.39",
+              "0.01"
+            ],
+            [
+              "105",
+              "Bullet Super Strong Beer 330MLx24Btls(0206)",
+              "330",
+              "1745.41",
+              "1",
+              "0",
+              "1745.41",
+              "0"
+            ],
+            [
+              "106",
+              "Bullet Super Strong Beer-Can 500MLx24Btls(0210)",
+              "500",
+              "2181.77",
+              "4",
+              "0",
+              "8727.08",
+              "0"
+            ],
+            [
+              "107",
+              "Carlsberg Elephant Strong Super Premium Beer 650ML(0205)",
+              "650",
+              "2726.37",
+              "2",
+              "0",
+              "5452.74",
+              "0.08"
+            ],
+            [
+              "108",
+              "Carlsberg Elephant Strong Super Premium Beer-CAN- 500ML(0280)",
+              "500",
+              "4225.5",
+              "2",
+              "0",
+              "8451",
+              "1.33"
+            ],
+            [
+              "109",
+              "Carlsberg Limited Edition Beer Miracle of 2005-Can 500MLx24Cans(0280)",
+              "500",
+              "4013.97",
+              "1",
+              "0",
+              "4013.97",
+              "1.03"
+            ],
+            [
+              "110",
+              "Corona Extra Premium Beer 330MLx24Btls.(0254)",
+              "330",
+              "4145.43",
+              "1",
+              "0",
+              "4145.43",
+              "0"
+            ],
+            [
+              "111",
+              "Haywards 5000 Premium Strong Beer-CAN 500MLx24Btls(0217)",
+              "500",
+              "2337.35",
+              "1",
+              "0",
+              "2337.35",
+              "2.87"
+            ],
+            [
+              "112",
+              "Heineken Lager Beer 650MLx12Btls(0210)",
+              "650",
+              "2898.17",
+              "1",
+              "0",
+              "2898.17",
+              "4.33"
+            ],
+            [
+              "113",
+              "Heineken Silver 100% Malt Lager Beer-Can 500MLx24Cans(0210)",
+              "500",
+              "4681.54",
+              "1",
+              "0",
+              "4681.54",
+              "0.43"
+            ],
+            [
+              "114",
+              "Hoegaarden Witbier-CAN 500MLx24Cans(0217)",
+              "500",
+              "4363.64",
+              "2",
+              "0",
+              "8727.28",
+              "0"
+            ],
+            [
+              "115",
+              "Kingfisher Premium Lager Beer 650ML(0210)",
+              "650",
+              "1994.69",
+              "3",
+              "0",
+              "5984.07",
+              "2.15"
+            ],
+            [
+              "116",
+              "Kingfisher Strong Premium Beer 650ML(0210)",
+              "650",
+              "2049.11",
+              "8",
+              "0",
+              "16392.88",
+              "2.16"
+            ],
+            [
+              "117",
+              "Kingfisher Strong Premium Beer-CAN 330ML(0210)",
+              "330",
+              "2181.8",
+              "2",
+              "0",
+              "4363.6",
+              "0"
+            ],
+            [
+              "118",
+              "Kingfisher Strong Premium Beer-CAN 500ML(0210)",
+              "500",
+              "3213.15",
+              "5",
+              "0",
+              "16065.75",
+              "2.73"
+            ],
+            [
+              "119",
+              "Kingfisher Super Smooth Strong Premium Beer-CAN 500MLx24Cans(0210)",
+              "500",
+              "3381.77",
+              "1",
+              "0",
+              "3381.77",
+              "0"
+            ],
+            [
+              "120",
+              "Kingfisher ULTRA Lager Beer-CAN 500MLx24Cans(0210)",
+              "500",
+              "3880.43",
+              "2",
+              "0",
+              "7760.86",
+              "2.15"
+            ],
+            [
+              "121",
+              "Kingfisher Ultra Lager Beer 330ML(0210)",
+              "330",
+              "3325.33",
+              "1",
+              "0",
+              "3325.33",
+              "2.59"
+            ],
+            [
+              "122",
+              "Kingfisher Ultra Lager Beer 650ML(0210)",
+              "650",
+              "2438.44",
+              "3",
+              "0",
+              "7315.32",
+              "1.48"
+            ],
+            [
+              "123",
+              "Kingfisher Ultra MAX Premium Strong Beer 330ML(0210)",
+              "330",
+              "3324.25",
+              "1",
+              "0",
+              "3324.25",
+              "2.64"
+            ],
+            [
+              "124",
+              "Kingfisher Ultra MAX Premium Strong Beer 650ML(0210)",
+              "650",
+              "2548.34",
+              "2",
+              "0",
+              "5096.68",
+              "1.4"
+            ],
+            [
+              "125",
+              "Kingfisher Ultra MAX Premium Strong Beer-CAN 500ML(0210)",
+              "500",
+              "3989.72",
+              "1",
+              "0",
+              "3989.72",
+              "2.14"
+            ],
+            [
+              "126",
+              "Mount's 6000 Fine Strong Beer-Can 500MLx24Cans(0220)",
+              "500",
+              "2179.85",
+              "1",
+              "0",
+              "2179.85",
+              "0.09"
+            ],
+            [
+              "127",
+              "Mount's 6000 Fine Strong Beer 650MLx12Btls(0220)",
+              "650",
+              "1308.51",
+              "2",
+              "0",
+              "2617.02",
+              "0.05"
+            ],
+            [
+              "128",
+              "Peoples Bangalore 330MLx24Btls(0298)",
+              "330",
+              "3881.04",
+              "1",
+              "0",
+              "3881.04",
+              "2.12"
+            ],
+            [
+              "129",
+              "Peoples Bangalore 650MLx12Btls(0298)",
+              "650",
+              "3104.4",
+              "1",
+              "0",
+              "3104.4",
+              "0.43"
+            ],
+            [
+              "130",
+              "Tuborg Green Beer 650ML(0205)",
+              "650",
+              "2066.09",
+              "2",
+              "0",
+              "4132.18",
+              "0.61"
+            ],
+            [
+              "131",
+              "Tuborg Strong Premium Beer 330ML(0205)",
+              "330",
+              "2507.88",
+              "1",
+              "0",
+              "2507.88",
+              "0.06"
+            ],
+            [
+              "132",
+              "UB Export Premium Lager Beer - CAN 500ML(0210)",
+              "500",
+              "2727.22",
+              "3",
+              "0",
+              "8181.66",
+              "0"
+            ],
+            [
+              "133",
+              "UB Export Strong Premium Beer 330ML (0206)",
+              "330",
+              "1963.61",
+              "1",
+              "0",
+              "1963.61",
+              "0"
+            ],
+            [
+              "134",
+              "Tequila The Warehouse 100% Pure 180ML(0110)",
+              "180",
+              "25308.92",
+              "0",
+              "24",
+              "12654.46",
+              "0"
+            ]
+          ],
+          "source_pages": [
+            1,
+            2,
+            3,
+            4,
+            7,
+            8
+          ]
+        },
+        {
+          "title": "Bill Of Invoice Items",
+          "columns": [
+            "Sl No",
+            "Item Description",
+            "Pack/Size",
+            "Rate",
+            "Qty",
+            "Free",
+            "Value",
+            "Other"
+          ],
+          "rows": [
+            [
+              "66",
+              "TI Mansion House True Spirit French Brandy 180MLx48Btls(0542)",
+              "180",
+              "10163.36",
+              "1",
+              "0",
+              "10163.36",
+              "2.09"
+            ],
+            [
+              "67",
+              "TI Mansion House True Spirit French Brandy-Pet 90MLx96P.Btls(0542)",
+              "90",
+              "10163.36",
+              "1",
+              "0",
+              "10163.36",
+              "3.54"
+            ],
+            [
+              "68",
+              "Amrut Two Indies Rum 180ML(0009)",
+              "180",
+              "19200.02",
+              "0",
+              "12",
+              "4800.01",
+              "0"
+            ],
+            [
+              "69",
+              "Amrut s XXX Classic Rum-Aseptic Brick Pack- 180MLx48AB.Pack(0602)",
+              "180",
+              "4143.49",
+              "3",
+              "0",
+              "12430.47",
+              "0.05"
+            ],
+            [
+              "70",
+              "Amrut s XXX Classic Rum-Aseptic Brick Pack-90MLx96AB.Pack(0602)",
+              "90",
+              "4143.49",
+              "3",
+              "0",
+              "12430.47",
+              "2.52"
+            ],
+            [
+              "71",
+              "Amruts XXX Classic Rum-PET 375MLx24 P.Btls(0602)",
+              "375",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "3.17"
+            ],
+            [
+              "72",
+              "Amruts XXX Classic Rum-PET 750MLx12 P.Btls((0602)",
+              "750",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "1.35"
+            ],
+            [
+              "73",
+              "Bagpiper XXX Rum-Tetra Pack(40%) 180MLx48Btls(0545)",
+              "180",
+              "5009.97",
+              "1",
+              "0",
+              "5009.97",
+              "0.19"
+            ],
+            [
+              "74",
+              "Carnival XXX Rum-Aseptic Brick Pack 180ML AB.Pack(0024)",
+              "180",
+              "3485.42",
+              "1",
+              "0",
+              "3485.42",
+              "0.13"
+            ],
+            [
+              "75",
+              "Carnival XXX Rum-PET 750ML(0024)",
+              "750",
+              "3610.97",
+              "1",
+              "0",
+              "3610.97",
+              "3.99"
+            ],
+            [
+              "76",
+              "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 180MLx48T.Packs(0524)",
+              "180",
+              "5888.21",
+              "2",
+              "0",
+              "11776.42",
+              "0.06"
+            ],
+            [
+              "77",
+              "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 90MLx96T.Packs(0524)",
+              "90",
+              "5888.21",
+              "1",
+              "0",
+              "5888.21",
+              "2.53"
+            ],
+            [
+              "78",
+              "Old Monk Coffee Extra Ordinary XO Coffee Flavoured Premium Rum 750MLx12Btls(0532)",
+              "750",
+              "18746.16",
+              "0",
+              "3",
+              "4686.54",
+              "1.6"
+            ],
+            [
+              "79",
+              "Old Monk Gold Reserve Rum 750MLx12Btls(0532)",
+              "750",
+              "10430.9",
+              "1",
+              "0",
+              "10430.9",
+              "3.83"
+            ],
+            [
+              "80",
+              "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 180MLx48ABP(0532)",
+              "180",
+              "6571.49",
+              "4",
+              "0",
+              "26285.96",
+              "4.4"
+            ],
+            [
+              "81",
+              "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 90MLx96ABP(0532)",
+              "90",
+              "6571.49",
+              "1",
+              "0",
+              "6571.49",
+              "4.7"
+            ],
+            [
+              "82",
+              "Old Monk Very Old Vatted Special XXX Rum-PET 375MLx24P.",
+              "375",
+              "8321.4",
+              "1",
+              "0",
+              "8321.4",
+              "3.6"
+            ]
+          ],
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "title": "Btls(0532)",
+          "columns": [
+            "S.No",
+            "Item Description",
+            "Size",
+            "Rate",
+            "Col5",
+            "Col6",
+            "Value",
+            "Col8"
+          ],
+          "rows": [
+            [
+              "83",
+              "Carnival Dry Gin-Aseptic Brick Pack 180ML AB.Pack(0024)",
+              "180",
+              "4143.49",
+              "1",
+              "0",
+              "4143.49",
+              "0.05"
+            ],
+            [
+              "84",
+              "Carnival Dry Gin-Aseptic Brick Pack 90MLx96 AB.Pack(0024)",
+              "90",
+              "4143.49",
+              "1",
+              "0",
+              "4143.49",
+              "2.52"
+            ],
+            [
+              "85",
+              "Greater Than London Dry Gin Small Batch 180MLx48Btls(0930)",
+              "180",
+              "22860.66",
+              "0",
+              "6",
+              "2857.58",
+              "1.11"
+            ],
+            [
+              "86",
+              "Greater Than London Dry Gin Small Batch 750MLx12Btls(0930)",
+              "750",
+              "19751.17",
+              "0",
+              "6",
+              "9875.58",
+              "4.48"
+            ],
+            [
+              "87",
+              "Magic Moments Premium GRAIN Vodka 375ML(0502)",
+              "375",
+              "13114.25",
+              "0",
+              "6",
+              "3278.56",
+              "3.93"
+            ],
+            [
+              "88",
+              "Magic Moments Remix Flavoured Vodka GREEN APPLE 750ML(0502)",
+              "750",
+              "13114.25",
+              "0",
+              "3",
+              "3278.56",
+              "2.86"
+            ],
+            [
+              "89",
+              "Magic Moments Remix Flavoured Vodka LEMON GRASS & GINGER 180ML(0502)",
+              "180",
+              "12662",
+              "0",
+              "24",
+              "6331",
+              "4.83"
+            ],
+            [
+              "90",
+              "Magic Moments Remix Flavoured Vodka ORANGE 180ML(0502)",
+              "180",
+              "12662",
+              "0",
+              "24",
+              "6331",
+              "4.83"
+            ],
+            [
+              "91",
+              "Magic Moments Remix Flavoured Vodka ORANGE 750ML(0502)",
+              "750",
+              "13114.25",
+              "0",
+              "3",
+              "3278.56",
+              "2.86"
+            ],
+            [
+              "92",
+              "Magic Moments Remix Flavoured Vodka ORANGE PET 60MLx150P.Btls(0502)",
+              "60",
+              "13114.25",
+              "0",
+              "25",
+              "2185.71",
+              "3.83"
+            ],
+            [
+              "93",
+              "Magic Moments Remix Grape Fruit & Water Melon Flavoured Vodka 375ML(0502)",
+              "375",
+              "13114.25",
+              "0",
+              "6",
+              "3278.56",
+              "3.93"
+            ],
+            [
+              "94",
+              "Platinum Romanov Flavoured Vodka Zesty Orange 180MLx48Btls(0538)",
+              "180",
+              "10163.36",
+              "1",
+              "0",
+              "10163.36",
+              "2.09"
+            ],
+            [
+              "95",
+              "Smirnoff Minty Jamun Triple Distilled Flavoured Vodka 750MLx12Btls(0020)",
+              "750",
+              "19872.87",
+              "0",
+              "3",
+              "4968.22",
+              "3.32"
+            ],
+            [
+              "96",
+              "Smirnoff Mirchi Mango Triple Distilled Flavoured Vodka-PET 180MLx48Btls(0020)",
+              "180",
+              "19275.9",
+              "0",
+              "12",
+              "4818.98",
+              "3.26"
+            ],
+            [
+              "97",
+              "Smirnoff Triple Distilled Vodka-PET 180MLx48P.Btls(0020)",
+              "180",
+              "19030.68",
+              "0",
+              "12",
+              "4757.67",
+              "3.88"
+            ],
+            [
+              "98",
+              "Smirnoff Triple Distilled Vodka-PET 60MLx150P.Btls(0020)",
+              "60",
+              "19872.87",
+              "0",
+              "50",
+              "6624.29",
+              "4.27"
+            ],
+            [
+              "99",
+              "Biere Blanche Blanc Kronenbourg 1664 French Beer-Can",
+              "500",
+              "5453.67",
+              "1",
+              "0",
+              "5453.67",
+              "0.04"
+            ]
+          ],
+          "source_pages": [
+            6
+          ]
+        }
+      ],
+      "raw_lines": [
+        "Karnataka State Beverages Corporation Limited",
+        "4th Floor, TTMC Building ,'A' Block, BMTC",
+        "Shantinagar,Bengaluru-560 027",
+        "KSBCL GSTIN No : 29AACCK1421A1Z7",
+        "FSSAI No : 10014043001044",
+        "KSBCL - SAKALAVARA-2",
+        "KSBCL Depot-2, No.94,",
+        "S.L.V.Industrial Estate,",
+        "Sakalavara village, Bannerghatta Road,",
+        "Bill Of Invoice",
+        "PartyID : 18203",
+        "Party Name : Venkateshwara Enterprises",
+        "Invoice No: SSV225022806",
+        "Permit No : 022806",
+        "Valid Date: 23/03/2026",
+        "Date :23/03/2026",
+        "Validity : 23/03/2026",
+        "Range : 46 -BTM",
+        "No.0,1, Khatha No.",
+        "357:9Akshayanagara,",
+        "EllenahalliNear DLF, Bangalore",
+        "(560068)",
+        "District : BUD8",
+        "Vehicle : KA-",
+        "P.A.N : AAEFV0828K",
+        "Page 1 of 9",
+        "Sakalavara Village, Bannerghatta Road,",
+        "Page 3 of 9",
+        "Page 6 of 9",
+        "500MLx24Canss(0280)",
+        "Page 7 of 9",
+        "Page 8 of 9",
+        "Total 156 545 966585.08",
+        "Total :831.96",
+        "Total Beer :700.8",
+        "Total Bulk :1532.76",
+        "Provisional Opening Balance : 1001166.3",
+        "(+)TCS Value : 9666",
+        "Invoice Value : 976251.08",
+        "Total AROED : 12347.95",
+        "Total Value : 988599.03",
+        "Provisional Closing Balance : 12567.27",
+        "Amount In Words :Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only",
+        "Goods Received In Good Condition",
+        "For Karnataka State Beverages Corporation Ltd.",
+        "Signature of Retailers.",
+        "Subject To Banglore Jurisdiction"
+      ],
+      "notes": [
+        "Party GSTIN and Taluk labels are visible but values are not visible on this page.",
+        "Table extracted only for visible rows 1 to 13 on page 1.",
+        "Table column headers are not visible on this page; generic column names were assigned for unlabeled numeric columns.",
+        "Page contains item rows 14 to 31 only.",
+        "Table column headers are not visible on this page; placeholder column names were used for unlabeled numeric columns.",
+        "Item descriptions span multiple lines and were merged into single cells.",
+        "Table column headers are not visible on this page; placeholder column names Col5, Col6, Col8 were used for unidentified numeric columns.",
+        "Item descriptions span multiple lines and were merged into single strings.",
+        "Table column headers are not visible on this page; columns were inferred from row structure.",
+        "A watermark is visible across the page.",
+        "Item 72 code appears as 'P.Btls((0602)' in the image and is preserved as seen.",
+        "Item 82 description appears truncated at '375MLx24P.' on this page.",
+        "Column headers for the item table are not visible on this page, so generic column names were used for numeric fields after Rate.",
+        "Item descriptions span multiple lines and were merged into single cells.",
+        "Column headers are not explicitly visible; table columns were inferred from the repeated row structure.",
+        "Some item descriptions wrap across lines and were merged into single row descriptions truthfully from visible text.",
+        "The last numeric column label is not visible on this page, so it is captured as 'Other'.",
+        "Table column headers are not visible on this page; columns inferred from row structure only.",
+        "A watermark is visible across the item table.",
+        "Item descriptions are split across lines in the source and merged here.",
+        "No tabular grid visible on this page; totals are presented as summary lines.",
+        "A large faint watermark/logo is present in the background."
+      ]
+    },
+    "workbook": {
+      "workbook_title": "Invoice - 7b712fe0 96f4 426e 93a9 dbec879187e5",
+      "sheets": [
+        {
+          "name": "Invoice Summary",
+          "kind": "summary",
+          "columns": [
+            "Field",
+            "Value"
+          ],
+          "rows": [
+            [
+              "Company",
+              "Karnataka State Beverages Corporation Limited"
+            ],
+            [
+              "Address",
+              "4th Floor, TTMC Building ,'A' Block, BMTC Shantinagar,Bengaluru-560 027"
+            ],
+            [
+              "KSBCL GSTIN No",
+              "29AACCK1421A1Z7"
+            ],
+            [
+              "FSSAI No",
+              "10014043001044"
+            ],
+            [
+              "Depot",
+              "KSBCL - SAKALAVARA-2"
+            ],
+            [
+              "Depot Address",
+              "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara village, Bannerghatta Road,"
+            ],
+            [
+              "Document Title",
+              "Bill Of Invoice"
+            ],
+            [
+              "PartyID",
+              "18203"
+            ],
+            [
+              "Party Name",
+              "Venkateshwara Enterprises"
+            ],
+            [
+              "Invoice No",
+              "SSV225022806"
+            ],
+            [
+              "Permit No",
+              "022806"
+            ],
+            [
+              "Valid Date",
+              "23/03/2026"
+            ],
+            [
+              "Date",
+              "23/03/2026"
+            ],
+            [
+              "Validity",
+              "23/03/2026"
+            ],
+            [
+              "Range",
+              "46 -BTM"
+            ],
+            [
+              "Party GSTIN",
+              ""
+            ],
+            [
+              "Taluk",
+              ""
+            ],
+            [
+              "District",
+              "BUD8"
+            ],
+            [
+              "Vehicle",
+              "KA-"
+            ],
+            [
+              "P.A.N",
+              "AAEFV0828K"
+            ],
+            [
+              "Party Address",
+              "No.0,1, Khatha No. 357:9Akshayanagara, EllenahalliNear DLF, Bangalore (560068)"
+            ],
+            [
+              "Page",
+              "Page 1 of 9"
+            ],
+            [
+              "Page",
+              "Page 2 of 9"
+            ],
+            [
+              "Page",
+              "Page 3 of 9"
+            ],
+            [
+              "Page",
+              "Page 4 of 9"
+            ],
+            [
+              "Page",
+              "Page 5 of 9"
+            ],
+            [
+              "Depot Address",
+              "KSBCL Depot-2, No.94, S.L.V.Industrial Estate, Sakalavara Village, Bannerghatta Road,"
+            ],
+            [
+              "Section",
+              "Btls(0532)"
+            ],
+            [
+              "Page",
+              "Page 6 of 9"
+            ],
+            [
+              "Section",
+              "500MLx24Canss(0280)"
+            ],
+            [
+              "Page",
+              "Page 7 of 9"
+            ],
+            [
+              "Page",
+              "Page 8 of 9"
+            ],
+            [
+              "Total",
+              "156 545 966585.08"
+            ],
+            [
+              "Total",
+              "831.96"
+            ],
+            [
+              "Total Beer",
+              "700.8"
+            ],
+            [
+              "Total Bulk",
+              "1532.76"
+            ],
+            [
+              "Provisional Opening Balance",
+              "1001166.3"
+            ],
+            [
+              "(+)TCS Value",
+              "9666"
+            ],
+            [
+              "Invoice Value",
+              "976251.08"
+            ],
+            [
+              "Total AROED",
+              "12347.95"
+            ],
+            [
+              "Total Value",
+              "988599.03"
+            ],
+            [
+              "Provisional Closing Balance",
+              "12567.27"
+            ],
+            [
+              "Amount In Words",
+              "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+            ],
+            [
+              "Page",
+              "Page 9 of 9"
+            ]
+          ]
+        },
+        {
+          "name": "Invoice Line Items",
+          "kind": "table",
+          "columns": [
+            "Sl No.",
+            "Item Name",
+            "Size(ml)",
+            "Rate for CB",
+            "CBs",
+            "Btls",
+            "Amount(Rs.)",
+            "AROED Per Btls"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bro Code Cremant 330MLx24Btls(0605)",
+              "330",
+              "3490.04",
+              "1",
+              "0",
+              "3490.04",
+              "0.04"
+            ],
+            [
+              "2",
+              "Flingit Exotic Passion 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "3",
+              "Flingit Klassik 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "4",
+              "Goana's Wine-PET 750MLx12P.Btls(0609)",
+              "750",
+              "1634.73",
+              "1",
+              "0",
+              "1634.73",
+              "0.15"
+            ],
+            [
+              "5",
+              "Boroka Gin And Tonic 330MLx24Btls(0679)",
+              "330",
+              "3272.58",
+              "1",
+              "0",
+              "3272.58",
+              "0.01"
+            ],
+            [
+              "6",
+              "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+              "275",
+              "2836.36",
+              "1",
+              "0",
+              "2836.36",
+              "0"
+            ],
+            [
+              "7",
+              "8PM Special Rare Blend of Scotch Malts and Indian Whisky-Aseptic Brick Pack 180MLx48ABP(0502)",
+              "180",
+              "5889.22",
+              "1",
+              "0",
+              "5889.22",
+              "0.04"
+            ],
+            [
+              "8",
+              "8PM Special Rare Blend of Scotch Malts and Indian Whisky-PET 750MLx12P.Btls(0537)",
+              "750",
+              "6107.39",
+              "1",
+              "0",
+              "6107.39",
+              "0.16"
+            ],
+            [
+              "9",
+              "Amrut Amalgam Malt Whisky 750ML(0009)",
+              "750",
+              "39044.25",
+              "0",
+              "3",
+              "9761.06",
+              "0.94"
+            ],
+            [
+              "10",
+              "Amrut Amalgam Peated Malt Whisky 750ML(0009)",
+              "750",
+              "39044.25",
+              "0",
+              "2",
+              "6507.38",
+              "0.94"
+            ],
+            [
+              "11",
+              "Amrut Prestige Fine Whisky-Aseptic Pack 180MLx48 AB.Pack(0602)",
+              "180",
+              "4143.49",
+              "1",
+              "0",
+              "4143.49",
+              "0.05"
+            ],
+            [
+              "12",
+              "Amrut Prestige Fine whisky-PET-375MLx24Btls.(0602)",
+              "375",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "3.17"
+            ],
+            [
+              "13",
+              "Antiquity Blue Ultra Premium Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "19275.9",
+              "0",
+              "12",
+              "4818.98",
+              "3.26"
+            ],
+            [
+              "14",
+              "Bagpiper Deluxe Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+              "180",
+              "5889.22",
+              "3",
+              "0",
+              "17667.66",
+              "0.04"
+            ],
+            [
+              "15",
+              "Bagpiper Deluxe Whisky-Tetra Pack (40%)90MLx96T.Packs(0541)",
+              "90",
+              "5889.22",
+              "1",
+              "0",
+              "5889.22",
+              "2.52"
+            ],
+            [
+              "16",
+              "Bangalore Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0067)",
+              "90",
+              "3485.42",
+              "1",
+              "0",
+              "3485.42",
+              "0.06"
+            ],
+            [
+              "17",
+              "Black & White Blended Scotch Whisky 375MLx24Btls(0020)",
+              "375",
+              "26229.5",
+              "0",
+              "6",
+              "6557.37",
+              "2.81"
+            ],
+            [
+              "18",
+              "Black & White Blended Scotch Whisky 750MLx12Btls(0020)",
+              "750",
+              "26230.5",
+              "0",
+              "3",
+              "6557.63",
+              "0.54"
+            ],
+            [
+              "19",
+              "Black & White Blended Scotch Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "25487.81",
+              "0",
+              "12",
+              "6371.95",
+              "0.9"
+            ],
+            [
+              "20",
+              "Black & White Blended Scotch Whisky-PET 60MLx150P.Btls(0020)",
+              "60",
+              "26230.5",
+              "0",
+              "25",
+              "4371.75",
+              "2.64"
+            ],
+            [
+              "21",
+              "Cotombi Reserve Charred Whisky 750MLx12Btls(0118)",
+              "750",
+              "25576.73",
+              "0",
+              "3",
+              "6394.18",
+              "0.47"
+            ],
+            [
+              "22",
+              "DSP Black Deluxe Whisky 375MLx24Btls(0524)",
+              "375",
+              "8320.4",
+              "1",
+              "0",
+              "8320.4",
+              "3.65"
+            ],
+            [
+              "23",
+              "Dewars Blended Scotch Whisky White Label Classic 375MLx24Btls(0057)",
+              "375",
+              "26220.36",
+              "0",
+              "6",
+              "6555.09",
+              "3.23"
+            ],
+            [
+              "24",
+              "Dewars Blended Scotch Whisky White Label Classic 60MLx150Btls(0057)",
+              "60",
+              "26176.72",
+              "0",
+              "25",
+              "4362.79",
+              "3.04"
+            ],
+            [
+              "25",
+              "Fireball Cinnamon Whisky 750ML(0067)",
+              "750",
+              "12712.25",
+              "0",
+              "3",
+              "3178.06",
+              "4.71"
+            ],
+            [
+              "26",
+              "Haywards Punch Fine Whisky-Tetra Pack (40%)180MLx48Btls(0545)",
+              "180",
+              "4143.49",
+              "3",
+              "0",
+              "12430.47",
+              "0.05"
+            ],
+            [
+              "27",
+              "Haywards Punch Fine Whisky-Tetra Pack(40%) 90MLx96T.Packs(0541)",
+              "90",
+              "4143.49",
+              "8",
+              "0",
+              "33147.92",
+              "2.52"
+            ],
+            [
+              "28",
+              "Jack Daniels Tennessee Whiskey 750MLx12Btls(1012)",
+              "750",
+              "49035.53",
+              "0",
+              "3",
+              "12258.88",
+              "0.08"
+            ],
+            [
+              "29",
+              "Jameson Irish Whiskey 200MLx30Btls(0443)",
+              "200",
+              "24969.1",
+              "0",
+              "6",
+              "4993.82",
+              "4.47"
+            ],
+            [
+              "30",
+              "Jameson Irish Whiskey 750ML(0443)",
+              "750",
+              "38126.28",
+              "0",
+              "2",
+              "6354.38",
+              "0.09"
+            ],
+            [
+              "31",
+              "Johnnie Walker Blonde Blended Scotch Whisky 700MLx12Btls(0866)",
+              "700",
+              "41033.92",
+              "0",
+              "3",
+              "10258.48",
+              "3.56"
+            ],
+            [
+              "32",
+              "Johnnie Walker Red Label Blended Scotch Whisky 375ML(0866)",
+              "375",
+              "37140.58",
+              "0",
+              "6",
+              "9285.15",
+              "2.72"
+            ],
+            [
+              "33",
+              "Johnnie Walker Red Label Blended Scotch Whisky 750ML(0866)",
+              "750",
+              "37534.84",
+              "0",
+              "3",
+              "9383.71",
+              "4.31"
+            ],
+            [
+              "34",
+              "Maker's Mark Kentucky Straight Bourbon Whisky 750ML(0394)",
+              "750",
+              "60053.68",
+              "0",
+              "1",
+              "5004.47",
+              "0.08"
+            ],
+            [
+              "35",
+              "Oaksmith Gold International Blended Whisky-Pet 180MLx48Btls(0686)",
+              "180",
+              "18980.66",
+              "0",
+              "12",
+              "4745.17",
+              "0.03"
+            ],
+            [
+              "36",
+              "Oaksmith International Blended Whisky 750MLx12Btls(0663)",
+              "750",
+              "15224.73",
+              "0",
+              "6",
+              "7612.37",
+              "4.4"
+            ],
+            [
+              "37",
+              "Oaksmith International Blended Whisky-Pet 180MLx48Btls(0686)",
+              "180",
+              "14682.21",
+              "0",
+              "12",
+              "3670.55",
+              "3.53"
+            ],
+            [
+              "38",
+              "Old Tavern Whisky-Aseptic Brick Pack(40%) 180MLx48ABP(0546)",
+              "180",
+              "5009.97",
+              "1",
+              "0",
+              "5009.97",
+              "0.19"
+            ],
+            [
+              "39",
+              "Old Tavern Whisky-PET(40%) 750MLx12P.Btls(0538)",
+              "750",
+              "5194.85",
+              "1",
+              "0",
+              "5194.85",
+              "3.81"
+            ],
+            [
+              "40",
+              "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%) 90MLx96ABP(0527)",
+              "90",
+              "4143.49",
+              "8",
+              "0",
+              "33147.92",
+              "2.52"
+            ],
+            [
+              "41",
+              "Original Choice Deluxe Whisky-Aseptic Brick Pack(40%)180MLx48ABP(0527)",
+              "180",
+              "4143.49",
+              "5",
+              "0",
+              "20717.45",
+              "0.05"
+            ],
+            [
+              "42",
+              "Original Choice Deluxe Whisky-Pet (40%) 1000MLx9P.Btls(0067)",
+              "1000",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "0.13"
+            ],
+            [
+              "43",
+              "Original Choice Deluxe Whisky-Pet (40%) 375MLx24P.Btls(0067)",
+              "375",
+              "4294.37",
+              "2",
+              "0",
+              "8588.74",
+              "3.17"
+            ],
+            [
+              "44",
+              "Original Choice Deluxe Whisky-Pet (40%) 750MLx12P.Btls(0067)",
+              "750",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "1.35"
+            ],
+            [
+              "45",
+              "Peter Scot Extra Premium Malt Whisky 750ML(0003)",
+              "750",
+              "19847.75",
+              "0",
+              "3",
+              "4961.94",
+              "0.62"
+            ],
+            [
+              "46",
+              "Royal Challenge Premium Select Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "12660.99",
+              "1",
+              "0",
+              "12660.99",
+              "4.85"
+            ],
+            [
+              "47",
+              "Royal Ranthambore Heritage Collection Royal Crafted Reserve Whisky 180MLx48Btls(0190)",
+              "180",
+              "25301.9",
+              "0",
+              "24",
+              "12650.95",
+              "0.16"
+            ],
+            [
+              "48",
+              "Seagram's 100 Pipers Blended Scotch Whisky Aged 12 Years 750MLx12Btls(0687)",
+              "750",
+              "38025.28",
+              "0",
+              "2",
+              "6337.55",
+              "4.35"
+            ],
+            [
+              "49",
+              "Seagram's 100 Pipers Deluxe Blended Scotch Whisky 60MLx150Btls(0091)",
+              "60",
+              "26229.5",
+              "0",
+              "50",
+              "8743.17",
+              "2.65"
+            ],
+            [
+              "50",
+              "Seagram's Blenders Pride Rare Premium Whisky 180ML(0091)",
+              "180",
+              "19013.84",
+              "1",
+              "0",
+              "19013.84",
+              "4.27"
+            ],
+            [
+              "51",
+              "Seagram's Blenders Pride Rare Premium Whisky 375ML(0091)",
+              "375",
+              "19260.37",
+              "0",
+              "6",
+              "4815.09",
+              "2.23"
+            ],
+            [
+              "52",
+              "Seagram's Blenders Pride Rare Premium Whisky 60MLx150Btls(0091)",
+              "60",
+              "19100.33",
+              "0",
+              "25",
+              "3183.39",
+              "4.93"
+            ],
+            [
+              "53",
+              "Seagram's Blenders Pride Reserve Collection Whisky 750ML(0091)",
+              "750",
+              "19872.87",
+              "0",
+              "3",
+              "4968.22",
+              "3.32"
+            ],
+            [
+              "54",
+              "Seagram's Royal Stag Barrel Select Whisky 180ML(0091)",
+              "180",
+              "14799.63",
+              "1",
+              "0",
+              "14799.63",
+              "0.84"
+            ],
+            [
+              "55",
+              "Seagram's Royal Stag Deluxe Whisky 180ML(0091)",
+              "180",
+              "12662",
+              "1",
+              "0",
+              "12662",
+              "4.83"
+            ],
+            [
+              "56",
+              "Seagram's Royal Stag Deluxe Whisky 60MLx150Btls(0091)",
+              "60",
+              "13114.25",
+              "0",
+              "50",
+              "4371.42",
+              "3.83"
+            ],
+            [
+              "57",
+              "Seagram's Royal Stag Deluxe Whisky 750ML(0091)",
+              "750",
+              "13114.25",
+              "0",
+              "6",
+              "6557.13",
+              "2.86"
+            ],
+            [
+              "58",
+              "Signature Rare Aged Whisky-PET 180MLx48P.Btls(0020)",
+              "180",
+              "18990.28",
+              "1",
+              "0",
+              "18990.28",
+              "4.81"
+            ],
+            [
+              "59",
+              "Bejois V.S.O.P Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0600)",
+              "1000",
+              "5194.85",
+              "1",
+              "0",
+              "5194.85",
+              "0.07"
+            ],
+            [
+              "60",
+              "Courrier Napoleon Finest French Brandy-Green 750MLx12Btls(0542)",
+              "750",
+              "15325.25",
+              "0",
+              "3",
+              "3831.31",
+              "0.18"
+            ],
+            [
+              "61",
+              "Honey Cup Indian Brandy (Made from Molasses Spirit)-PET 1000MLx9P.Btls(0602)",
+              "1000",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "0.13"
+            ],
+            [
+              "62",
+              "No.1 Mcdowells Indian Brandy-Aseptic Brick Pack 180MLx48ABP(0524)",
+              "180",
+              "8023.72",
+              "1",
+              "0",
+              "8023.72",
+              "1.12"
+            ],
+            [
+              "63",
+              "No.1 Mcdowells Indian Brandy-Tetra Pack 90MLx96T.Packs(0524)",
+              "90",
+              "8023.72",
+              "1",
+              "0",
+              "8023.72",
+              "3.06"
+            ],
+            [
+              "64",
+              "Original Choice Deluxe Indian Brandy-Pet (40%) 750MLx12P.Btls(0067)",
+              "750",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "1.35"
+            ],
+            [
+              "65",
+              "TI Mansion House True Spirit French Brandy 1000MLx9Btls(0542)",
+              "1000",
+              "10532.4",
+              "1",
+              "0",
+              "10532.4",
+              "2.71"
+            ],
+            [
+              "66",
+              "TI Mansion House True Spirit French Brandy 180MLx48Btls(0542)",
+              "180",
+              "10163.36",
+              "1",
+              "0",
+              "10163.36",
+              "2.09"
+            ],
+            [
+              "67",
+              "TI Mansion House True Spirit French Brandy-Pet 90MLx96P.Btls(0542)",
+              "90",
+              "10163.36",
+              "1",
+              "0",
+              "10163.36",
+              "3.54"
+            ],
+            [
+              "68",
+              "Amrut Two Indies Rum 180ML(0009)",
+              "180",
+              "19200.02",
+              "0",
+              "12",
+              "4800.01",
+              "0"
+            ],
+            [
+              "69",
+              "Amrut s XXX Classic Rum-Aseptic Brick Pack- 180MLx48AB.Pack(0602)",
+              "180",
+              "4143.49",
+              "3",
+              "0",
+              "12430.47",
+              "0.05"
+            ],
+            [
+              "70",
+              "Amrut s XXX Classic Rum-Aseptic Brick Pack-90MLx96AB.Pack(0602)",
+              "90",
+              "4143.49",
+              "3",
+              "0",
+              "12430.47",
+              "2.52"
+            ],
+            [
+              "71",
+              "Amruts XXX Classic Rum-PET 375MLx24 P.Btls(0602)",
+              "375",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "3.17"
+            ],
+            [
+              "72",
+              "Amruts XXX Classic Rum-PET 750MLx12 P.Btls((0602)",
+              "750",
+              "4294.37",
+              "1",
+              "0",
+              "4294.37",
+              "1.35"
+            ],
+            [
+              "73",
+              "Bagpiper XXX Rum-Tetra Pack(40%) 180MLx48Btls(0545)",
+              "180",
+              "5009.97",
+              "1",
+              "0",
+              "5009.97",
+              "0.19"
+            ],
+            [
+              "74",
+              "Carnival XXX Rum-Aseptic Brick Pack 180ML AB.Pack(0024)",
+              "180",
+              "3485.42",
+              "1",
+              "0",
+              "3485.42",
+              "0.13"
+            ],
+            [
+              "75",
+              "Carnival XXX Rum-PET 750ML(0024)",
+              "750",
+              "3610.97",
+              "1",
+              "0",
+              "3610.97",
+              "3.99"
+            ],
+            [
+              "76",
+              "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 180MLx48T.Packs(0524)",
+              "180",
+              "5888.21",
+              "2",
+              "0",
+              "11776.42",
+              "0.06"
+            ],
+            [
+              "77",
+              "Mcdowell's No.1 Celebration Classic XXX Rum - Tetra Pack 90MLx96T.Packs(0524)",
+              "90",
+              "5888.21",
+              "1",
+              "0",
+              "5888.21",
+              "2.53"
+            ],
+            [
+              "78",
+              "Old Monk Coffee Extra Ordinary XO Coffee Flavoured Premium Rum 750MLx12Btls(0532)",
+              "750",
+              "18746.16",
+              "0",
+              "3",
+              "4686.54",
+              "1.6"
+            ],
+            [
+              "79",
+              "Old Monk Gold Reserve Rum 750MLx12Btls(0532)",
+              "750",
+              "10430.9",
+              "1",
+              "0",
+              "10430.9",
+              "3.83"
+            ],
+            [
+              "80",
+              "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 180MLx48ABP(0532)",
+              "180",
+              "6571.49",
+              "4",
+              "0",
+              "26285.96",
+              "4.4"
+            ],
+            [
+              "81",
+              "Old Monk Very Old Vatted Special XXX Rum-Aseptic Brick Pack 90MLx96ABP(0532)",
+              "90",
+              "6571.49",
+              "1",
+              "0",
+              "6571.49",
+              "4.7"
+            ],
+            [
+              "82",
+              "Old Monk Very Old Vatted Special XXX Rum-PET 375MLx24P.",
+              "375",
+              "8321.4",
+              "1",
+              "0",
+              "8321.4",
+              "3.6"
+            ],
+            [
+              "83",
+              "Carnival Dry Gin-Aseptic Brick Pack 180ML AB.Pack(0024)",
+              "180",
+              "4143.49",
+              "1",
+              "0",
+              "4143.49",
+              "0.05"
+            ],
+            [
+              "84",
+              "Carnival Dry Gin-Aseptic Brick Pack 90MLx96 AB.Pack(0024)",
+              "90",
+              "4143.49",
+              "1",
+              "0",
+              "4143.49",
+              "2.52"
+            ],
+            [
+              "85",
+              "Greater Than London Dry Gin Small Batch 180MLx48Btls(0930)",
+              "180",
+              "22860.66",
+              "0",
+              "6",
+              "2857.58",
+              "1.11"
+            ],
+            [
+              "86",
+              "Greater Than London Dry Gin Small Batch 750MLx12Btls(0930)",
+              "750",
+              "19751.17",
+              "0",
+              "6",
+              "9875.58",
+              "4.48"
+            ],
+            [
+              "87",
+              "Magic Moments Premium GRAIN Vodka 375ML(0502)",
+              "375",
+              "13114.25",
+              "0",
+              "6",
+              "3278.56",
+              "3.93"
+            ],
+            [
+              "88",
+              "Magic Moments Remix Flavoured Vodka GREEN APPLE 750ML(0502)",
+              "750",
+              "13114.25",
+              "0",
+              "3",
+              "3278.56",
+              "2.86"
+            ],
+            [
+              "89",
+              "Magic Moments Remix Flavoured Vodka LEMON GRASS & GINGER 180ML(0502)",
+              "180",
+              "12662",
+              "0",
+              "24",
+              "6331",
+              "4.83"
+            ],
+            [
+              "90",
+              "Magic Moments Remix Flavoured Vodka ORANGE 180ML(0502)",
+              "180",
+              "12662",
+              "0",
+              "24",
+              "6331",
+              "4.83"
+            ],
+            [
+              "91",
+              "Magic Moments Remix Flavoured Vodka ORANGE 750ML(0502)",
+              "750",
+              "13114.25",
+              "0",
+              "3",
+              "3278.56",
+              "2.86"
+            ],
+            [
+              "92",
+              "Magic Moments Remix Flavoured Vodka ORANGE PET 60MLx150P.Btls(0502)",
+              "60",
+              "13114.25",
+              "0",
+              "25",
+              "2185.71",
+              "3.83"
+            ],
+            [
+              "93",
+              "Magic Moments Remix Grape Fruit & Water Melon Flavoured Vodka 375ML(0502)",
+              "375",
+              "13114.25",
+              "0",
+              "6",
+              "3278.56",
+              "3.93"
+            ],
+            [
+              "94",
+              "Platinum Romanov Flavoured Vodka Zesty Orange 180MLx48Btls(0538)",
+              "180",
+              "10163.36",
+              "1",
+              "0",
+              "10163.36",
+              "2.09"
+            ],
+            [
+              "95",
+              "Smirnoff Minty Jamun Triple Distilled Flavoured Vodka 750MLx12Btls(0020)",
+              "750",
+              "19872.87",
+              "0",
+              "3",
+              "4968.22",
+              "3.32"
+            ],
+            [
+              "96",
+              "Smirnoff Mirchi Mango Triple Distilled Flavoured Vodka-PET 180MLx48Btls(0020)",
+              "180",
+              "19275.9",
+              "0",
+              "12",
+              "4818.98",
+              "3.26"
+            ],
+            [
+              "97",
+              "Smirnoff Triple Distilled Vodka-PET 180MLx48P.Btls(0020)",
+              "180",
+              "19030.68",
+              "0",
+              "12",
+              "4757.67",
+              "3.88"
+            ],
+            [
+              "98",
+              "Smirnoff Triple Distilled Vodka-PET 60MLx150P.Btls(0020)",
+              "60",
+              "19872.87",
+              "0",
+              "50",
+              "6624.29",
+              "4.27"
+            ],
+            [
+              "99",
+              "Biere Blanche Blanc Kronenbourg 1664 French Beer-Can",
+              "500",
+              "5453.67",
+              "1",
+              "0",
+              "5453.67",
+              "0.04"
+            ],
+            [
+              "100",
+              "Black Fort Super Strong Beer 650ML(0213)",
+              "650",
+              "1799.99",
+              "1",
+              "0",
+              "1799.99",
+              "0"
+            ],
+            [
+              "101",
+              "Budweiser Magnum Beer 330MLx24Btls(0217)",
+              "330",
+              "3490.89",
+              "1",
+              "0",
+              "3490.89",
+              "0"
+            ],
+            [
+              "102",
+              "Budweiser Magnum Beer 650MLx12Btls(0217)",
+              "650",
+              "2672.74",
+              "6",
+              "0",
+              "16036.44",
+              "0"
+            ],
+            [
+              "103",
+              "Budweiser Magnum Beer-CAN 500MLx24Cans(0217)",
+              "500",
+              "4112.16",
+              "6",
+              "0",
+              "24672.96",
+              "1.53"
+            ],
+            [
+              "104",
+              "Budweiser Premium King of Beers 650MLx12Btls(0217)",
+              "650",
+              "2454.39",
+              "1",
+              "0",
+              "2454.39",
+              "0.01"
+            ],
+            [
+              "105",
+              "Bullet Super Strong Beer 330MLx24Btls(0206)",
+              "330",
+              "1745.41",
+              "1",
+              "0",
+              "1745.41",
+              "0"
+            ],
+            [
+              "106",
+              "Bullet Super Strong Beer-Can 500MLx24Btls(0210)",
+              "500",
+              "2181.77",
+              "4",
+              "0",
+              "8727.08",
+              "0"
+            ],
+            [
+              "107",
+              "Carlsberg Elephant Strong Super Premium Beer 650ML(0205)",
+              "650",
+              "2726.37",
+              "2",
+              "0",
+              "5452.74",
+              "0.08"
+            ],
+            [
+              "108",
+              "Carlsberg Elephant Strong Super Premium Beer-CAN- 500ML(0280)",
+              "500",
+              "4225.5",
+              "2",
+              "0",
+              "8451",
+              "1.33"
+            ],
+            [
+              "109",
+              "Carlsberg Limited Edition Beer Miracle of 2005-Can 500MLx24Cans(0280)",
+              "500",
+              "4013.97",
+              "1",
+              "0",
+              "4013.97",
+              "1.03"
+            ],
+            [
+              "110",
+              "Corona Extra Premium Beer 330MLx24Btls.(0254)",
+              "330",
+              "4145.43",
+              "1",
+              "0",
+              "4145.43",
+              "0"
+            ],
+            [
+              "111",
+              "Haywards 5000 Premium Strong Beer-CAN 500MLx24Btls(0217)",
+              "500",
+              "2337.35",
+              "1",
+              "0",
+              "2337.35",
+              "2.87"
+            ],
+            [
+              "112",
+              "Heineken Lager Beer 650MLx12Btls(0210)",
+              "650",
+              "2898.17",
+              "1",
+              "0",
+              "2898.17",
+              "4.33"
+            ],
+            [
+              "113",
+              "Heineken Silver 100% Malt Lager Beer-Can 500MLx24Cans(0210)",
+              "500",
+              "4681.54",
+              "1",
+              "0",
+              "4681.54",
+              "0.43"
+            ],
+            [
+              "114",
+              "Hoegaarden Witbier-CAN 500MLx24Cans(0217)",
+              "500",
+              "4363.64",
+              "2",
+              "0",
+              "8727.28",
+              "0"
+            ],
+            [
+              "115",
+              "Kingfisher Premium Lager Beer 650ML(0210)",
+              "650",
+              "1994.69",
+              "3",
+              "0",
+              "5984.07",
+              "2.15"
+            ],
+            [
+              "116",
+              "Kingfisher Strong Premium Beer 650ML(0210)",
+              "650",
+              "2049.11",
+              "8",
+              "0",
+              "16392.88",
+              "2.16"
+            ],
+            [
+              "117",
+              "Kingfisher Strong Premium Beer-CAN 330ML(0210)",
+              "330",
+              "2181.8",
+              "2",
+              "0",
+              "4363.6",
+              "0"
+            ],
+            [
+              "118",
+              "Kingfisher Strong Premium Beer-CAN 500ML(0210)",
+              "500",
+              "3213.15",
+              "5",
+              "0",
+              "16065.75",
+              "2.73"
+            ],
+            [
+              "119",
+              "Kingfisher Super Smooth Strong Premium Beer-CAN 500MLx24Cans(0210)",
+              "500",
+              "3381.77",
+              "1",
+              "0",
+              "3381.77",
+              "0"
+            ],
+            [
+              "120",
+              "Kingfisher ULTRA Lager Beer-CAN 500MLx24Cans(0210)",
+              "500",
+              "3880.43",
+              "2",
+              "0",
+              "7760.86",
+              "2.15"
+            ],
+            [
+              "121",
+              "Kingfisher Ultra Lager Beer 330ML(0210)",
+              "330",
+              "3325.33",
+              "1",
+              "0",
+              "3325.33",
+              "2.59"
+            ],
+            [
+              "122",
+              "Kingfisher Ultra Lager Beer 650ML(0210)",
+              "650",
+              "2438.44",
+              "3",
+              "0",
+              "7315.32",
+              "1.48"
+            ],
+            [
+              "123",
+              "Kingfisher Ultra MAX Premium Strong Beer 330ML(0210)",
+              "330",
+              "3324.25",
+              "1",
+              "0",
+              "3324.25",
+              "2.64"
+            ],
+            [
+              "124",
+              "Kingfisher Ultra MAX Premium Strong Beer 650ML(0210)",
+              "650",
+              "2548.34",
+              "2",
+              "0",
+              "5096.68",
+              "1.4"
+            ],
+            [
+              "125",
+              "Kingfisher Ultra MAX Premium Strong Beer-CAN 500ML(0210)",
+              "500",
+              "3989.72",
+              "1",
+              "0",
+              "3989.72",
+              "2.14"
+            ],
+            [
+              "126",
+              "Mount's 6000 Fine Strong Beer-Can 500MLx24Cans(0220)",
+              "500",
+              "2179.85",
+              "1",
+              "0",
+              "2179.85",
+              "0.09"
+            ],
+            [
+              "127",
+              "Mount's 6000 Fine Strong Beer 650MLx12Btls(0220)",
+              "650",
+              "1308.51",
+              "2",
+              "0",
+              "2617.02",
+              "0.05"
+            ],
+            [
+              "128",
+              "Peoples Bangalore 330MLx24Btls(0298)",
+              "330",
+              "3881.04",
+              "1",
+              "0",
+              "3881.04",
+              "2.12"
+            ],
+            [
+              "129",
+              "Peoples Bangalore 650MLx12Btls(0298)",
+              "650",
+              "3104.4",
+              "1",
+              "0",
+              "3104.4",
+              "0.43"
+            ],
+            [
+              "130",
+              "Tuborg Green Beer 650ML(0205)",
+              "650",
+              "2066.09",
+              "2",
+              "0",
+              "4132.18",
+              "0.61"
+            ],
+            [
+              "131",
+              "Tuborg Strong Premium Beer 330ML(0205)",
+              "330",
+              "2507.88",
+              "1",
+              "0",
+              "2507.88",
+              "0.06"
+            ],
+            [
+              "132",
+              "UB Export Premium Lager Beer - CAN 500ML(0210)",
+              "500",
+              "2727.22",
+              "3",
+              "0",
+              "8181.66",
+              "0"
+            ],
+            [
+              "133",
+              "UB Export Strong Premium Beer 330ML (0206)",
+              "330",
+              "1963.61",
+              "1",
+              "0",
+              "1963.61",
+              "0"
+            ],
+            [
+              "134",
+              "Tequila The Warehouse 100% Pure 180ML(0110)",
+              "180",
+              "25308.92",
+              "0",
+              "24",
+              "12654.46",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Raw Extract",
+          "kind": "raw",
+          "columns": [
+            "Text"
+          ],
+          "rows": [
+            [
+              "Karnataka State Beverages Corporation Limited"
+            ],
+            [
+              "4th Floor, TTMC Building ,'A' Block, BMTC"
+            ],
+            [
+              "Shantinagar,Bengaluru-560 027"
+            ],
+            [
+              "KSBCL GSTIN No : 29AACCK1421A1Z7"
+            ],
+            [
+              "FSSAI No : 10014043001044"
+            ],
+            [
+              "KSBCL - SAKALAVARA-2"
+            ],
+            [
+              "KSBCL Depot-2, No.94,"
+            ],
+            [
+              "S.L.V.Industrial Estate,"
+            ],
+            [
+              "Sakalavara village, Bannerghatta Road,"
+            ],
+            [
+              "Bill Of Invoice"
+            ],
+            [
+              "PartyID : 18203"
+            ],
+            [
+              "Party Name : Venkateshwara Enterprises"
+            ],
+            [
+              "Invoice No: SSV225022806"
+            ],
+            [
+              "Permit No : 022806"
+            ],
+            [
+              "Valid Date: 23/03/2026"
+            ],
+            [
+              "Date :23/03/2026"
+            ],
+            [
+              "Validity : 23/03/2026"
+            ],
+            [
+              "Range : 46 -BTM"
+            ],
+            [
+              "No.0,1, Khatha No."
+            ],
+            [
+              "357:9Akshayanagara,"
+            ],
+            [
+              "EllenahalliNear DLF, Bangalore"
+            ],
+            [
+              "(560068)"
+            ],
+            [
+              "District : BUD8"
+            ],
+            [
+              "Vehicle : KA-"
+            ],
+            [
+              "P.A.N : AAEFV0828K"
+            ],
+            [
+              "Page 1 of 9"
+            ],
+            [
+              "Sakalavara Village, Bannerghatta Road,"
+            ],
+            [
+              "Page 3 of 9"
+            ],
+            [
+              "Page 6 of 9"
+            ],
+            [
+              "500MLx24Canss(0280)"
+            ],
+            [
+              "Page 7 of 9"
+            ],
+            [
+              "Page 8 of 9"
+            ],
+            [
+              "Total 156 545 966585.08"
+            ],
+            [
+              "Total :831.96"
+            ],
+            [
+              "Total Beer :700.8"
+            ],
+            [
+              "Total Bulk :1532.76"
+            ],
+            [
+              "Provisional Opening Balance : 1001166.3"
+            ],
+            [
+              "(+)TCS Value : 9666"
+            ],
+            [
+              "Invoice Value : 976251.08"
+            ],
+            [
+              "Total AROED : 12347.95"
+            ],
+            [
+              "Total Value : 988599.03"
+            ],
+            [
+              "Provisional Closing Balance : 12567.27"
+            ],
+            [
+              "Amount In Words :Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+            ],
+            [
+              "Goods Received In Good Condition"
+            ],
+            [
+              "For Karnataka State Beverages Corporation Ltd."
+            ],
+            [
+              "Signature of Retailers."
+            ],
+            [
+              "Subject To Banglore Jurisdiction"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

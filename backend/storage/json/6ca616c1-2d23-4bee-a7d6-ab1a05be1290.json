@@ -1,0 +1,607 @@
+{
+  "original_name": "WhatsApp Image 2026-04-07 at 3.06.48 PM.jpeg",
+  "workbook": {
+    "workbook_title": "Invoice - 6ca616c1 2d23 4bee a7d6 ab1a05be1290",
+    "sheets": [
+      {
+        "name": "Summary",
+        "kind": "summary",
+        "columns": [
+          "Field",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Sl No. 1 Amount(Rs.)",
+            "3490.04"
+          ],
+          [
+            "Sl No. 2 Amount(Rs.)",
+            "3272.82"
+          ],
+          [
+            "Sl No. 3 Amount(Rs.)",
+            "3272.82"
+          ],
+          [
+            "Sl No. 4 Amount(Rs.)",
+            "1634.73"
+          ],
+          [
+            "Sl No. 5 Amount(Rs.)",
+            "3272.58"
+          ],
+          [
+            "Sl No. 6 Amount(Rs.)",
+            "2836.36"
+          ]
+        ]
+      },
+      {
+        "name": "Items",
+        "kind": "table",
+        "columns": [
+          "Sl No.",
+          "Item Name",
+          "Size(ml)",
+          "Rate for CB",
+          "CBs",
+          "Btls",
+          "Amount(Rs.)",
+          "AROED Per Btls"
+        ],
+        "rows": [
+          [
+            "1",
+            "Bro Code Cremant 330MLx24Btls(0605)",
+            "330",
+            "3490.04",
+            "1",
+            "0",
+            "3490.04",
+            "0.04"
+          ],
+          [
+            "2",
+            "Flingit Exotic Passion 330MLx24Btls(0042)",
+            "330",
+            "3272.82",
+            "1",
+            "0",
+            "3272.82",
+            "0"
+          ],
+          [
+            "3",
+            "Flingit Klassik 330MLx24Btls(0042)",
+            "330",
+            "3272.82",
+            "1",
+            "0",
+            "3272.82",
+            "0"
+          ],
+          [
+            "4",
+            "Goana's Wine-PET 750MLx12P.Btls(0609)",
+            "750",
+            "1634.73",
+            "1",
+            "0",
+            "1634.73",
+            "0.15"
+          ],
+          [
+            "5",
+            "Boroka Gin And Tonic 330MLx24Btls(0679)",
+            "330",
+            "3272.58",
+            "1",
+            "0",
+            "3272.58",
+            "0.01"
+          ],
+          [
+            "6",
+            "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+            "275",
+            "2836.36",
+            "1",
+            "0",
+            "2836.36",
+            "0"
+          ]
+        ]
+      },
+      {
+        "name": "Raw Extract",
+        "kind": "raw",
+        "columns": [
+          "Text"
+        ],
+        "rows": [
+          [
+            "Sl No."
+          ],
+          [
+            "Item Name"
+          ],
+          [
+            "Size(ml)"
+          ],
+          [
+            "Rate for CB"
+          ],
+          [
+            "CBs"
+          ],
+          [
+            "Btls"
+          ],
+          [
+            "Amount(Rs.)"
+          ],
+          [
+            "AROED Per Btls"
+          ],
+          [
+            "1 Bro Code Cremant 330MLx24Btls(0605) 330 3490.04 1 0 3490.04 0.04"
+          ],
+          [
+            "2 Flingit Exotic Passion 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0"
+          ],
+          [
+            "3 Flingit Klassik 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0"
+          ],
+          [
+            "4 Goana's Wine-PET 750MLx12P.Btls(0609) 750 1634.73 1 0 1634.73 0.15"
+          ],
+          [
+            "5 Boroka Gin And Tonic 330MLx24Btls(0679) 330 3272.58 1 0 3272.58 0.01"
+          ],
+          [
+            "6 Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057) 275 2836.36 1 0 2836.36 0"
+          ]
+        ]
+      }
+    ]
+  },
+  "validation": {
+    "status": "passed",
+    "confidence_score": 97,
+    "warnings": [
+      {
+        "level": "info",
+        "sheet": "Items",
+        "message": "No obvious total row detected in a table that has amount-like columns.",
+        "code": "TOTAL_ROW_NOT_FOUND"
+      }
+    ],
+    "summary": "Validation finished with confidence score 97/100. Errors: 0, warnings: 0, info messages: 1."
+  },
+  "extracted": {
+    "source_file": "6ca616c1-2d23-4bee-a7d6-ab1a05be1290.jpeg",
+    "pages": [
+      {
+        "page_number": 1,
+        "document_type": "invoice",
+        "key_values": [
+          {
+            "label": "Sl No. 1 Amount(Rs.)",
+            "value": "3490.04"
+          },
+          {
+            "label": "Sl No. 2 Amount(Rs.)",
+            "value": "3272.82"
+          },
+          {
+            "label": "Sl No. 3 Amount(Rs.)",
+            "value": "3272.82"
+          },
+          {
+            "label": "Sl No. 4 Amount(Rs.)",
+            "value": "1634.73"
+          },
+          {
+            "label": "Sl No. 5 Amount(Rs.)",
+            "value": "3272.58"
+          },
+          {
+            "label": "Sl No. 6 Amount(Rs.)",
+            "value": "2836.36"
+          }
+        ],
+        "tables": [
+          {
+            "title": "Items",
+            "columns": [
+              "Sl No.",
+              "Item Name",
+              "Size(ml)",
+              "Rate for CB",
+              "CBs",
+              "Btls",
+              "Amount(Rs.)",
+              "AROED Per Btls"
+            ],
+            "rows": [
+              [
+                "1",
+                "Bro Code Cremant 330MLx24Btls(0605)",
+                "330",
+                "3490.04",
+                "1",
+                "0",
+                "3490.04",
+                "0.04"
+              ],
+              [
+                "2",
+                "Flingit Exotic Passion 330MLx24Btls(0042)",
+                "330",
+                "3272.82",
+                "1",
+                "0",
+                "3272.82",
+                "0"
+              ],
+              [
+                "3",
+                "Flingit Klassik 330MLx24Btls(0042)",
+                "330",
+                "3272.82",
+                "1",
+                "0",
+                "3272.82",
+                "0"
+              ],
+              [
+                "4",
+                "Goana's Wine-PET 750MLx12P.Btls(0609)",
+                "750",
+                "1634.73",
+                "1",
+                "0",
+                "1634.73",
+                "0.15"
+              ],
+              [
+                "5",
+                "Boroka Gin And Tonic 330MLx24Btls(0679)",
+                "330",
+                "3272.58",
+                "1",
+                "0",
+                "3272.58",
+                "0.01"
+              ],
+              [
+                "6",
+                "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+                "275",
+                "2836.36",
+                "1",
+                "0",
+                "2836.36",
+                "0"
+              ]
+            ]
+          }
+        ],
+        "raw_lines": [
+          "Sl No.",
+          "Item Name",
+          "Size(ml)",
+          "Rate for CB",
+          "CBs",
+          "Btls",
+          "Amount(Rs.)",
+          "AROED Per Btls",
+          "1 Bro Code Cremant 330MLx24Btls(0605) 330 3490.04 1 0 3490.04 0.04",
+          "2 Flingit Exotic Passion 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0",
+          "3 Flingit Klassik 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0",
+          "4 Goana's Wine-PET 750MLx12P.Btls(0609) 750 1634.73 1 0 1634.73 0.15",
+          "5 Boroka Gin And Tonic 330MLx24Btls(0679) 330 3272.58 1 0 3272.58 0.01",
+          "6 Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057) 275 2836.36 1 0 2836.36 0"
+        ],
+        "notes": [
+          "Item names and pack details appear split across two visual lines per row and were combined into single table cells."
+        ]
+      }
+    ],
+    "merged_model": {
+      "document_type": "invoice",
+      "key_values": [
+        {
+          "label": "Sl No. 1 Amount(Rs.)",
+          "value": "3490.04"
+        },
+        {
+          "label": "Sl No. 2 Amount(Rs.)",
+          "value": "3272.82"
+        },
+        {
+          "label": "Sl No. 3 Amount(Rs.)",
+          "value": "3272.82"
+        },
+        {
+          "label": "Sl No. 4 Amount(Rs.)",
+          "value": "1634.73"
+        },
+        {
+          "label": "Sl No. 5 Amount(Rs.)",
+          "value": "3272.58"
+        },
+        {
+          "label": "Sl No. 6 Amount(Rs.)",
+          "value": "2836.36"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Items",
+          "columns": [
+            "Sl No.",
+            "Item Name",
+            "Size(ml)",
+            "Rate for CB",
+            "CBs",
+            "Btls",
+            "Amount(Rs.)",
+            "AROED Per Btls"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bro Code Cremant 330MLx24Btls(0605)",
+              "330",
+              "3490.04",
+              "1",
+              "0",
+              "3490.04",
+              "0.04"
+            ],
+            [
+              "2",
+              "Flingit Exotic Passion 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "3",
+              "Flingit Klassik 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "4",
+              "Goana's Wine-PET 750MLx12P.Btls(0609)",
+              "750",
+              "1634.73",
+              "1",
+              "0",
+              "1634.73",
+              "0.15"
+            ],
+            [
+              "5",
+              "Boroka Gin And Tonic 330MLx24Btls(0679)",
+              "330",
+              "3272.58",
+              "1",
+              "0",
+              "3272.58",
+              "0.01"
+            ],
+            [
+              "6",
+              "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+              "275",
+              "2836.36",
+              "1",
+              "0",
+              "2836.36",
+              "0"
+            ]
+          ],
+          "source_pages": [
+            1
+          ]
+        }
+      ],
+      "raw_lines": [
+        "Sl No.",
+        "Item Name",
+        "Size(ml)",
+        "Rate for CB",
+        "CBs",
+        "Btls",
+        "Amount(Rs.)",
+        "AROED Per Btls",
+        "1 Bro Code Cremant 330MLx24Btls(0605) 330 3490.04 1 0 3490.04 0.04",
+        "2 Flingit Exotic Passion 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0",
+        "3 Flingit Klassik 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0",
+        "4 Goana's Wine-PET 750MLx12P.Btls(0609) 750 1634.73 1 0 1634.73 0.15",
+        "5 Boroka Gin And Tonic 330MLx24Btls(0679) 330 3272.58 1 0 3272.58 0.01",
+        "6 Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057) 275 2836.36 1 0 2836.36 0"
+      ],
+      "notes": [
+        "Item names and pack details appear split across two visual lines per row and were combined into single table cells."
+      ]
+    },
+    "workbook": {
+      "workbook_title": "Invoice - 6ca616c1 2d23 4bee a7d6 ab1a05be1290",
+      "sheets": [
+        {
+          "name": "Summary",
+          "kind": "summary",
+          "columns": [
+            "Field",
+            "Value"
+          ],
+          "rows": [
+            [
+              "Sl No. 1 Amount(Rs.)",
+              "3490.04"
+            ],
+            [
+              "Sl No. 2 Amount(Rs.)",
+              "3272.82"
+            ],
+            [
+              "Sl No. 3 Amount(Rs.)",
+              "3272.82"
+            ],
+            [
+              "Sl No. 4 Amount(Rs.)",
+              "1634.73"
+            ],
+            [
+              "Sl No. 5 Amount(Rs.)",
+              "3272.58"
+            ],
+            [
+              "Sl No. 6 Amount(Rs.)",
+              "2836.36"
+            ]
+          ]
+        },
+        {
+          "name": "Items",
+          "kind": "table",
+          "columns": [
+            "Sl No.",
+            "Item Name",
+            "Size(ml)",
+            "Rate for CB",
+            "CBs",
+            "Btls",
+            "Amount(Rs.)",
+            "AROED Per Btls"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bro Code Cremant 330MLx24Btls(0605)",
+              "330",
+              "3490.04",
+              "1",
+              "0",
+              "3490.04",
+              "0.04"
+            ],
+            [
+              "2",
+              "Flingit Exotic Passion 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "3",
+              "Flingit Klassik 330MLx24Btls(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "4",
+              "Goana's Wine-PET 750MLx12P.Btls(0609)",
+              "750",
+              "1634.73",
+              "1",
+              "0",
+              "1634.73",
+              "0.15"
+            ],
+            [
+              "5",
+              "Boroka Gin And Tonic 330MLx24Btls(0679)",
+              "330",
+              "3272.58",
+              "1",
+              "0",
+              "3272.58",
+              "0.01"
+            ],
+            [
+              "6",
+              "Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057)",
+              "275",
+              "2836.36",
+              "1",
+              "0",
+              "2836.36",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Raw Extract",
+          "kind": "raw",
+          "columns": [
+            "Text"
+          ],
+          "rows": [
+            [
+              "Sl No."
+            ],
+            [
+              "Item Name"
+            ],
+            [
+              "Size(ml)"
+            ],
+            [
+              "Rate for CB"
+            ],
+            [
+              "CBs"
+            ],
+            [
+              "Btls"
+            ],
+            [
+              "Amount(Rs.)"
+            ],
+            [
+              "AROED Per Btls"
+            ],
+            [
+              "1 Bro Code Cremant 330MLx24Btls(0605) 330 3490.04 1 0 3490.04 0.04"
+            ],
+            [
+              "2 Flingit Exotic Passion 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0"
+            ],
+            [
+              "3 Flingit Klassik 330MLx24Btls(0042) 330 3272.82 1 0 3272.82 0"
+            ],
+            [
+              "4 Goana's Wine-PET 750MLx12P.Btls(0609) 750 1634.73 1 0 1634.73 0.15"
+            ],
+            [
+              "5 Boroka Gin And Tonic 330MLx24Btls(0679) 330 3272.58 1 0 3272.58 0.01"
+            ],
+            [
+              "6 Breezer Ripe Mango Peach Flavour 275MLx24Btls(0057) 275 2836.36 1 0 2836.36 0"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

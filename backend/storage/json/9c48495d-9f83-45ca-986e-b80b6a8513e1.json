@@ -1,0 +1,186 @@
+{
+  "source_file": "9c48495d-9f83-45ca-986e-b80b6a8513e1.jpeg",
+  "pages": [
+    {
+      "page_number": 1,
+      "document_type": "summary",
+      "key_values": [
+        {
+          "label": "Total",
+          "value": "156 545 966585.08"
+        },
+        {
+          "label": "Total",
+          "value": "831.96"
+        },
+        {
+          "label": "Total Beer",
+          "value": "700.8"
+        },
+        {
+          "label": "Total Bulk",
+          "value": "1532.76"
+        },
+        {
+          "label": "Provisional Opening Balance",
+          "value": "1001166.3"
+        },
+        {
+          "label": "(+)TCS Value",
+          "value": "9666"
+        },
+        {
+          "label": "Invoice Value",
+          "value": "976251.08"
+        },
+        {
+          "label": "Total AROED",
+          "value": "12347.95"
+        },
+        {
+          "label": "Total Value",
+          "value": "988599.03"
+        },
+        {
+          "label": "Provisional Closing Balance",
+          "value": "12567.27"
+        },
+        {
+          "label": "Amount In Words",
+          "value": "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+        }
+      ],
+      "tables": [],
+      "raw_lines": [
+        "Total 156 545 966585.08",
+        "Total : 831.96",
+        "Total Beer : 700.8",
+        "Total Bulk : 1532.76",
+        "Provisional Opening Balance : 1001166.3",
+        "(+)TCS Value : 9666",
+        "Invoice Value : 976251.08",
+        "Total AROED : 12347.95",
+        "Total Value : 988599.03",
+        "Provisional Closing Balance : 12567.27",
+        "Amount In Words : Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+      ],
+      "notes": [
+        "No table structure clearly visible on this page.",
+        "Some text appears over a watermark."
+      ]
+    }
+  ],
+  "workbook": {
+    "workbook_title": "Extracted Document Workbook",
+    "sheets": [
+      {
+        "name": "Summary",
+        "kind": "key_values",
+        "columns": [
+          "Field",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Total",
+            "156 545 966585.08"
+          ],
+          [
+            "Total",
+            "831.96"
+          ],
+          [
+            "Total Beer",
+            "700.8"
+          ],
+          [
+            "Total Bulk",
+            "1532.76"
+          ],
+          [
+            "Provisional Opening Balance",
+            "1001166.3"
+          ],
+          [
+            "(+)TCS Value",
+            "9666"
+          ],
+          [
+            "Invoice Value",
+            "976251.08"
+          ],
+          [
+            "Total AROED",
+            "12347.95"
+          ],
+          [
+            "Total Value",
+            "988599.03"
+          ],
+          [
+            "Provisional Closing Balance",
+            "12567.27"
+          ],
+          [
+            "Amount In Words",
+            "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+          ]
+        ]
+      },
+      {
+        "name": "Raw Extract",
+        "kind": "raw_text",
+        "columns": [
+          "Page",
+          "Line"
+        ],
+        "rows": [
+          [
+            "1",
+            "Total 156 545 966585.08"
+          ],
+          [
+            "1",
+            "Total : 831.96"
+          ],
+          [
+            "1",
+            "Total Beer : 700.8"
+          ],
+          [
+            "1",
+            "Total Bulk : 1532.76"
+          ],
+          [
+            "1",
+            "Provisional Opening Balance : 1001166.3"
+          ],
+          [
+            "1",
+            "(+)TCS Value : 9666"
+          ],
+          [
+            "1",
+            "Invoice Value : 976251.08"
+          ],
+          [
+            "1",
+            "Total AROED : 12347.95"
+          ],
+          [
+            "1",
+            "Total Value : 988599.03"
+          ],
+          [
+            "1",
+            "Provisional Closing Balance : 12567.27"
+          ],
+          [
+            "1",
+            "Amount In Words : Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+          ]
+        ]
+      }
+    ]
+  }
+}

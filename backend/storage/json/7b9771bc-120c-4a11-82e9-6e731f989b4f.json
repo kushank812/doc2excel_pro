@@ -1,0 +1,357 @@
+{
+  "original_name": "WhatsApp Image 2026-04-07 at 3.06.49 PM.jpeg",
+  "workbook": {
+    "workbook_title": "Summary - 7b9771bc 120c 4a11 82e9 6e731f989b4f",
+    "sheets": [
+      {
+        "name": "Summary",
+        "kind": "summary",
+        "columns": [
+          "Field",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Total",
+            "156  545  966585.08"
+          ],
+          [
+            "Total",
+            "831.96"
+          ],
+          [
+            "Total Beer",
+            "700.8"
+          ],
+          [
+            "Total Bulk",
+            "1532.76"
+          ],
+          [
+            "Provisional Opening Balance",
+            "1001166.3"
+          ],
+          [
+            "(+)TCS Value",
+            "9666"
+          ],
+          [
+            "Invoice Value",
+            "976251.08"
+          ],
+          [
+            "Total AROED",
+            "12347.95"
+          ],
+          [
+            "Total Value",
+            "988599.03"
+          ],
+          [
+            "Provisional Closing Balance",
+            "12567.27"
+          ],
+          [
+            "Amount In Words",
+            "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+          ]
+        ]
+      },
+      {
+        "name": "Raw Text",
+        "kind": "raw",
+        "columns": [
+          "Text"
+        ],
+        "rows": [
+          [
+            "Total 156  545  966585.08"
+          ],
+          [
+            "Total : 831.96"
+          ],
+          [
+            "Total Beer : 700.8"
+          ],
+          [
+            "Total Bulk : 1532.76"
+          ],
+          [
+            "Provisional Opening Balance : 1001166.3"
+          ],
+          [
+            "(+)TCS Value : 9666"
+          ],
+          [
+            "Invoice Value : 976251.08"
+          ],
+          [
+            "Total AROED : 12347.95"
+          ],
+          [
+            "Total Value : 988599.03"
+          ],
+          [
+            "Provisional Closing Balance : 12567.27"
+          ],
+          [
+            "Amount In Words : Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three"
+          ],
+          [
+            "Paise Only"
+          ]
+        ]
+      }
+    ]
+  },
+  "validation": {
+    "status": "passed",
+    "confidence_score": 100,
+    "warnings": [],
+    "summary": "Workbook passed validation without warnings."
+  },
+  "extracted": {
+    "source_file": "7b9771bc-120c-4a11-82e9-6e731f989b4f.jpeg",
+    "pages": [
+      {
+        "page_number": 1,
+        "document_type": "summary",
+        "key_values": [
+          {
+            "label": "Total",
+            "value": "156  545  966585.08"
+          },
+          {
+            "label": "Total",
+            "value": "831.96"
+          },
+          {
+            "label": "Total Beer",
+            "value": "700.8"
+          },
+          {
+            "label": "Total Bulk",
+            "value": "1532.76"
+          },
+          {
+            "label": "Provisional Opening Balance",
+            "value": "1001166.3"
+          },
+          {
+            "label": "(+)TCS Value",
+            "value": "9666"
+          },
+          {
+            "label": "Invoice Value",
+            "value": "976251.08"
+          },
+          {
+            "label": "Total AROED",
+            "value": "12347.95"
+          },
+          {
+            "label": "Total Value",
+            "value": "988599.03"
+          },
+          {
+            "label": "Provisional Closing Balance",
+            "value": "12567.27"
+          },
+          {
+            "label": "Amount In Words",
+            "value": "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+          }
+        ],
+        "tables": [],
+        "raw_lines": [
+          "Total 156  545  966585.08",
+          "Total : 831.96",
+          "Total Beer : 700.8",
+          "Total Bulk : 1532.76",
+          "Provisional Opening Balance : 1001166.3",
+          "(+)TCS Value : 9666",
+          "Invoice Value : 976251.08",
+          "Total AROED : 12347.95",
+          "Total Value : 988599.03",
+          "Provisional Closing Balance : 12567.27",
+          "Amount In Words : Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three",
+          "Paise Only"
+        ],
+        "notes": [
+          "Top line contains 'Total' followed by three numeric values without visible column labels."
+        ]
+      }
+    ],
+    "merged_model": {
+      "document_type": "summary",
+      "key_values": [
+        {
+          "label": "Total",
+          "value": "156  545  966585.08"
+        },
+        {
+          "label": "Total",
+          "value": "831.96"
+        },
+        {
+          "label": "Total Beer",
+          "value": "700.8"
+        },
+        {
+          "label": "Total Bulk",
+          "value": "1532.76"
+        },
+        {
+          "label": "Provisional Opening Balance",
+          "value": "1001166.3"
+        },
+        {
+          "label": "(+)TCS Value",
+          "value": "9666"
+        },
+        {
+          "label": "Invoice Value",
+          "value": "976251.08"
+        },
+        {
+          "label": "Total AROED",
+          "value": "12347.95"
+        },
+        {
+          "label": "Total Value",
+          "value": "988599.03"
+        },
+        {
+          "label": "Provisional Closing Balance",
+          "value": "12567.27"
+        },
+        {
+          "label": "Amount In Words",
+          "value": "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+        }
+      ],
+      "tables": [],
+      "raw_lines": [
+        "Total 156  545  966585.08",
+        "Total : 831.96",
+        "Total Beer : 700.8",
+        "Total Bulk : 1532.76",
+        "Provisional Opening Balance : 1001166.3",
+        "(+)TCS Value : 9666",
+        "Invoice Value : 976251.08",
+        "Total AROED : 12347.95",
+        "Total Value : 988599.03",
+        "Provisional Closing Balance : 12567.27",
+        "Amount In Words : Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three",
+        "Paise Only"
+      ],
+      "notes": [
+        "Top line contains 'Total' followed by three numeric values without visible column labels."
+      ]
+    },
+    "workbook": {
+      "workbook_title": "Summary - 7b9771bc 120c 4a11 82e9 6e731f989b4f",
+      "sheets": [
+        {
+          "name": "Summary",
+          "kind": "summary",
+          "columns": [
+            "Field",
+            "Value"
+          ],
+          "rows": [
+            [
+              "Total",
+              "156  545  966585.08"
+            ],
+            [
+              "Total",
+              "831.96"
+            ],
+            [
+              "Total Beer",
+              "700.8"
+            ],
+            [
+              "Total Bulk",
+              "1532.76"
+            ],
+            [
+              "Provisional Opening Balance",
+              "1001166.3"
+            ],
+            [
+              "(+)TCS Value",
+              "9666"
+            ],
+            [
+              "Invoice Value",
+              "976251.08"
+            ],
+            [
+              "Total AROED",
+              "12347.95"
+            ],
+            [
+              "Total Value",
+              "988599.03"
+            ],
+            [
+              "Provisional Closing Balance",
+              "12567.27"
+            ],
+            [
+              "Amount In Words",
+              "Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three Paise Only"
+            ]
+          ]
+        },
+        {
+          "name": "Raw Text",
+          "kind": "raw",
+          "columns": [
+            "Text"
+          ],
+          "rows": [
+            [
+              "Total 156  545  966585.08"
+            ],
+            [
+              "Total : 831.96"
+            ],
+            [
+              "Total Beer : 700.8"
+            ],
+            [
+              "Total Bulk : 1532.76"
+            ],
+            [
+              "Provisional Opening Balance : 1001166.3"
+            ],
+            [
+              "(+)TCS Value : 9666"
+            ],
+            [
+              "Invoice Value : 976251.08"
+            ],
+            [
+              "Total AROED : 12347.95"
+            ],
+            [
+              "Total Value : 988599.03"
+            ],
+            [
+              "Provisional Closing Balance : 12567.27"
+            ],
+            [
+              "Amount In Words : Nine Lakh Eighty-Eight Thousand Five Hundred Ninety-Nine And Three"
+            ],
+            [
+              "Paise Only"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

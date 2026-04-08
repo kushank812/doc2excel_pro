@@ -1,0 +1,292 @@
+{
+  "source_file": "8c60b4a2-3634-4ab6-8e05-55538425f230.jpeg",
+  "pages": [
+    {
+      "page_number": 1,
+      "document_type": "invoice",
+      "key_values": [
+        {
+          "label": "Rate for CB",
+          "value": "3490.04"
+        },
+        {
+          "label": "Amount(Rs.)",
+          "value": "3490.04"
+        },
+        {
+          "label": "AROED Per Bt1s",
+          "value": "0.04"
+        },
+        {
+          "label": "Rate for CB",
+          "value": "3272.82"
+        },
+        {
+          "label": "Amount(Rs.)",
+          "value": "3272.82"
+        },
+        {
+          "label": "AROED Per Bt1s",
+          "value": "0"
+        },
+        {
+          "label": "Rate for CB",
+          "value": "3272.82"
+        },
+        {
+          "label": "Amount(Rs.)",
+          "value": "3272.82"
+        },
+        {
+          "label": "AROED Per Bt1s",
+          "value": "0"
+        },
+        {
+          "label": "Rate for CB",
+          "value": "1634.73"
+        },
+        {
+          "label": "Amount(Rs.)",
+          "value": "1634.73"
+        },
+        {
+          "label": "AROED Per Bt1s",
+          "value": "0.15"
+        },
+        {
+          "label": "Rate for CB",
+          "value": "3272.58"
+        },
+        {
+          "label": "Amount(Rs.)",
+          "value": "3272.58"
+        },
+        {
+          "label": "AROED Per Bt1s",
+          "value": "0.01"
+        },
+        {
+          "label": "Rate for CB",
+          "value": "2836.36"
+        },
+        {
+          "label": "Amount(Rs.)",
+          "value": "2836.36"
+        },
+        {
+          "label": "AROED Per Bt1s",
+          "value": "0"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Items",
+          "columns": [
+            "Sl No.",
+            "Item Name",
+            "Size(ml)",
+            "Rate for CB",
+            "CBs",
+            "Bt1s",
+            "Amount(Rs.)",
+            "AROED Per Bt1s"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bro Code Cremant 330MLx24Bt1s(0605)",
+              "330",
+              "3490.04",
+              "1",
+              "0",
+              "3490.04",
+              "0.04"
+            ],
+            [
+              "2",
+              "Flingit Exotic Passion 330MLx24Bt1s(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "3",
+              "Flingit Klassik 330MLx24Bt1s(0042)",
+              "330",
+              "3272.82",
+              "1",
+              "0",
+              "3272.82",
+              "0"
+            ],
+            [
+              "4",
+              "Goana's Wine-PET 750MLx12P.Bt1s(0609)",
+              "750",
+              "1634.73",
+              "1",
+              "0",
+              "1634.73",
+              "0.15"
+            ],
+            [
+              "5",
+              "Boroka Gin And Tonic 330MLx24Bt1s(0679)",
+              "330",
+              "3272.58",
+              "1",
+              "0",
+              "3272.58",
+              "0.01"
+            ],
+            [
+              "6",
+              "Breezer Ripe Mango Peach Flavour 275MLx24Bt1s(0057)",
+              "275",
+              "2836.36",
+              "1",
+              "0",
+              "2836.36",
+              "0"
+            ]
+          ]
+        }
+      ],
+      "raw_lines": [
+        "Sl No.",
+        "Item Name",
+        "Size(ml)",
+        "Rate for CB",
+        "CBs",
+        "Bt1s",
+        "Amount(Rs.)",
+        "AROED Per Bt1s",
+        "1 Bro Code Cremant 330MLx24Bt1s(0605) 330 3490.04 1 0 3490.04 0.04",
+        "2 Flingit Exotic Passion 330MLx24Bt1s(0042) 330 3272.82 1 0 3272.82 0",
+        "3 Flingit Klassik 330MLx24Bt1s(0042) 330 3272.82 1 0 3272.82 0",
+        "4 Goana's Wine-PET 750MLx12P.Bt1s(0609) 750 1634.73 1 0 1634.73 0.15",
+        "5 Boroka Gin And Tonic 330MLx24Bt1s(0679) 330 3272.58 1 0 3272.58 0.01",
+        "6 Breezer Ripe Mango Peach Flavour 275MLx24Bt1s(0057) 275 2836.36 1 0 2836.36 0"
+      ],
+      "notes": [
+        "Visible page shows an item table with 6 rows.",
+        "Header text appears as 'AROED Per Bt1s' in the image and is preserved as seen.",
+        "Bottle count header appears as 'Bt1s' and is preserved as seen."
+      ]
+    }
+  ],
+  "workbook": {
+    "workbook_title": "Invoice Extraction Workbook",
+    "sheets": [
+      {
+        "name": "Summary",
+        "kind": "key_values",
+        "columns": [
+          "Field",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Document Type",
+            "invoice"
+          ],
+          [
+            "Items Table Title",
+            "Items"
+          ],
+          [
+            "Total Item Rows",
+            "6"
+          ],
+          [
+            "Page Count",
+            "1"
+          ],
+          [
+            "Notes",
+            "Visible page shows an item table with 6 rows.; Header text appears as 'AROED Per Bt1s' in the image and is preserved as seen.; Bottle count header appears as 'Bt1s' and is preserved as seen."
+          ]
+        ]
+      },
+      {
+        "name": "Invoice Items",
+        "kind": "table",
+        "columns": [
+          "Sl No.",
+          "Item Name",
+          "Size(ml)",
+          "Rate for CB",
+          "CBs",
+          "Bt1s",
+          "Amount(Rs.)",
+          "AROED Per Bt1s"
+        ],
+        "rows": [
+          [
+            "1",
+            "Bro Code Cremant 330MLx24Bt1s(0605)",
+            "330",
+            "3490.04",
+            "1",
+            "0",
+            "3490.04",
+            "0.04"
+          ],
+          [
+            "2",
+            "Flingit Exotic Passion 330MLx24Bt1s(0042)",
+            "330",
+            "3272.82",
+            "1",
+            "0",
+            "3272.82",
+            "0"
+          ],
+          [
+            "3",
+            "Flingit Klassik 330MLx24Bt1s(0042)",
+            "330",
+            "3272.82",
+            "1",
+            "0",
+            "3272.82",
+            "0"
+          ],
+          [
+            "4",
+            "Goana's Wine-PET 750MLx12P.Bt1s(0609)",
+            "750",
+            "1634.73",
+            "1",
+            "0",
+            "1634.73",
+            "0.15"
+          ],
+          [
+            "5",
+            "Boroka Gin And Tonic 330MLx24Bt1s(0679)",
+            "330",
+            "3272.58",
+            "1",
+            "0",
+            "3272.58",
+            "0.01"
+          ],
+          [
+            "6",
+            "Breezer Ripe Mango Peach Flavour 275MLx24Bt1s(0057)",
+            "275",
+            "2836.36",
+            "1",
+            "0",
+            "2836.36",
+            "0"
+          ]
+        ]
+      }
+    ]
+  }
+}
