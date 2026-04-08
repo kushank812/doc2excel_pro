@@ -1,5 +1,6 @@
 # Python
 .venv/
+backend/.venv/
 __pycache__/
 *.pyc
 
@@ -10,5 +11,13 @@ dist/
 # Env
 .env
 
+# Generated / temporary files
+backend/storage/
+backend/uploads/
+backend/output/
+*.xlsx
+*.xls
+
 # OS
 .DS_Store
+Thumbs.db
