@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import logo from "../assets/sofvent-logo.png"; // ✅ THIS IS KEY
+import logo from "../assets/sofvent-logo.png";
 
 export default function Navbar() {
   const location = useLocation();
@@ -13,21 +13,26 @@ export default function Navbar() {
     <header
       style={{
         width: "100%",
-        background: "#ffffff",
-        borderBottom: "1px solid #e5e7eb",
+        background: "rgba(255,255,255,0.92)",
+        backdropFilter: "blur(12px)",
+        WebkitBackdropFilter: "blur(12px)",
+        borderBottom: "1px solid #e2e8f0",
+        position: "sticky",
+        top: 0,
+        zIndex: 50,
       }}
     >
       <div
         style={{
           width: "100%",
+          minHeight: 78,
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
-          padding: "6px 16px 6px 0", // LEFT SIDE = 0
+          padding: "8px 20px 8px 6px",
           boxSizing: "border-box",
         }}
       >
-        {/* LEFT CORNER LOGO */}
         <div
           style={{
             display: "flex",
@@ -37,10 +42,10 @@ export default function Navbar() {
           }}
         >
           <img
-            src={logo}   // ✅ USE IMPORTED IMAGE
+            src={logo}
             alt="Sofvent"
             style={{
-              height: "52px",
+              height: "54px",
               width: "auto",
               display: "block",
               objectFit: "contain",
@@ -48,28 +53,22 @@ export default function Navbar() {
           />
         </div>
 
-        {/* RIGHT NAV */}
         <nav
           style={{
             display: "flex",
             gap: "12px",
             alignItems: "center",
             marginLeft: "auto",
-            paddingRight: "10px",
           }}
         >
           <Link to="/" style={{ textDecoration: "none" }}>
-            <button style={btnStyle(isActive("/"))}>AI Extract ⭐</button>
+            <button style={btnStyle(isActive("/"))}>AI Extract ✨</button>
           </Link>
 
           <Link to="/smart-extract" style={{ textDecoration: "none" }}>
             <button style={btnStyle(isActive("/smart-extract"))}>
               Basic Extract
             </button>
-          </Link>
-
-          <Link to="/history" style={{ textDecoration: "none" }}>
-            <button style={btnStyle(isActive("/history"))}>History</button>
           </Link>
         </nav>
       </div>
@@ -79,13 +78,19 @@ export default function Navbar() {
 
 function btnStyle(active) {
   return {
-    padding: "10px 16px",
-    borderRadius: "12px",
-    border: "1px solid #d1d5db",
-    background: active ? "#0f172a" : "#ffffff",
+    padding: "11px 18px",
+    borderRadius: "14px",
+    border: active ? "1px solid #0f172a" : "1px solid #dbe1ea",
+    background: active
+      ? "linear-gradient(135deg, #0f172a 0%, #111827 100%)"
+      : "#ffffff",
     color: active ? "#ffffff" : "#0f172a",
-    fontWeight: 600,
+    fontWeight: 700,
     fontSize: "15px",
     cursor: "pointer",
+    boxShadow: active
+      ? "0 10px 24px rgba(15, 23, 42, 0.18)"
+      : "0 4px 12px rgba(15, 23, 42, 0.05)",
+    transition: "all 0.2s ease",
   };
 }
