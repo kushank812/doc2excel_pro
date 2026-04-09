@@ -18,28 +18,32 @@ export default function Navbar() {
     >
       <div
         style={{
-          maxWidth: "1200px",
-          margin: "0 auto",
-          padding: "10px 16px",
+          width: "100%",                 // FULL WIDTH
+          padding: "10px 20px",          // small side padding
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
         }}
       >
-        {/* LEFT: LOGO */}
-        <div style={{ display: "flex", alignItems: "center" }}>
+        {/* LEFT LOGO */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+          }}
+        >
           <img
             src={logo}
             alt="Sofvent"
             style={{
-              height: "42px",   // perfect size for your logo
+              height: "45px",
               width: "auto",
               display: "block",
             }}
           />
         </div>
 
-        {/* RIGHT: NAV */}
+        {/* RIGHT NAV */}
         <nav style={{ display: "flex", gap: "10px" }}>
           <Link to="/">
             <button style={btnStyle(isActive("/"))}>
@@ -64,8 +68,6 @@ export default function Navbar() {
   );
 }
 
-/* ---------- STYLES ---------- */
-
 function btnStyle(active) {
   return {
     padding: "8px 14px",
@@ -75,6 +77,5 @@ function btnStyle(active) {
     color: active ? "#ffffff" : "#111827",
     fontWeight: "500",
     cursor: "pointer",
-    transition: "all 0.2s ease",
   };
 }
