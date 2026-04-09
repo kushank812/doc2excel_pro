@@ -1,61 +1,99 @@
+// src/components/Navbar.jsx
+
 import { Link, useLocation } from "react-router-dom";
+import logo from "../assets/sofvent-logo.png";
 
 export default function Navbar() {
   const location = useLocation();
 
-  function linkStyle(path) {
-    const active = location.pathname === path;
-
-    return {
-      padding: "10px 16px",
-      borderRadius: 8,
-      textDecoration: "none",
-      fontWeight: 600,
-      border: active ? "2px solid #111" : "1px solid #ccc",
-      background: active ? "#111" : "#fff",
-      color: active ? "#fff" : "#111",
-      transition: "all 0.2s",
-    };
+  function isActive(path) {
+    return location.pathname === path;
   }
 
   return (
     <div
       style={{
         width: "100%",
-        borderBottom: "1px solid #e2e8f0",
+        borderBottom: "1px solid #e5e7eb",
         background: "#ffffff",
-        position: "sticky",
-        top: 0,
-        zIndex: 100,
+        padding: "10px 20px",
       }}
     >
       <div
         style={{
-          maxWidth: 1200,
+          maxWidth: "1200px",
           margin: "0 auto",
-          padding: "12px 24px",
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
-          flexWrap: "wrap",
-          gap: 12,
         }}
       >
-        <div style={{ fontWeight: 800, fontSize: 18 }}>
-          Doc2Excel Pro
+        {/* LEFT: LOGO ONLY (NO TEXT NEEDED NOW) */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src={logo}
+            alt="Sofvent Logo"
+            style={{
+              height: "45px",       // IMPORTANT: control height only
+              width: "auto",        // keeps aspect ratio correct
+              objectFit: "contain",
+            }}
+          />
         </div>
 
-        <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
-          <Link to="/" style={linkStyle("/")}>
-            AI Extract ⭐
+        {/* RIGHT: NAV BUTTONS */}
+        <div style={{ display: "flex", gap: "10px" }}>
+          <Link to="/">
+            <button
+              style={{
+                padding: "8px 14px",
+                borderRadius: "8px",
+                border: "1px solid #e5e7eb",
+                background: isActive("/") ? "#000" : "#fff",
+                color: isActive("/") ? "#fff" : "#000",
+                fontWeight: "500",
+                cursor: "pointer",
+              }}
+            >
+              AI Extract ⭐
+            </button>
           </Link>
 
-          <Link to="/smart-extract" style={linkStyle("/smart-extract")}>
-            Basic Extract
+          <Link to="/basic">
+            <button
+              style={{
+                padding: "8px 14px",
+                borderRadius: "8px",
+                border: "1px solid #e5e7eb",
+                background: isActive("/basic") ? "#000" : "#fff",
+                color: isActive("/basic") ? "#fff" : "#000",
+                fontWeight: "500",
+                cursor: "pointer",
+              }}
+            >
+              Basic Extract
+            </button>
           </Link>
 
-          <Link to="/history" style={linkStyle("/history")}>
-            History
+          <Link to="/history">
+            <button
+              style={{
+                padding: "8px 14px",
+                borderRadius: "8px",
+                border: "1px solid #e5e7eb",
+                background: isActive("/history") ? "#000" : "#fff",
+                color: isActive("/history") ? "#fff" : "#000",
+                fontWeight: "500",
+                cursor: "pointer",
+              }}
+            >
+              History
+            </button>
           </Link>
         </div>
       </div>
