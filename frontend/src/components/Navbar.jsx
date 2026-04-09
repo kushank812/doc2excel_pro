@@ -6,97 +6,75 @@ import logo from "../assets/sofvent-logo.png";
 export default function Navbar() {
   const location = useLocation();
 
-  function isActive(path) {
-    return location.pathname === path;
-  }
+  const isActive = (path) => location.pathname === path;
 
   return (
-    <div
+    <header
       style={{
         width: "100%",
-        borderBottom: "1px solid #e5e7eb",
         background: "#ffffff",
-        padding: "10px 20px",
+        borderBottom: "1px solid #e5e7eb",
       }}
     >
       <div
         style={{
           maxWidth: "1200px",
           margin: "0 auto",
+          padding: "10px 16px",
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
         }}
       >
-        {/* LEFT: LOGO ONLY (NO TEXT NEEDED NOW) */}
-        <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-          }}
-        >
+        {/* LEFT: LOGO */}
+        <div style={{ display: "flex", alignItems: "center" }}>
           <img
             src={logo}
-            alt="Sofvent Logo"
+            alt="Sofvent"
             style={{
-              height: "45px",       // IMPORTANT: control height only
-              width: "auto",        // keeps aspect ratio correct
-              objectFit: "contain",
+              height: "42px",   // perfect size for your logo
+              width: "auto",
+              display: "block",
             }}
           />
         </div>
 
-        {/* RIGHT: NAV BUTTONS */}
-        <div style={{ display: "flex", gap: "10px" }}>
+        {/* RIGHT: NAV */}
+        <nav style={{ display: "flex", gap: "10px" }}>
           <Link to="/">
-            <button
-              style={{
-                padding: "8px 14px",
-                borderRadius: "8px",
-                border: "1px solid #e5e7eb",
-                background: isActive("/") ? "#000" : "#fff",
-                color: isActive("/") ? "#fff" : "#000",
-                fontWeight: "500",
-                cursor: "pointer",
-              }}
-            >
+            <button style={btnStyle(isActive("/"))}>
               AI Extract ⭐
             </button>
           </Link>
 
           <Link to="/basic">
-            <button
-              style={{
-                padding: "8px 14px",
-                borderRadius: "8px",
-                border: "1px solid #e5e7eb",
-                background: isActive("/basic") ? "#000" : "#fff",
-                color: isActive("/basic") ? "#fff" : "#000",
-                fontWeight: "500",
-                cursor: "pointer",
-              }}
-            >
+            <button style={btnStyle(isActive("/basic"))}>
               Basic Extract
             </button>
           </Link>
 
           <Link to="/history">
-            <button
-              style={{
-                padding: "8px 14px",
-                borderRadius: "8px",
-                border: "1px solid #e5e7eb",
-                background: isActive("/history") ? "#000" : "#fff",
-                color: isActive("/history") ? "#fff" : "#000",
-                fontWeight: "500",
-                cursor: "pointer",
-              }}
-            >
+            <button style={btnStyle(isActive("/history"))}>
               History
             </button>
           </Link>
-        </div>
+        </nav>
       </div>
-    </div>
+    </header>
   );
+}
+
+/* ---------- STYLES ---------- */
+
+function btnStyle(active) {
+  return {
+    padding: "8px 14px",
+    borderRadius: "8px",
+    border: "1px solid #e5e7eb",
+    background: active ? "#111827" : "#ffffff",
+    color: active ? "#ffffff" : "#111827",
+    fontWeight: "500",
+    cursor: "pointer",
+    transition: "all 0.2s ease",
+  };
 }

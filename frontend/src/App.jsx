@@ -12,15 +12,21 @@ export default function App() {
         minHeight: "100vh",
         background: "#f8fafc",
         color: "#0f172a",
+        display: "flex",
+        flexDirection: "column",
       }}
     >
+      {/* TOP NAVBAR (Logo is inside this) */}
       <Navbar />
 
+      {/* MAIN CONTENT */}
       <main
         style={{
-          maxWidth: 1200,
+          flex: 1,
+          width: "100%",
+          maxWidth: "1200px",
           margin: "0 auto",
-          padding: 24,
+          padding: "24px 16px",
         }}
       >
         <Routes>
