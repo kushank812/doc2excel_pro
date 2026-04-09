@@ -1,7 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import UploadPage from "./pages/UploadPage";
-import HistoryPage from "./pages/HistoryPage";
 import DocumentDetailPage from "./pages/DocumentDetailPage";
 import SmartExtract from "./pages/SmartExtract";
 
@@ -10,29 +9,28 @@ export default function App() {
     <div
       style={{
         minHeight: "100vh",
-        background: "#f8fafc",
+        background:
+          "radial-gradient(circle at top, #f8fbff 0%, #f4f7fb 40%, #eef3f9 100%)",
         color: "#0f172a",
         display: "flex",
         flexDirection: "column",
       }}
     >
-      {/* TOP NAVBAR (Logo is inside this) */}
       <Navbar />
 
-      {/* MAIN CONTENT */}
       <main
         style={{
           flex: 1,
           width: "100%",
-          maxWidth: "1200px",
+          maxWidth: "1240px",
           margin: "0 auto",
-          padding: "24px 16px",
+          padding: "28px 16px 40px",
+          boxSizing: "border-box",
         }}
       >
         <Routes>
           <Route path="/" element={<UploadPage />} />
           <Route path="/smart-extract" element={<SmartExtract />} />
-          <Route path="/history" element={<HistoryPage />} />
           <Route path="/documents/:id" element={<DocumentDetailPage />} />
         </Routes>
       </main>

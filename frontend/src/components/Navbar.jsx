@@ -13,7 +13,7 @@ export default function Navbar() {
     <header
       style={{
         width: "100%",
-        background: "rgba(255,255,255,0.92)",
+        background: "rgba(255,255,255,0.94)",
         backdropFilter: "blur(12px)",
         WebkitBackdropFilter: "blur(12px)",
         borderBottom: "1px solid #e2e8f0",
@@ -25,11 +25,11 @@ export default function Navbar() {
       <div
         style={{
           width: "100%",
-          minHeight: 78,
+          minHeight: 76,
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
-          padding: "8px 20px 8px 6px",
+          padding: "8px 18px 8px 0",
           boxSizing: "border-box",
         }}
       >
