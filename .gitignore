@@ -10,6 +10,7 @@ dist/
 
 # Env
 .env
+backend/.env
 
 # Generated / temporary files
 backend/storage/
