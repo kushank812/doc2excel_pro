@@ -1,5 +1,7 @@
-const API_BASE =
+const RAW_API_BASE =
   import.meta.env.VITE_API_BASE || "http://127.0.0.1:8000";
+
+const API_BASE = RAW_API_BASE.replace(/\/+$/, "");
 
 async function parseError(res) {
   const contentType = res.headers.get("content-type") || "";
@@ -38,8 +40,7 @@ async function handle(res) {
     contentType.includes(
       "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     ) ||
-    contentType.includes("application/octet-stream") ||
-    contentType.includes("application/json")
+    contentType.includes("application/octet-stream")
   ) {
     return res;
   }
