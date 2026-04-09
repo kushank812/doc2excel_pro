@@ -52,6 +52,45 @@ async function handle(res) {
   return res;
 }
 
+function getFilenameFromDisposition(contentDisposition, fallback = "download.xlsx") {
+  if (!contentDisposition) return fallback;
+
+  const utf8Match = contentDisposition.match(/filename\*=UTF-8''([^;]+)/i);
+  if (utf8Match?.[1]) {
+    return decodeURIComponent(utf8Match[1]);
+  }
+
+  const basicMatch = contentDisposition.match(/filename="?([^"]+)"?/i);
+  if (basicMatch?.[1]) {
+    return basicMatch[1];
+  }
+
+  return fallback;
+}
+
+export async function downloadResponseFile(
+  res,
+  fallbackFileName = "download.xlsx"
+) {
+  const blob = await res.blob();
+  const contentDisposition = res.headers.get("content-disposition") || "";
+  const fileName = getFilenameFromDisposition(
+    contentDisposition,
+    fallbackFileName
+  );
+
+  const url = window.URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = fileName;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  window.URL.revokeObjectURL(url);
+
+  return fileName;
+}
+
 export async function apiGet(path) {
   const res = await fetch(`${API_BASE}${path}`, {
     method: "GET",

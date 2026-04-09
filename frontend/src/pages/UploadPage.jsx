@@ -1,92 +1,69 @@
-import { useMemo, useState } from "react";
+import { useState } from "react";
 
 const API_BASE =
   import.meta.env.VITE_API_BASE || "http://127.0.0.1:8000";
 
-function getStatusMeta(status) {
-  if (status === "passed") {
-    return {
-      label: "Passed",
-      bg: "#ecfdf5",
-      border: "#86efac",
-      text: "#166534",
-      chipBg: "#dcfce7",
-    };
+function getFilenameFromDisposition(contentDisposition, fallback = "ai_extract.xlsx") {
+  if (!contentDisposition) return fallback;
+
+  const utf8Match = contentDisposition.match(/filename\*=UTF-8''([^;]+)/i);
+  if (utf8Match?.[1]) {
+    return decodeURIComponent(utf8Match[1]);
   }
 
-  if (status === "review_recommended") {
-    return {
-      label: "Review Recommended",
-      bg: "#fffbeb",
-      border: "#fcd34d",
-      text: "#92400e",
-      chipBg: "#fef3c7",
-    };
+  const basicMatch = contentDisposition.match(/filename="?([^"]+)"?/i);
+  if (basicMatch?.[1]) {
+    return basicMatch[1];
   }
 
-  if (status === "review_required") {
-    return {
-      label: "Review Required",
-      bg: "#fef2f2",
-      border: "#fca5a5",
-      text: "#991b1b",
-      chipBg: "#fee2e2",
-    };
-  }
-
-  return {
-    label: "Unknown",
-    bg: "#f8fafc",
-    border: "#cbd5e1",
-    text: "#334155",
-    chipBg: "#e2e8f0",
-  };
+  return fallback;
 }
 
-function getWarningMeta(level) {
-  if (level === "error") {
-    return {
-      bg: "#fef2f2",
-      border: "#fecaca",
-      text: "#991b1b",
-    };
-  }
+async function downloadExcelResponse(res, fallbackName) {
+  const blob = await res.blob();
+  const contentDisposition = res.headers.get("content-disposition") || "";
+  const fileName = getFilenameFromDisposition(contentDisposition, fallbackName);
 
-  if (level === "warning") {
-    return {
-      bg: "#fffbeb",
-      border: "#fde68a",
-      text: "#92400e",
-    };
-  }
+  const url = window.URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = fileName;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  window.URL.revokeObjectURL(url);
 
-  return {
-    bg: "#f8fafc",
-    border: "#e2e8f0",
-    text: "#334155",
-  };
+  return fileName;
 }
 
-function getScoreMeta(score) {
-  if (score >= 85) {
-    return { text: "#166534", bar: "#22c55e", track: "#dcfce7" };
+async function parseError(res) {
+  const contentType = res.headers.get("content-type") || "";
+
+  try {
+    if (contentType.includes("application/json")) {
+      const data = await res.json();
+      return data?.detail || data?.message || data?.error || `HTTP ${res.status}`;
+    }
+
+    const text = await res.text();
+    return text || `HTTP ${res.status}`;
+  } catch {
+    return `HTTP ${res.status}`;
   }
-  if (score >= 65) {
-    return { text: "#92400e", bar: "#f59e0b", track: "#fef3c7" };
-  }
-  return { text: "#991b1b", bar: "#ef4444", track: "#fee2e2" };
 }
 
 export default function UploadPage() {
   const [file, setFile] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
-  const [result, setResult] = useState(null);
+  const [success, setSuccess] = useState("");
+  const [lastDownloadedFile, setLastDownloadedFile] = useState("");
 
   async function handleUpload(e) {
     e.preventDefault();
     setError("");
-    setResult(null);
+    setSuccess("");
+    setLastDownloadedFile("");
 
     if (!file) {
       setError("Please select a file first.");
@@ -104,30 +81,24 @@ export default function UploadPage() {
         body: fd,
       });
 
-      const data = await res.json();
-
       if (!res.ok) {
-        throw new Error(data?.detail || "Upload failed");
+        const message = await parseError(res);
+        throw new Error(message);
       }
 
-      setResult(data);
+      const downloadedName = await downloadExcelResponse(
+        res,
+        `${file.name.replace(/\.[^/.]+$/, "") || "ai_extract"}_extracted.xlsx`
+      );
+
+      setLastDownloadedFile(downloadedName);
+      setSuccess("Excel file downloaded successfully.");
     } catch (err) {
       setError(err.message || "Upload failed");
     } finally {
       setLoading(false);
     }
   }
-
-  const validation = result?.validation || null;
-  const warnings = validation?.warnings || [];
-  const statusMeta = useMemo(
-    () => getStatusMeta(validation?.status),
-    [validation?.status]
-  );
-  const scoreMeta = useMemo(
-    () => getScoreMeta(validation?.confidence_score || 0),
-    [validation?.confidence_score]
-  );
 
   return (
     <div style={pageStyle}>
@@ -138,8 +109,8 @@ export default function UploadPage() {
             <h1 style={titleStyle}>AI Document to Excel</h1>
             <p style={mutedStyle}>
               Upload a PDF or image and extract structured data into Excel using
-              AI-powered extraction with validation, confidence scoring, and
-              warning review.
+              AI-powered extraction. The generated Excel file is downloaded directly
+              after processing.
             </p>
           </div>
 
@@ -198,13 +169,22 @@ export default function UploadPage() {
 
           {error ? <div style={errorStyle}>{error}</div> : null}
 
+          {success ? (
+            <div style={successStyle}>
+              <div style={successTitleStyle}>{success}</div>
+              {lastDownloadedFile ? (
+                <div style={successSubStyle}>Downloaded file: {lastDownloadedFile}</div>
+              ) : null}
+            </div>
+          ) : null}
+
           <div style={buttonRowStyle}>
             <button disabled={loading} type="submit" style={buttonStyle}>
               {loading ? "Extracting with AI..." : "Upload and Extract"}
             </button>
 
             <div style={helperTextStyle}>
-              Higher quality extraction with workbook validation.
+              Higher quality extraction with direct Excel download.
             </div>
           </div>
         </form>
@@ -218,164 +198,18 @@ export default function UploadPage() {
           </div>
         </div>
         <div style={miniCardStyle}>
-          <div style={miniCardTitleStyle}>Workbook Validation</div>
+          <div style={miniCardTitleStyle}>Direct Download</div>
           <div style={miniCardTextStyle}>
-            Scores the extraction and flags risky output.
+            The extracted workbook downloads immediately after processing.
           </div>
         </div>
         <div style={miniCardStyle}>
-          <div style={miniCardTitleStyle}>Excel Ready</div>
+          <div style={miniCardTitleStyle}>Deployment Safe</div>
           <div style={miniCardTextStyle}>
-            Produces a cleaner workbook for real-world usage.
+            No permanent server storage is needed for uploads or generated files.
           </div>
         </div>
       </section>
-
-      {result ? (
-        <section style={resultCardStyle}>
-          <div style={resultHeaderStyle}>
-            <div>
-              <h2 style={sectionTitleStyle}>Extraction Complete</h2>
-              <div style={resultMetaGridStyle}>
-                <div>
-                  <strong>Mode:</strong> {result.mode || "ai"}
-                </div>
-                <div>
-                  <strong>Document ID:</strong> {result.document_id}
-                </div>
-                <div>
-                  <strong>Original File:</strong> {result.original_name}
-                </div>
-              </div>
-            </div>
-
-            <div style={actionRowStyle}>
-              <a
-                href={`${API_BASE}${result.excel_download_url}`}
-                target="_blank"
-                rel="noreferrer"
-                style={downloadButtonStyle}
-              >
-                Download Excel
-              </a>
-
-              <a
-                href={`${API_BASE}${result.json_download_url}`}
-                target="_blank"
-                rel="noreferrer"
-                style={secondaryButtonStyle}
-              >
-                Download JSON
-              </a>
-            </div>
-          </div>
-
-          {validation ? (
-            <div
-              style={{
-                ...validationCardStyle,
-                background: statusMeta.bg,
-                border: `1px solid ${statusMeta.border}`,
-                color: statusMeta.text,
-              }}
-            >
-              <div style={validationTopRowStyle}>
-                <div>
-                  <div style={validationTitleStyle}>Validation Result</div>
-                  <div style={validationSummaryStyle}>
-                    {validation.summary || "Validation summary not available."}
-                  </div>
-                </div>
-
-                <div
-                  style={{
-                    ...statusChipStyle,
-                    background: statusMeta.chipBg,
-                    color: statusMeta.text,
-                  }}
-                >
-                  {statusMeta.label}
-                </div>
-              </div>
-
-              <div style={scorePanelStyle}>
-                <div style={scoreLabelRowStyle}>
-                  <span style={scoreLabelStyle}>Confidence Score</span>
-                  <span style={{ ...scoreValueStyle, color: scoreMeta.text }}>
-                    {validation.confidence_score ?? 0}/100
-                  </span>
-                </div>
-
-                <div
-                  style={{
-                    ...scoreTrackStyle,
-                    background: scoreMeta.track,
-                  }}
-                >
-                  <div
-                    style={{
-                      ...scoreBarStyle,
-                      background: scoreMeta.bar,
-                      width: `${Math.max(
-                        0,
-                        Math.min(100, validation.confidence_score ?? 0)
-                      )}%`,
-                    }}
-                  />
-                </div>
-              </div>
-
-              <div style={warningHeaderWrapStyle}>
-                <h3 style={warningTitleStyle}>Warnings</h3>
-                <div style={warningCountStyle}>
-                  {warnings.length} item{warnings.length === 1 ? "" : "s"}
-                </div>
-              </div>
-
-              {warnings.length > 0 ? (
-                <div style={warningListStyle}>
-                  {warnings.map((warning, index) => {
-                    const meta = getWarningMeta(warning.level);
-                    return (
-                      <div
-                        key={`${warning.code || "warning"}-${index}`}
-                        style={{
-                          ...warningCardStyle,
-                          background: meta.bg,
-                          border: `1px solid ${meta.border}`,
-                          color: meta.text,
-                        }}
-                      >
-                        <div style={warningMetaStyle}>
-                          <span style={warningPillStyle}>
-                            {warning.level || "info"}
-                          </span>
-                          <span>
-                            <strong>Code:</strong> {warning.code || "-"}
-                          </span>
-                          <span>
-                            <strong>Sheet:</strong> {warning.sheet || "-"}
-                          </span>
-                        </div>
-                        <div style={warningMessageStyle}>{warning.message}</div>
-                      </div>
-                    );
-                  })}
-                </div>
-              ) : (
-                <div style={noWarningStyle}>No warnings found.</div>
-              )}
-            </div>
-          ) : null}
-
-          <div style={{ marginTop: 24 }}>
-            <h3 style={previewTitleStyle}>Workbook Preview</h3>
-            <pre style={previewStyle}>
-              {JSON.stringify(result.preview, null, 2)}
-            </pre>
-          </div>
-        </section>
-      ) : null}
     </div>
   );
 }
@@ -530,6 +364,23 @@ const errorStyle = {
   fontWeight: 600,
 };
 
+const successStyle = {
+  color: "#166534",
+  background: "#ecfdf5",
+  padding: 14,
+  borderRadius: 12,
+  border: "1px solid #86efac",
+};
+
+const successTitleStyle = {
+  fontWeight: 800,
+};
+
+const successSubStyle = {
+  marginTop: 4,
+  fontSize: 14,
+};
+
 const buttonRowStyle = {
   display: "flex",
   gap: 14,
@@ -579,213 +430,4 @@ const miniCardTextStyle = {
   color: "#64748b",
   lineHeight: 1.6,
   fontSize: 14,
-};
-
-const resultCardStyle = {
-  background: "#fff",
-  border: "1px solid #e2e8f0",
-  borderRadius: 20,
-  padding: 24,
-  boxShadow: "0 12px 30px rgba(15, 23, 42, 0.05)",
-};
-
-const resultHeaderStyle = {
-  display: "flex",
-  justifyContent: "space-between",
-  gap: 16,
-  flexWrap: "wrap",
-  alignItems: "flex-start",
-};
-
-const sectionTitleStyle = {
-  marginTop: 0,
-  marginBottom: 12,
-  fontSize: 24,
-  fontWeight: 900,
-  color: "#0f172a",
-};
-
-const resultMetaGridStyle = {
-  display: "grid",
-  gap: 8,
-  color: "#334155",
-};
-
-const actionRowStyle = {
-  display: "flex",
-  gap: 12,
-  flexWrap: "wrap",
-};
-
-const downloadButtonStyle = {
-  display: "inline-block",
-  background: "#0f172a",
-  color: "#fff",
-  textDecoration: "none",
-  padding: "12px 18px",
-  borderRadius: 12,
-  fontWeight: 800,
-};
-
-const secondaryButtonStyle = {
-  display: "inline-block",
-  background: "#fff",
-  color: "#0f172a",
-  textDecoration: "none",
-  border: "1px solid #cbd5e1",
-  padding: "12px 18px",
-  borderRadius: 12,
-  fontWeight: 800,
-};
-
-const validationCardStyle = {
-  marginTop: 22,
-  borderRadius: 18,
-  padding: 18,
-};
-
-const validationTopRowStyle = {
-  display: "flex",
-  justifyContent: "space-between",
-  alignItems: "flex-start",
-  gap: 12,
-  flexWrap: "wrap",
-};
-
-const validationTitleStyle = {
-  fontSize: 18,
-  fontWeight: 900,
-};
-
-const statusChipStyle = {
-  padding: "8px 12px",
-  borderRadius: 999,
-  fontSize: 12,
-  fontWeight: 900,
-  letterSpacing: 0.4,
-  textTransform: "uppercase",
-};
-
-const validationSummaryStyle = {
-  marginTop: 8,
-  lineHeight: 1.6,
-  maxWidth: 760,
-};
-
-const scorePanelStyle = {
-  marginTop: 18,
-};
-
-const scoreLabelRowStyle = {
-  display: "flex",
-  justifyContent: "space-between",
-  alignItems: "center",
-  gap: 12,
-  marginBottom: 8,
-};
-
-const scoreLabelStyle = {
-  fontWeight: 800,
-  color: "#0f172a",
-};
-
-const scoreValueStyle = {
-  fontWeight: 900,
-  fontSize: 16,
-};
-
-const scoreTrackStyle = {
-  height: 12,
-  borderRadius: 999,
-  overflow: "hidden",
-};
-
-const scoreBarStyle = {
-  height: "100%",
-  borderRadius: 999,
-  transition: "width 0.3s ease",
-};
-
-const warningHeaderWrapStyle = {
-  display: "flex",
-  justifyContent: "space-between",
-  alignItems: "center",
-  flexWrap: "wrap",
-  gap: 12,
-  marginTop: 20,
-  marginBottom: 12,
-};
-
-const warningTitleStyle = {
-  margin: 0,
-  fontSize: 17,
-  fontWeight: 900,
-  color: "#0f172a",
-};
-
-const warningCountStyle = {
-  color: "#64748b",
-  fontWeight: 700,
-};
-
-const warningListStyle = {
-  display: "grid",
-  gap: 10,
-};
-
-const warningCardStyle = {
-  borderRadius: 14,
-  padding: 14,
-};
-
-const warningMetaStyle = {
-  display: "flex",
-  gap: 10,
-  flexWrap: "wrap",
-  marginBottom: 8,
-  fontSize: 13,
-};
-
-const warningPillStyle = {
-  display: "inline-flex",
-  alignItems: "center",
-  padding: "4px 8px",
-  borderRadius: 999,
-  background: "rgba(255,255,255,0.55)",
-  fontWeight: 900,
-  textTransform: "uppercase",
-  fontSize: 11,
-};
-
-const warningMessageStyle = {
-  lineHeight: 1.6,
-};
-
-const noWarningStyle = {
-  padding: 14,
-  borderRadius: 12,
-  background: "#ecfdf5",
-  border: "1px solid #86efac",
-  color: "#166534",
-  fontWeight: 700,
-};
-
-const previewTitleStyle = {
-  marginTop: 0,
-  marginBottom: 12,
-  fontSize: 18,
-  fontWeight: 800,
-  color: "#0f172a",
-};
-
-const previewStyle = {
-  overflowX: "auto",
-  padding: 16,
-  background: "#0f172a",
-  color: "#e2e8f0",
-  borderRadius: 14,
-  fontSize: 12,
-  lineHeight: 1.65,
-  whiteSpace: "pre-wrap",
-  wordBreak: "break-word",
 };
