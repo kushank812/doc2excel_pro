@@ -1,4 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
+import logo from "../assets/sofvent-logo.png"; // ✅ THIS IS KEY
 
 export default function Navbar() {
   const location = useLocation();
@@ -22,7 +23,7 @@ export default function Navbar() {
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
-          padding: "8px 14px 8px 6px", // very small left padding
+          padding: "6px 16px 6px 0", // LEFT SIDE = 0
           boxSizing: "border-box",
         }}
       >
@@ -31,33 +32,30 @@ export default function Navbar() {
           style={{
             display: "flex",
             alignItems: "center",
-            justifyContent: "flex-start",
-            minWidth: 0,
             margin: 0,
             padding: 0,
           }}
         >
           <img
-            src="/logo.png"
+            src={logo}   // ✅ USE IMPORTED IMAGE
             alt="Sofvent"
             style={{
-              height: "48px",
+              height: "52px",
               width: "auto",
               display: "block",
-              margin: 0,
-              padding: 0,
               objectFit: "contain",
             }}
           />
         </div>
 
-        {/* RIGHT SIDE NAV */}
+        {/* RIGHT NAV */}
         <nav
           style={{
             display: "flex",
-            alignItems: "center",
             gap: "12px",
+            alignItems: "center",
             marginLeft: "auto",
+            paddingRight: "10px",
           }}
         >
           <Link to="/" style={{ textDecoration: "none" }}>
@@ -89,7 +87,5 @@ function btnStyle(active) {
     fontWeight: 600,
     fontSize: "15px",
     cursor: "pointer",
-    outline: "none",
-    boxShadow: "none",
   };
 }
